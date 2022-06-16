@@ -1,7 +1,7 @@
 # Data Models and Formats
 
 ## Definition
-This building block establishes a common format for data model specifications and serialization  of data in data exchange payloads. Combined with the Data Exchange APIs building block, this ensures full interoperability among participants.
+<div align="justify">This building block establishes a common format for data model specifications and serialization  of data in data exchange payloads. Combined with the Data Exchange APIs building block, this ensures full interoperability among participants.</div>
 
 ## Role and Scope
 It facilitates a common format for data model specifications and representation of data.
@@ -19,8 +19,10 @@ It facilitates a common format for data model specifications and representation 
 
 ## Components and Technologies
 ### DSBA - CTO architecture coherence
-JSON-LD (others too, RDF), Smart Data Models, Vocabulary Provider Component, Linked in IDS Infomodel (https://w3id.org/idsa/core). They are described in IDS Infomodel (https://w3id.org/idsa/core)
-RDF*, JSON-LD*, Linked Data Proofs, BBS+ Signatuores, ODLR, SHACL, Schema.org, ...
+- JSON-LD (amongst others, like RDF)
+- Smart Data Models
+- Vocabulary Provider Component
+- The descriptions and more information in [IDS Infomodel](https://w3id.org/idsa/core). (RDF*, JSON-LD*, Linked Data Proofs, BBS+ Signatuores, ODLR, SHACL, Schema.org, ...)
 
 ### i3-Market Project
 - Semantic Engine
