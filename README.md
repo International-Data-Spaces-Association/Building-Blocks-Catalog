@@ -36,6 +36,7 @@ The building blocks that provides data sovereignty and trust are:
 
 ## Governance Building Blocks
 <div align="justify"> The building blocks subsumed under this category refer to business, operational and organisational agreements among data spaces participants. These agreements are enforced through legal frameworks participants have to adhere to, or via technical building blocks:</div>
+
 - Business agreements comprise sercive leval agreement (SLA), data usage and access control policies as well as specified standards.
 - Organisational/operational building blocks
 - Publication and Marketplace Services														
