@@ -32,7 +32,11 @@ The building blocks that provides data sovereignty and trust are:
 - Trusted Exchange
 
 ## Data Value Building Blocks
-<div align="justify">These building blocks cover aspects such as publication of data offerings, discovery of such offerings based on metadata, and data access/usage accounting, which are essential to andle data as an economic asset.</div>
+These building blocks cover essential aspects to handle data as an economic asset: 
+- Metadata and Discovery Protocol
+- Data Access/Usage Accounting
+- Publication and Marketplace Services
+
 
 ## Governance Building Blocks
 <div align="justify"> The building blocks subsumed under this category refer to business, operational and organisational agreements among data spaces participants. These agreements are enforced through legal frameworks participants have to adhere to, or via technical building blocks:</div>
