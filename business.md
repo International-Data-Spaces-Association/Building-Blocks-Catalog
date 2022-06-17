@@ -7,21 +7,27 @@
 <div allign="justify"></div>
 
 ## Features
-### Design Principles Position Paper
+<details>
+  <summary><strong>Design Principles Position Paper</strong></summary>
+  
 - Operational Service Level Agreement (SLA)
 - Accounting Scheme
 - Billing/Charging Scheme
 - Data valuation method
 - Smart Contracts
 
+</details>
+
 ## Components and Technologies
-### i3-Market Project
+<details>
+  <summary><strong>i3-Market Project</strong></summary>
+
 - Notification Manager
 - Smart Contract Generator
 
-## Technical Reference Implementation
+</details>
 
-### DSBA - CTO architecture coherence
+## Technical Reference Implementation
 
 ## Business Use Cases Implementation
 
