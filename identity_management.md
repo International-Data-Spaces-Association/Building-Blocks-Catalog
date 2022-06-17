@@ -7,19 +7,28 @@
 <div allign="justify">Provides authentication and authorisation of data space participants.</div>
 
 ## Features 1
-### DSBA - CTO architecture coherence
+<details>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  
 - Identification
 - Authentication
 - Authorization policy description language
 - Authorization framework	
+</details>
 
 ## Components and Technologies 1
-### Design Principles Position Paper
-<div allign="justify"> Examples of open-source solutions are the KeyCloak infrastructure, the Apache Syncope IM platform52, the open-source IM platform of the Shibboleth Consortium53, or the FIWARE IM framework54. It would be particularly important to integrate the IM building block with the eID building block of the Connecting Europe Facility (CEF)55 supporting electronic identification of users across Europe.</div></br>
+<details>
+  <summary><strong>Design Principles Position Paper</strong></summary>
+  
+<div align="justify">Examples of open-source solutions are the KeyCloak infrastructure, the Apache Syncope IM platform52, the open-source IM platform of the Shibboleth Consortium53, or the FIWARE IM framework54. It would be particularly important to integrate the IM building block with the eID building block of the Connecting Europe Facility (CEF)55 supporting electronic identification of users across Europe.</div></br>
 
 Creation of federated and trusted identities in data spaces can be supported by European regulations such as EIDAS.
 
-### DSBA - CTO architecture coherence
+</details>
+
+<details>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  
 #### Level 1: Participant (organization, trusted party)
 - eIDAS, X.509, VC/VP
 - OpeniD/OAuth2 + iSHARE Satellite (current)
@@ -51,21 +60,34 @@ Creation of federated and trusted identities in data spaces can be supported by 
 - XACML variant by iSHARE (current); ODRL (For usage control, applications), user behavior can be implemented regarding use case and environment.
 - XACML PEP-PDP-PAP
 
-### i3-Market Project
+</details>
+
+<details>
+  <summary><strong>i3-Market Project</strong></summary>
+  
 User-centric Authentication.
 - W3C Verifiable 
 - Credentials Data Model 1.0
 - W3C Decentralized Identifiers (DIDs) v1.0
+  
+</details>
 
 ## Features 2
-### DSBA - CTO architecture coherence
+<details>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  
 - Digital Identities and Authentication
 - Digital Identities
 - Authorization
 - Identification & Authentication of Organisations, individuals, machines, etc.
 - Authorization framework	
 
+</details>
+  
 ## Components and Technologies 2
+<details>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  
 #### Level 1: Participant (organization, trusted party)
 - W3C
 - Verifiable Credentials
@@ -80,16 +102,24 @@ User-centric Authentication.
 - Keyrock IDM, which supports SSO OpenID Connect/OAuth2, 2-FactorAuth and LDAP federation (currently)
 - DID/VC/VP integration into i4Trust architecture for BC assisted authorization (under design, architecture)
 
-## Technical Reference Implementation
-### Design Principles Position Paper
-<div allign="justify">A user within an organisation registered with a data space provides his/her log-in credentials to the IM module in order to gain access to the data of the data space in line with his/her role in the organisation.</div>
+</details>
 
+## Technical Reference Implementation
+<details>
+  <summary><strong>Design Principles Position Paper</strong></summary>
+  
+<div allign="justify">A user within an organisation registered with a data space provides his/her log-in credentials to the IM module in order to gain access to the data of the data space in line with his/her role in the organisation.</div>
+</details>
 
 ## Business Use Cases Implementation
 
 ## Best practices identification and recommendations
-### i3-Market Project
+<details>
+  <summary><strong>i3-Market Project</strong></summary>
+  
 W3C Verifiable Credentials specification provides a standard way to express credentials on the Web being cryptographically secure, privacy respecting, and machine-verifiable.
+  
+</details>
 
 ## Gap or what is missing?
 
