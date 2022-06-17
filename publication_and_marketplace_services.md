@@ -6,15 +6,21 @@
 <div allign="justify">Provides a directory of the various data assets for dynamic access and discovery as well as management of established contracts.</div>
 
 ## Features 
-### DSBA - CTO architecture coherence
+<details>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  
 - Publication and Query
 - Standard information model and supporting APIs for the implementation of data marketplace services
 - Backend components implementing marketplace services
 - Data Catalogue / Publication functions to publish data resources which can be found via metadata and are connected with marketplace
 - (Portal) Public marketplace human readable information and marketing things, landing page,...
 
+</details>
+  
 ## Components and Technologies
-### DSBA - CTO architecture coherence
+<details>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  
 - FIWARE: 
   - TM Forum APIs specifications
   - FIWARE Business API Ecosystem (BAE) Marketplace components
@@ -22,13 +28,23 @@
   - Idra extensions planned to be developed during 2022
 - GAIA-X: Registry/Catalog
 - IDSA: Component IDS Meta Data Broker
+  
+</details>
 
-### i3-Market Project
+<details>
+  <summary><strong>i3-Market Project</strong></summary>
+  
 - DSA/DPA Smart Contract
+  
+</details>
 
 ## Technical Reference Implementation
-### Design Principles Position Paper
-<div align="justify">A data space user queries the data resources publication platform on specific data assets (e.g. based on content, theme, industry, etc.). Upon selecting the dataset she/he wants to access, she/he receives a link (e.g. an URL) to the dataset chosen</div>
+<details>
+  <summary><strong>Design Principles Position Paper</strong></summary>
+  
+<div align="justify">A data space user queries the data resources publication platform on specific data assets (e.g. based on content, theme, industry, etc.). Upon selecting the dataset she/he wants to access, she/he receives a link (e.g. an URL) to the dataset chosen.</div>
+  
+</details>
 
 ## Business Use Cases Implementation
 
