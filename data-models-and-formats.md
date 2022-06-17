@@ -54,9 +54,8 @@ It facilitates a common format for data model specifications and representation 
 </details>
 
 ## Business Use Cases Implementation
-### Design Principles Position Paper
 <details>
-  <summary><strong>iDesign Principles Position Paper</strong></summary>
+  <summary><strong>Design Principles Position Paper</strong></summary>
 <div align="justify">The Smart Agrifood domain needs a common representation of agronomic data (e.g. crops, senso data from the field, multispectral imagery from UAVs, geolocation data, fertilisation logs, …). This common data model shall be used for all data exchanged between software components.<div align="justify">
 </details>
 
