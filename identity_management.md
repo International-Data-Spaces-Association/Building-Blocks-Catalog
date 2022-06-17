@@ -43,7 +43,7 @@ Creation of federated and trusted identities in data spaces can be supported by 
 - ODRL based
 - PEP-PDP-PIP-PAP
 
-### Level 3: Application context/Users (individuals)
+#### Level 3: Application context/Users (individuals)
 - User+password (current)
 - VC/VP (planned)
 - OpenID/OAuth2 (current)
