@@ -6,14 +6,20 @@
 <div allign="justify">Enables publication of offerings centred around data resources and services, making use of common descriptions of resources, services, and participants.</div>
 
 ## Features 
-### DSBA - CTO architecture coherence
+<details>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  
 - Data Asset description
 - Reuse of standards
 - Standard metadata vocabulary for characterization of data resources
 - Discovery service based on standard metadata vocabulary
 
+</details>
+
 ## Components and Technologies
-### DSBA - CTO architecture coherence
+<details>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  
 - FIWARE: TM Forum APIs specifications (in the product description) or in CKAN in the dataset description
 - W3C DCAT v2 DCAT-AP (DCAT-AP 1.1 → DCAT-AP 2.0.0)
 - CKAN, SOCRATA, DKAN, etc
@@ -53,13 +59,23 @@
   - [time](http://www.w3.org/2006/time)
   - [odrl](http://www.w3.org/ns/odrl/2)
 
-### i3-Market Project
+</details>
+  
+<details>
+  <summary><strong>i3-Market Project</strong></summary>
+  
 - Smart Contract Manager
 - Auditable Accounting
+  
+</details>
 
 ## Technical Reference Implementation
-### Design Principles Position Paper
+<details>
+  <summary><strong>Design Principles Position Paper</strong></summary>
+  
 <div align="justify">A data space participant analyses the terms and conditions linked to a given data resource and acquires the corresponding access/usage rights in line with these terms and conditions.</div>
+  
+</details>
 
 ## Business Use Cases Implementation
 
