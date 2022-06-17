@@ -14,9 +14,9 @@ The taxonomy of building blocks constituting a data space will benefit various s
 ## Interoperability Building Blocks
 <div align="justify">These building blocks should be deployed by all data providers and data consumers participating in a data space. This way, each data provider can be sure that any data published can be technically consumed by any data consumer entitled to do so, while each data consumer can be sure they are able to technically access and use any data made available by any data provider selected. The following building blocks belong to this category:</div>
 
-- Data Models and Formats
-- Data Exchange APIs
-- Data Provenance and Traceability
+- [Data Models and Formats](./data-models-and-formats.md)
+- [Data Exchange APIs](./data-exchange-APIs.md)
+- [Data Provenance and Traceability](./provenance_and_traceability.md)
 
 ## Data sovereignty and trust Building Blocks
 <div align="justify">Data sovereignty and trust Building Blocks regaining control over their data, and as data becomes portable between providers on a  user-controlled consent basis. Users can switch between providers without losing their data  and vendor lock-in will become a phenomenon of the past. For participants in data spaces, data sovereignty means two things:</div></br>
@@ -27,20 +27,20 @@ The taxonomy of building blocks constituting a data space will benefit various s
 <div align="justify">These building blocks includes the data ownership policies that requires agile and standardised ICT capabilities when such agreements are to be negotiated dynamically. We need to establish a semantic interoperability of policiesand behavioural interoperability of policies.</div>
 
 The building blocks that provides data sovereignty and trust are:
-- Identity Management (IM)
-- Access and Usage Control/Policies
-- Trusted Exchange
+- [Identity Management (IM)](./identity_management.md)
+- [Access and Usage Control/Policies](./access_and_usage_control.md)
+- [Trusted Exchange](./trusted_exchange.md)
 
 ## Data Value Building Blocks
 These building blocks cover essential aspects to handle data as an economic asset: 
-- Metadata and Discovery Protocol
-- Data Access/Usage Accounting
-- Publication and Marketplace Services
+- [Metadata and Discovery Protocol](./metadata_and_discovery_protocol.md)
+- [Data Access/Usage Accounting](./data_usage_accounting.md)
+- [Publication and Marketplace Services](./publication_and_marketplace_services.md)
 
 
 ## Governance Building Blocks
 <div align="justify"> The building blocks subsumed under this category refer to business, operational and organisational agreements among data spaces participants. These agreements are enforced through legal frameworks participants have to adhere to, or via technical building blocks:</div>
 
-- Business agreements comprise sercive leval agreement (SLA), data usage and access control policies as well as specified standards.
-- Organisational/operational building blocks
+- [Business](./business.md) agreements comprise sercive leval agreement (SLA), data usage and access control policies as well as specified standards.
+- [Organisational/operational building blocks](./organisational_and_operational.md)
 - Continuity model													
