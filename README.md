@@ -43,4 +43,4 @@ These building blocks cover essential aspects to handle data as an economic asse
 
 - [Business](./business.md) agreements comprise sercive leval agreement (SLA), data usage and access control policies as well as specified standards.
 - [Organisational/operational building blocks](./organisational_and_operational.md)
-- Continuity model													
+- [Continuity model](./continuity_model.md)												
