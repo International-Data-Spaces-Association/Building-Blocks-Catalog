@@ -1,3 +1,4 @@
+# Access and usage control
 ## Definition
 <div align="justify">This building block guarantees enforcement of data access and usage policies defined as part of the terms and conditions established when data resources or services are published (see ‘Publication and Services Marketplace’ building block below) or negotiated between providers and consumers. A data provider typically implements data access control mechanisms to prevent misuse of resources, while data usage control mechanisms are typically implemented on the data consumer side to prevent misuse of data. In complex data value chains, both mechanisms are combined by prosumers. Access control and usage control rely on identification and authentication.</div> 
 
@@ -12,7 +13,7 @@
 - Enforcement of policy rules
 - Policy administration and management
 - Definition of credentials / roles
-- Usage Control for data sovereignty"
+- Usage Control for data sovereignty
 
 ## Components and Technologies
 ### DSBA - CTO architecture coherence
