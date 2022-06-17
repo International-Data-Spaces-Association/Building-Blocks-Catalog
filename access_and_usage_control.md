@@ -6,7 +6,9 @@
 <div allign="justify">Enforces different data access and usage policies that ensure trustworthiness of data sharing and exchange between participants.</div>
 
 ## Features 
-### DSBA - CTO architecture coherence
+<details>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+ 
 - Access Control
 - Usage Control
 - Policy rules definition language
@@ -14,18 +16,28 @@
 - Policy administration and management
 - Definition of credentials / roles
 - Usage Control for data sovereignty
+  
+</details>
 
 ## Components and Technologies
-### DSBA - CTO architecture coherence
+<details>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  
 - Policy Enforcement based on XACML, extend with PXP for Usage Policy Enforcement. 
 - IDSA: ODRL, XACML-oriented framework (PEP-PDP-PIP-PDP), Custom PAP
 - FIWARE: XACML-like (iSHARE  delegation evidence data model, JSON port of XACML) implemented in Keyrock, XACML-based PEP-PDP-PAM framework, API Umbrella is iSHARE-compliant (github, Tutorials), XACML-based implemented in Keyrock (with AuthZForce component (ReadTheDocs), DID.
+  
+</details>
 
-### i3-Market Project
+<details>
+  <summary><strong>i3-Market Project</strong></summary>
+  
 - Blockchain Framework
 - HW Wallet
 - Explicit-User consent
 
+</details>
+  
 ## Technical Reference Implementation
 ### Design Principles Position Paper
 <div allign="justify">Enforcing Data Protection Regulations in Health Care Applications. When a company is processing patient records for the sake of accounting an billing as a service to doctors and insurances, it is thus in the interest of the company to ensure that it complies to those regulations.</div>
