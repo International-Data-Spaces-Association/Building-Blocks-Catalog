@@ -20,9 +20,11 @@
 <details>
   <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
-- FIWARE: TM Forum APIs specifications (in the product description) or in CKAN in the dataset description
-- W3C DCAT v2 DCAT-AP (DCAT-AP 1.1 → DCAT-AP 2.0.0)
-- CKAN, SOCRATA, DKAN, etc
+- FIWARE: 
+  - [TM Forum APIs specifications](https://projects.tmforum.org/wiki/display/API/Open+API+Table) (in the product description) or in CKAN in the dataset description
+  - [W3C DCAT v2](https://www.w3.org/TR/vocab-dcat-2/)
+  - [DCAT-AP](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe) ([DCAT-AP 1.1](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe/release/11) → [DCAT-AP 2.0.0](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe/release/200))
+  - FIWARE [Idra](https://github.com/OPSILab/Idra) component, supporting federation with most popular data publication platforms (CKAN, SOCRATA, DKAN, etc)
 - IDSA: 
   - [IDS Informodel](https://w3id.org/idsa/core)
   - [ids](https://w3id.org/idsa/core)
