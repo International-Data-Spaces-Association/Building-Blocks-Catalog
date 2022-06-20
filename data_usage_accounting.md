@@ -21,9 +21,9 @@ Facilitates the basis for accounting access to and/or usage of data by different
   <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
 - FIWARE: 
-  - TM Forum APIs specification
-  - FIWARE Business API Ecosystem (BAE) Marketplace components. They can offer products in multiple variants (prices, terms, licences, bundels…). Customers can check and buy, manually request a new variant and then see version1.
-- GAIA-X: Data Contracting Service as part of GXFS?
+  - [TM Forum APIs specification](https://projects.tmforum.org/wiki/display/API/Open+API+Table)
+  - [FIWARE Business API Ecosystem (BAE)](https://github.com/FIWARE-TMForum/Business-API-Ecosystem) Marketplace components. They can offer products in multiple variants (prices, terms, licences, bundels…). Customers can check and buy, manually request a new variant and then see version1.
+- GAIA-X: Data Contracting Service as part of GXFS
 - IDSA: Component Clearing House (Specifies data contracts and contract negotiation)
   
 </details>
