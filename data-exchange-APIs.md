@@ -3,7 +3,7 @@
 ## Definition
 <div align="justify"> This building block facilitates the sharing and exchange of data (i.e., data provision and data 
   consumption/use) between data space participants. An example of a data interoperability building block is the ‘Context Broker’ 
-  of the Connecting Europe Facility (CEF),  which is recommended by the European Commission for sharing right-time (near real-time)data 
+  of the Connecting Europe Facility (CEF),  which is recommended by the European Commission for sharing right-time (near real-time) data 
   among multiple organisations.</div> 
 
 ## Role and Scope
@@ -21,6 +21,9 @@
   - federation
 - Extend protocols with metadata
 - Handshake
+- REST
+- HTTP Multipart
+- IDSCP (V2)
   
 </details>
 
@@ -28,11 +31,11 @@
 <details>
   <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
-- ETSI NGSI-LD API spec
+- [ETSI NGSI-LD API spec](https://www.etsi.org/deliver/etsi_gs/CIM/001_099/009/01.04.02_60/gs_CIM009v010402p.pdf)
 - DCAT-AP
-- Context Broker
+- [Context Broker](https://github.com/FIWARE/catalogue#core-context-broker-components)
 - IDS-Handshake
-- OpenAPI
+- [OpenAPI](http://market40.eu/wp-content/uploads/MARKET4.0-OC1-winners-2nd-Webinar-OpenAPI-Data-Open.pdf)
 - EDC
 - Ocean Protocol
   
@@ -65,7 +68,23 @@
 
 ## Business Use Cases Implementation
 
+<details>
+  <summary><strong>Design Principles Position Paper</strong></summary>
+  
+- Domain Data Standard: In manufacturing data spaces, a combination of different standards is used to describe the syntax and semantics of data transactions (e.g. ISO 10303, Asset Administration Shell, eCl@ss).
+  
+</details>
+
 ## Best practices identification and recommendations
+
+<details>
+  <summary><strong>Design Principles Position Paper</strong></summary>
+  
+<div align="justify">To ensure interoperability between all data space participants, the technical measures need to be continuously maintained. This includes general agreements and domain specific models. The continuity model provides measures for change, release, and version management.</div></br>
+  
+- Domain Data Standard: It provides the syntax and semantics for data exchange and data sharing on different levels, in a specific sector or domain. To achieve specific goals, multiple standards can be used in combination. 
+
+</details>
 
 ## Gap or what is missing?
 
