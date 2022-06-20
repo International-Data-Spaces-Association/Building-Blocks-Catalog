@@ -28,7 +28,7 @@ It facilitates a common format for data model specifications and representation 
   <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
 - JSON-LD (amongst others, like RDF)
-- Smart Data Models
+- [Smart Data Models](https://github.com/smart-data-models)
 - Vocabulary Provider Component
 - The descriptions and more information in [IDS Infomodel](https://w3id.org/idsa/core). (RDF*, JSON-LD*, Linked Data Proofs, BBS+ Signatuores, ODLR, SHACL, Schema.org, ...)
 </details>
