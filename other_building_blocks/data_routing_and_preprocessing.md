@@ -1,4 +1,4 @@
-# Data Analytics Engine (DAE)
+# Data Routing and Preprocessing (DR&P)
 
 ## Definition
 <div align="justify">There may be a need for dynamic routing of data to the proper data-processing node (as part of a dynamic data-routing function). The building block for data routing and preprocessing is usually a data middleware platform (or a combination of two or more such platforms). These address different technical requirements, depending on the nature of the data that is collected and routed (e.g. streaming data, data at rest). </div> 
