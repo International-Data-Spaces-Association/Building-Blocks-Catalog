@@ -1,6 +1,6 @@
 # Publication and Marketplace Services
 ## Definition
-<div align="justify">To support the offering of data resources and services under defined terms and conditions, marketplaces must be established. This building block supports publication of these offerings, management of processes linked to the creation and monitoring of smart contracts (which clearly describe the rights and obligations for data and service usage), and access to data and services. </div> 
+<div align="justify">To support the offering of data resources and services under defined terms and conditions, including applicable pricing models, marketplaces must be established. This building block supports publication of these offerings, management of processes linked to the creation and monitoring of smart contracts (which clearly describe the rights and obligations for data and service usage), and access to data and services. </div> 
 
 ## Role and Scope
 <div allign="justify">Provides a directory of the various data assets for dynamic access and discovery as well as management of established contracts.</div>
@@ -22,9 +22,9 @@
   <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
 - FIWARE: 
-  - TM Forum APIs specifications
-  - FIWARE Business API Ecosystem (BAE) Marketplace components
-  - CKAN with extensions to connect with BAE Marketplace functions
+  - [TM Forum APIs specifications](https://projects.tmforum.org/wiki/display/API/Open+API+Table)
+  - [FIWARE Business API Ecosystem (BAE) Marketplace components](https://github.com/FIWARE-TMForum/Business-API-Ecosystem)
+  - [CKAN with extensions](https://fiware-ckan-extensions.readthedocs.io/en/latest/) to connect with BAE Marketplace functions
   - Idra extensions planned to be developed during 2022
 - GAIA-X: Registry/Catalog
 - IDSA: Component IDS Meta Data Broker
@@ -45,6 +45,13 @@
 <div align="justify">A data space user queries the data resources publication platform on specific data assets (e.g. based on content, theme, industry, etc.). Upon selecting the dataset she/he wants to access, she/he receives a link (e.g. an URL) to the dataset chosen.</div>
   
 </details>
+<details>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  Simplified version of model specified by TM Forum:
+  
+  <img src="images/Marketservices_TM_Forum_APIs.png" width="640" align="center"></br>
+</details>
+
 
 ## Business Use Cases Implementation
 
