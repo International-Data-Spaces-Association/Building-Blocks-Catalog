@@ -3,7 +3,7 @@
 <div align="justify"></div> 
 
 ## Role and Scope
-<div allign="justify"></div>
+<div allign="justify">It includes emergency actions, error handling, status monitoring/reporting and performance monitoring/reporting, … </div>
 
 ## Features
 
