@@ -7,6 +7,7 @@
 <div allign="justify">Provides authentication and authorisation of data space participants.</div>
 
 ## Features 1
+**[TODO:] ASK FOR A DEFINITION OF FEATURES 1** 
 <details>
   <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
@@ -29,8 +30,13 @@ Creation of federated and trusted identities in data spaces can be supported by 
 <details>
   <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
+  
+  **[TODO:] ASK FOR A DEFINITION OF LEVELS**
+  
 #### Level 1: Participant (organization, trusted party)
-- eIDAS, X.509, VC/VP
+- eIDAS
+- X.509
+- VC/VP (planned)
 - OpeniD/OAuth2 + iSHARE Satellite (current)
 - Verifiable Data Registry (planned)
 - OAuth2
@@ -38,12 +44,14 @@ Creation of federated and trusted identities in data spaces can be supported by 
 - OpenID Connect
 - DID
 - XACML variant by iSHARE (current)
+- TBD (planned)
 - XACML (recommended)
-- XACML PEP-PDP-PAP
+- XACML
+- PEP-PDP-PAP
 
 #### Level 2: Container or application execution environment.
 (e.g. Connector)
-- X.509 (planned)
+- X.509
 - DAT signed DAPS to coexist with VC/VP (planned)
 - DAT signed DAPS (Oauth2 based),to coexist with VC/VP (planned)
 - IDS ODRL-based to be reconciled with TBD (planned)
@@ -53,12 +61,15 @@ Creation of federated and trusted identities in data spaces can be supported by 
 - PEP-PDP-PIP-PAP
 
 #### Level 3: Application context/Users (individuals)
-- User+password (current)
+- User + password (current)
 - VC/VP (planned)
 - OpenID/OAuth2 (current)
 - Verifiable Data Registry (planned)
-- XACML variant by iSHARE (current); ODRL (For usage control, applications), user behavior can be implemented regarding use case and environment.
-- XACML PEP-PDP-PAP
+- XACML variant by iSHARE (current)
+- TBD (planned)
+- ODRL (For usage control, applications), user behavior can be implemented regarding use case and environment.
+- XACML
+- PEP-PDP-PAP
 
 </details>
 
@@ -73,6 +84,7 @@ User-centric Authentication.
 </details>
 
 ## Features 2
+**[TODO:] ASK FOR A DEFINITION OF FEATURES 2** 
 <details>
   <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
@@ -99,9 +111,11 @@ User-centric Authentication.
 - JWT
 
 #### Level 3: Application context/Users (individuals)
-- Keyrock IDM, which supports SSO OpenID Connect/OAuth2, 2-FactorAuth and LDAP federation (currently)
-- DID/VC/VP integration into i4Trust architecture for BC assisted authorization (under design, architecture)
+- Keyrock IDM, which supports SSO [OpenID Connect](https://openid.net/connect/)/[OAuth2](https://oauth.net/2/), 2-FactorAuth and LDAP federation (currently)
+- DID/VC/VP integration into i4Trust architecture for BC assisted authorization (under design, [architecture](https://github.com/hesusruiz/PrivacyCredentials/blob/main/docs/architecture/privacy-architecture.md))
 
+<img src="images/Identity_Management_Components2.png" width="640" align="center"> </br>
+  
 </details>
 
 ## Technical Reference Implementation
@@ -112,12 +126,17 @@ User-centric Authentication.
 </details>
 
 ## Business Use Cases Implementation
+<details>
+  <summary><strong>Design Principles Position Paper</strong></summary>
+<div allign="justify">A user within an organisation registered with a data space provides his/her log-in credentials to the IM module in order to gain access to the data of the data space in line with his/her role in the organisation.</div>
 
+</details>
+  
 ## Best practices identification and recommendations
 <details>
   <summary><strong>i3-Market Project</strong></summary>
   
-W3C Verifiable Credentials specification provides a standard way to express credentials on the Web being cryptographically secure, privacy respecting, and machine-verifiable.
+<div allign="justify">W3C Verifiable Credentials specification provides a standard way to express credentials on the Web being cryptographically secure, privacy respecting, and machine-verifiable.</div>
   
 </details>
 
