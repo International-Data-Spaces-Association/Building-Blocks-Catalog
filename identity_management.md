@@ -127,8 +127,8 @@ User-centric Authentication.
 
 ## Business Use Cases Implementation
 <details>
-  <summary><strong>Design Principles Position Paper</strong></summary>
-<div allign="justify">A user within an organisation registered with a data space provides his/her log-in credentials to the IM module in order to gain access to the data of the data space in line with his/her role in the organisation.</div>
+  <summary><strong>Catena X</strong></summary>
+<div allign="justify"></div>
 
 </details>
   
