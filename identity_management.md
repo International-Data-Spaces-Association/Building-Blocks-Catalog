@@ -127,8 +127,15 @@ User-centric Authentication.
 
 ## Business Use Cases Implementation
 <details>
-  <summary><strong>Catena X</strong></summary>
-<div allign="justify"></div>
+  <summary><strong>Catena-X</strong></summary>
+<div allign="justify">Based on sovereignty and standardization, Catena-X creates a network in which data exchange as well as the provision and use of value-added services is realized. Access to the network is centralized via the Catena-X Portal. With focus on usability, the portal integrates different Catena-X services on a suitable user interface.</div></br>
+  
+  
+<div allign="justify">Participants get access to different services and business applications. As a trusted network, the Catena-X Portal has the ability to solve daily challenges quickly and easily. Participants not only receive a transparent presentation of all offers and services, but also a resource-efficient connection to the value creation of the automotive industry.</div></br>
+  
+<div allign="justify">The Catena-X portal will be implemented by means of a customer-friendly connection process and a central identity and user management system. On the other hand, a marketplace for applications and data as well as a developer hub will serve for the realization.</div></br>
+
+More details about [Catena-X Portal](https://catena-x.net/en/angebote/portal).
 
 </details>
   
