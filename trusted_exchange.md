@@ -19,6 +19,17 @@
  
 </details>
 
+<details>
+  <summary><strong>i3-Market Project</strong></summary>
+ 
+- An Identity and Access Management system based on Decentralized/Self Sovereign Identity and Verifiable Credentials
+- Smart Wallets with different level of security (Cloud/HW Wallet).
+- Smart Contracts.
+- A Data monetization system based on crypto currency for secure, trusted and cost-effective peer-to-peer payments.
+ 
+Go to the [source](http://open-source.i3-market.eu/technical-information/i3-market-architecture/).
+</details>
+
 ## Components and Technologies
 <details>
   <summary><strong>DSBA - CTO architecture coherence</strong></summary>
@@ -48,15 +59,17 @@
   <summary><strong>i3-Market Project</strong></summary>
  
 - Tokenization
- 
+- interaction with the decentralized ledger of the Data Storage system and with the Data Access System for the monetization of the data assets.
+
+<img src="images/Trust_i3_Market.png" width="640" align="center"> </br>
 </details>
 
 ## Technical Reference Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
  
-<div align="justify">"Trust is a necessary feature in any data-sharing environment, i.e. also for predictive maintenance. Unfortunately, predictive maintenance is difficult to achieve, as algorithms used are still not as effective as desired, and the quality of outcome often is not sufficient, due to a lack of reliable data. Nevertheless, integrating and leveraging data from partners – and even from competitors or companies from different sectors (OEMs, maintenance equipment producers, energy companies) – can be of great benefit for all participants.
-To overcome the lack of trust currently still prevailing, data sovereignty concepts and services should be employed"</div>
+<div align="justify">Trust is a necessary feature in any data-sharing environment, i.e. also for predictive maintenance. Unfortunately, predictive maintenance is difficult to achieve, as algorithms used are still not as effective as desired, and the quality of outcome often is not sufficient, due to a lack of reliable data. Nevertheless, integrating and leveraging data from partners – and even from competitors or companies from different sectors (OEMs, maintenance equipment producers, energy companies) – can be of great benefit for all participants.
+To overcome the lack of trust currently still prevailing, data sovereignty concepts and services should be employed</div>
  
 </details>
 
