@@ -68,6 +68,13 @@
   
 - Smart Contract Manager
 - Auditable Accounting
+- Offering registration
+- Semantic mapping
+- Vocabulary management
+- Offering Discovery
+- Semantic orchestrator
+  
+For more detailed information visit the [source's webpage.](http://open-source.i3-market.eu/technical-information/i3-market-architecture/)
   
 </details>
 
