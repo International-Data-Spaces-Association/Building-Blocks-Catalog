@@ -95,6 +95,27 @@ User-centric Authentication.
 - Authorization framework	
 
 </details>
+<details>
+  <summary><strong>i3-Market Project</strong></summary>
+  
+- Authentication and Authorization
+  - Policy management
+  - Role management
+- Secure Data Transfer and Anonymization
+  - Data Encryption
+  - Proxy
+- Data Transfer Transparency
+  - Data Transfer Management
+  - Data Transfer Tracking
+  - Data Transfer Monitor
+- Data Management
+  - Batch Data Transfer Management
+  - Data Stream Management
+
+![Level 2 structure - i3 Market](./images/IM_level2_i3_Market.png)
+  
+Go to the [source](http://open-source.i3-market.eu/technical-information/i3-market-architecture/) for more detailed information.
+</details>
   
 ## Components and Technologies 2
 <details>
