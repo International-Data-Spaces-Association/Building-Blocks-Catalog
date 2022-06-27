@@ -64,6 +64,25 @@ Go to the [source](http://open-source.i3-market.eu/technical-information/i3-mark
 <img src="images/Trust_i3_Market.png" width="640" align="center"> </br>
 </details>
 
+
+<details>
+  <summary><strong>Smart Connected Supplier Network</strong></summary>
+ 
+ - Digital platforms, interconnected using IDS
+ - Independent ‘address book’ for routing communication
+ - Several providers
+ - One-time integration with own ERP system
+ - Registration in the SCSN address book
+</details>
+
+<details>
+  <summary><strong>ECI</strong></summary>
+ 
+ - [ECI Gatewise](https://www.ecisolutions.com/en-gb/)
+ - IDS Connector
+ - SCSN platform
+</details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
@@ -74,13 +93,38 @@ To overcome the lack of trust currently still prevailing, data sovereignty conce
 </details>
 
 ## Business Use Cases Implementation
+<details>
+  <summary><strong>ECI</strong></summary>
+<div align="justify">A metal company purchases metal sheets to their providers as well as they receive orders from customers. Through the SCSN and IDS network they can receive orders through ECI gatewise and the IDS network to supply drive. Therefore, they can send a purchase order to their providers and they can receive purchase orders from their clients, even though they have different platforms. Information can be transmitted no matter where connectors and suppliers are connected, making sure that every type of business gets digitized and isn’t left behind.</div>
+</details>
 
 ## Best practices identification and recommendations
 
 ## Gap or what is missing?
 
 ## TRL
+<details>
+  <summary><strong>High TRL</strong></summary>
+ 
+ - High-tech domain: Smart Connected Supplier Network (SCSN) + IDSA
+</details>
+<details>
+  <summary><strong>Low TRL</strong></summary>
+ 
+ - Metal domain: Market 4.0
+ - Plastic domain: Market 4.0
+</details>
 
 ## Comments
 
 ## Additional Information
+<details>
+  <summary><strong>ECI</strong></summary>
+ 
+ What does IDS bring to our customers?
+ - Chain integration: Enable customer supplier connections cross platforms.
+ - Service customers: Receive orders from customer via SCSN with engineering drawings.
+ - Speed up supply Chain: Send out own digital purchase orders, with less time and faster delivery.
+ - Inform customers: Digital dispatch note about what has been sent.
+ - Overall productivity improvement of 20%
+</details>
