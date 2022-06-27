@@ -78,6 +78,22 @@ For more detailed information visit the [source's webpage.](http://open-source.i
   
 </details>
 
+<details>
+  <summary><strong>TNO</strong></summary>
+  
+  - IDS Connector (including Access/Usage Control)
+  - IDS Data Apps (and APIs)
+  - IDS Broker
+  - IDS DAPS
+  - IDS Clearing House.
+
+  In process of developing:
+  - Vocabulary Hub
+  - App Store
+  - Federated Catalogue
+  - Federated Identity Management. 
+</details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
@@ -89,8 +105,18 @@ For more detailed information visit the [source's webpage.](http://open-source.i
 ## Business Use Cases Implementation
 
 ## Best practices identification and recommendations
+<details>
+  <summary><strong>TNO</strong></summary>
+  
+  - It's recommended that end-users don't develop the IDS components by themselves. Instead, they can use the services offered by IT integrators.
+</details> 
 
 ## Gap or what is missing?
+<details>
+  <summary><strong>TNO</strong></summary>
+  - Components related to federation of data spaces are still under active R&D and require more attention.
+  - Governance and legal building blocks are still not completely defined. 
+</details>
 
 ## TRL
 
