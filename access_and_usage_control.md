@@ -75,6 +75,14 @@
 <img src="images/Access_i3_Market.png" width="640" align="center"></br>
 
 </details>
+
+<details>
+  <summary><strong>Resilience and Sustainability Data Space - ADVANEO</strong></summary>
+  
+  - IDSA and GAIA-X standards
+  - ADVANEO's Trusted Data Hub
+  - IDS Components: broker, connector, clearing house and app provider
+</details>
   
 ## Technical Reference Implementation
 <details>
@@ -87,6 +95,12 @@
 <details>
   <summary><strong>truzzt box</strong></summary>
   <div align="justify">In the <a href="https://www.truzzt.com/en/">truzzt box</a> your documents are always available for you and you are always in control, not even truzzt has access to your personal documents. As a verified user of your truzzt box you always know who you are dealing with, you only buy from real, verified merchants and personal data will always remain encrypted and safe. Besides. The truzzt box will automatically adapt to your usage with its artificial intelligence. </div>
+  
+</details>
+
+<details>
+  <summary><strong>Resilience and Sustainability Dataspace - ADVANEO</strong></summary>
+  <div align="justify">Companies and organizations as users of the <a href="https://www.resilience-sustainability-dataspace.eu/">Resilience and Sustainability Dataspace</a> benefit from the data-based approach of a digital infrastructure to integrate decentralized information in a protected virtual space. With this infrastructure users are either able to apply already implemented services or to develop new services supporting our users in order to gain new insights and knowledge about. In the end, this enables users to seamlessly build their own trustworthy resilience and sustainability ecosystems. </div>
   
 </details>
 
