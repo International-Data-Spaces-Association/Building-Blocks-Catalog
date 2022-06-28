@@ -98,6 +98,12 @@ To overcome the lack of trust currently still prevailing, data sovereignty conce
 <div align="justify">A metal company purchases metal sheets to their providers as well as they receive orders from customers. Through the SCSN and IDS network they can receive orders through ECI gatewise and the IDS network to supply drive. Therefore, they can send a purchase order to their providers and they can receive purchase orders from their clients, even though they have different platforms. Information can be transmitted no matter where connectors and suppliers are connected, making sure that every type of business gets digitized and isn’t left behind.</div>
 </details>
 
+<details>
+  <summary><strong>ADVANEO DMP</strong></summary>
+ 
+<div align="justify">The <a href="https://www.advaneo-datamarketplace.de/en/#">ADVANEO DMP</a> is a collaboration portal that enables the data-sovereign formation of Data Spaces for data-driven applications. Integrated AI tools, data models and applications as well as free access to millions of Open Data support the development of data-driven innovation projects. The DMP has no contact with the actual raw data, being directly transmitted to the interested party in peer-to-peer encrypted form by an IDS-Connector. Only the exploitation result is accessible, enabling the sharing of confidential data in value chains.</div>
+</details>
+
 ## Best practices identification and recommendations
 
 ## Gap or what is missing?
