@@ -59,6 +59,12 @@ It facilitates a common format for data model specifications and representation 
 - Data Schema
 - Relational Data Schema
 </details>
+<details>
+  <summary><strong>Smart Connected Supplier Network</strong></summary>
+<div align="justify">SCSN is structured according to the four-corner model. The SCSN network is a network of networks in which all service providers/brokers are connected to each other. This enables every manufacturing company to communicate with all other manufacturing companies in the SCSN network, irrespective of the service providers to which the manufacturing companies are affiliated. This is made possible by strict technical and commercial agreements between the service providers, which are managed by the independent SCSN Foundation.</div>
+  
+<a href="https://smart-connected.nl/en/about-scsn/how-it-works"><img src="images/SCSN-Graphic.jpg" alt="SCSN's webpage"></a>
+</details>
 
 ## Business Use Cases Implementation
 <details>
