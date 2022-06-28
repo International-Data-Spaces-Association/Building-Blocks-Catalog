@@ -46,7 +46,7 @@ These building blocks cover essential aspects to handle data as an economic asse
 - [Continuity model](./continuity_model.md)
 
 ## The importance of using building blocks
-<div align="justify">Several companies have already reported their improvements and results when using building blocks: </div>
+<div align="justify">Several companies have already reported their thoughts, improvements and results when using building blocks: </div></br>
 
 <details>
   <summary><strong>Smart Connected Supplier Network</strong></summary>
@@ -56,4 +56,12 @@ These building blocks cover essential aspects to handle data as an economic asse
   - The transaction costs of the supply chain are reduced.
   
   Visit [SCSN webpage](https://smart-connected.nl/en) for more information.
+</details>
+<details>
+  <summary><strong>ADVANEO Data Marketplace</strong></summary>
+  - The data marketplace has been developed as a decentralized portal, all relevant and possibly sensitive raw data always remain with the data provider and only is transferred directly to the buyer in the event of a purchase.
+  - It gives the opportunity of monetizing data.
+  - Open data can be used to open up new perspectives and lift your data project to the next level.
+  
+  Visit [ADVANEO DMP webpage](https://www.advaneo-datamarketplace.de/en/#) for more information.
 </details>
