@@ -114,6 +114,7 @@ For more detailed information visit the [source's webpage.](http://open-source.i
 ## Gap or what is missing?
 <details>
   <summary><strong>TNO</strong></summary>
+  
   - Components related to federation of data spaces are still under active R&D and require more attention.
   - Governance and legal building blocks are still not completely defined. 
 </details>
