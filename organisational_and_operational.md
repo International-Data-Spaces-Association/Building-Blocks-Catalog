@@ -11,6 +11,7 @@
 ## Components and Technologies
 <details>
   <summary><strong>i3-Market Project</strong></summary>
+  
 - Embedded Ledger
 - Database
 - Smart Contracts for Permissioning
