@@ -76,11 +76,12 @@ Go to the [source](http://open-source.i3-market.eu/technical-information/i3-mark
 </details>
 
 <details>
-  <summary><strong>ECI</strong></summary>
+  <summary><strong>ECI - TNO</strong></summary>
  
  - [ECI Gatewise](https://www.ecisolutions.com/en-gb/)
  - IDS Connector
  - SCSN platform
+ - DAPS
 </details>
 
 ## Technical Reference Implementation
@@ -94,7 +95,7 @@ To overcome the lack of trust currently still prevailing, data sovereignty conce
 
 ## Business Use Cases Implementation
 <details>
-  <summary><strong>ECI</strong></summary>
+  <summary><strong>ECI - TNO</strong></summary>
 <div align="justify">A metal company purchases metal sheets to their providers as well as they receive orders from customers. Through the SCSN and IDS network they can receive orders through ECI gatewise and the IDS network to supply drive. Therefore, they can send a purchase order to their providers and they can receive purchase orders from their clients, even though they have different platforms. Information can be transmitted no matter where connectors and suppliers are connected, making sure that every type of business gets digitized and isn’t left behind.</div>
 </details>
 
@@ -125,12 +126,11 @@ To overcome the lack of trust currently still prevailing, data sovereignty conce
 
 ## Additional Information
 <details>
-  <summary><strong>ECI</strong></summary>
+  <summary><strong>ECI - TNO</strong></summary>
  
  What does IDS bring to our customers?
- - Chain integration: Enable customer supplier connections cross platforms.
- - Service customers: Receive orders from customer via SCSN with engineering drawings.
- - Speed up supply Chain: Send out own digital purchase orders, with less time and faster delivery.
- - Inform customers: Digital dispatch note about what has been sent.
  - Overall productivity improvement of 20%
+ - Seamless scalable integrations for manufacturing companies for exchanging purchase-to-pay information.
+ - Reduction in administrative burden, faster time-to-market, lower IT integration costs.
+ - IT service providers only need a single integration.
 </details>
