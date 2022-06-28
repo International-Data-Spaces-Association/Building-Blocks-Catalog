@@ -59,6 +59,7 @@ These building blocks cover essential aspects to handle data as an economic asse
 </details>
 <details>
   <summary><strong>ADVANEO Data Marketplace</strong></summary>
+  
   - The data marketplace has been developed as a decentralized portal, all relevant and possibly sensitive raw data always remain with the data provider and only is transferred directly to the buyer in the event of a purchase.
   - It gives the opportunity of monetizing data.
   - Open data can be used to open up new perspectives and lift your data project to the next level.
@@ -72,6 +73,8 @@ These building blocks cover essential aspects to handle data as an economic asse
   - Next-level adoption and co-creation of value with commercial scenarios 
   - Fosters neutrality, standards and common language to avoid risks and enhance trust
   - Helps establish the community and ecosystem to foster future innovation
+  - Secure data lowers the threshold for different organisations to share their knowledge and expertise.
+  
 </details>
 
 ## General use cases
