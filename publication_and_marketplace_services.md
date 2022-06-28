@@ -54,6 +54,12 @@
 
 
 ## Business Use Cases Implementation
+<details>
+  <summary><strong>Mobilithek (former MDM - Mobility Data Marketplace)</strong></summary>
+  
+<div align="justify">Traffic and mobility data are becoming the raw material for multimodality, automated and connected driving, and other future solutions. <a href="https://www.mdm-portal.de/?lang=en">MDM</a> offers suppliers and users of mobility to share, search and subscribe to traffic-relevant online data (traffic flows, traffic jams, road works, mobility options, parking facilities and more). The MDM is continuously working to make as much mobility data as possible accessible, across different means of transport, network elements and actors.</div>
+ 
+</details>
 
 ## Best practices identification and recommendations
 
