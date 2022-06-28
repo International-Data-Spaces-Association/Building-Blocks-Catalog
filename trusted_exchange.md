@@ -105,6 +105,15 @@ To overcome the lack of trust currently still prevailing, data sovereignty conce
 <div align="justify">The <a href="https://www.advaneo-datamarketplace.de/en/#">ADVANEO DMP</a> is a collaboration portal that enables the data-sovereign formation of Data Spaces for data-driven applications. Integrated AI tools, data models and applications as well as free access to millions of Open Data support the development of data-driven innovation projects. The DMP has no contact with the actual raw data, being directly transmitted to the interested party in peer-to-peer encrypted form by an IDS-Connector. Only the exploitation result is accessible, enabling the sharing of confidential data in value chains.</div>
 </details>
 
+
+<details>
+  <summary><strong>Vastuu Group</strong></summary>
+ <div align="justify">The goal of the <a href="https://www.vttresearch.com/en/news-and-ideas/secure-sharing-supports-data-sovereignty-and-business-between-organisations">project</a> was to use the IDS standard to reveal the energy consumption and emissions information found in Helsinki Region Transport’s (HSL) and a specific city district’s data platforms. This way the data of both public transport and buildings could be taken into account when searching for ways to reduce the energy consumption and carbon footprint in a certain area. The project required developing a solution that would enable smooth data transfer without sacrificing information security.
+</div>
+ 
+ ![Vastuu project's structure](./images/vastuu-case.png)
+</details>
+
 ## Best practices identification and recommendations
 
 ## Gap or what is missing?
@@ -125,12 +134,3 @@ To overcome the lack of trust currently still prevailing, data sovereignty conce
 ## Comments
 
 ## Additional Information
-<details>
-  <summary><strong>ECI - TNO</strong></summary>
- 
- What does IDS bring to our customers?
- - Overall productivity improvement of 20%
- - Seamless scalable integrations for manufacturing companies for exchanging purchase-to-pay information.
- - Reduction in administrative burden, faster time-to-market, lower IT integration costs.
- - IT service providers only need a single integration.
-</details>
