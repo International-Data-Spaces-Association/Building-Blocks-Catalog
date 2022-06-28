@@ -149,15 +149,20 @@ Go to the [source](http://open-source.i3-market.eu/technical-information/i3-mark
 ## Business Use Cases Implementation
 <details>
   <summary><strong>Catena-X</strong></summary>
-<div allign="justify">Based on sovereignty and standardization, Catena-X creates a network in which data exchange as well as the provision and use of value-added services is realized. Access to the network is centralized via the Catena-X Portal. With focus on usability, the portal integrates different Catena-X services on a suitable user interface.</div></br>
+<div align="justify">Based on sovereignty and standardization, Catena-X creates a network in which data exchange as well as the provision and use of value-added services is realized. Access to the network is centralized via the Catena-X Portal. With focus on usability, the portal integrates different Catena-X services on a suitable user interface.</div></br>
   
   
-<div allign="justify">Participants get access to different services and business applications. As a trusted network, the Catena-X Portal has the ability to solve daily challenges quickly and easily. Participants not only receive a transparent presentation of all offers and services, but also a resource-efficient connection to the value creation of the automotive industry.</div></br>
+<div align="justify">Participants get access to different services and business applications. As a trusted network, the Catena-X Portal has the ability to solve daily challenges quickly and easily. Participants not only receive a transparent presentation of all offers and services, but also a resource-efficient connection to the value creation of the automotive industry.</div></br>
   
-<div allign="justify">The Catena-X portal will be implemented by means of a customer-friendly connection process and a central identity and user management system. On the other hand, a marketplace for applications and data as well as a developer hub will serve for the realization.</div></br>
+<div align="justify">The Catena-X portal will be implemented by means of a customer-friendly connection process and a central identity and user management system. On the other hand, a marketplace for applications and data as well as a developer hub will serve for the realization.</div></br>
 
 More details about [Catena-X Portal](https://catena-x.net/en/angebote/portal).
 
+</details>
+
+<details>
+  <summary><strong>idento.io</strong></summary>
+<div align="justify">As a verified user with <a href="https://www.idento.one">idento.one</a>, you can manage your digital identity from anywhere and on any device. Your idento.one dashboard gives you an overview of the digital services you use, from online banking to your social networks. You decide which service can access your data, when and how.  You keep control of your data, only you can share them with whom you want to and when you want to.</div>
 </details>
   
 ## Best practices identification and recommendations
