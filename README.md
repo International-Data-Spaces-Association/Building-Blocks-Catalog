@@ -43,4 +43,17 @@ These building blocks cover essential aspects to handle data as an economic asse
 
 - [Business](./business.md) agreements comprise sercive leval agreement (SLA), data usage and access control policies as well as specified standards.
 - [Organisational/operational building blocks](./organisational_and_operational.md)
-- [Continuity model](./continuity_model.md)												
+- [Continuity model](./continuity_model.md)
+
+## The importance of using building blocks
+<div align="justify">Several companies have already reported their improvements and results when using building blocks: </div>
+
+<details>
+  <summary><strong>Smart Connected Supplier Network</strong></summary>
+  
+  - It enables small manufacturing companies to join the digitalization process without the need of hiring IT professionals.
+  - A rise of 20% of the overall productivity.
+  - The transaction costs of the supply chain are reduced.
+  
+  Visit [SCSN webpage](https://smart-connected.nl/en) for more information.
+</details>
