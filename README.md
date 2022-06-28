@@ -39,7 +39,7 @@ These building blocks cover essential aspects to handle data as an economic asse
 
 
 ## Governance Building Blocks
-<div align="justify"> The building blocks subsumed under this category refer to business, operational and organisational agreements among data spaces participants. These agreements are enforced through legal frameworks participants have to adhere to, or via technical building blocks:</div>
+<div align="justify">The building blocks subsumed under this category refer to business, operational and organisational agreements among data spaces participants. These agreements are enforced through legal frameworks participants have to adhere to, or via technical building blocks:</div>
 
 - [Business](./business.md) agreements comprise sercive leval agreement (SLA), data usage and access control policies as well as specified standards.
 - [Organisational/operational building blocks](./organisational_and_operational.md)
@@ -64,4 +64,18 @@ These building blocks cover essential aspects to handle data as an economic asse
   - Open data can be used to open up new perspectives and lift your data project to the next level.
   
   Visit [ADVANEO DMP webpage](https://www.advaneo-datamarketplace.de/en/#) for more information.
+</details>
+<details>
+  <summary><strong>Vastuu</strong></summary>
+  
+  - Drives Europe’s data economy
+  - Next-level adoption and co-creation of value with commercial scenarios 
+  - Fosters neutrality, standards and common language to avoid risks and enhance trust
+  - Helps establish the community and ecosystem to foster future innovation
+</details>
+
+## General use cases
+<details>
+  <summary><strong>Smart parking - Volkswagen | Fiware Foundation | Wobcom</strong></summary>
+  <div align="justify">Smart Parking is a digital solution to improve parking in a city, reduce air pollution and support local businesses. Drivers in a city are navigated to the nearest available parking space. They can register their preferred shopping profiles, and these anonymised profiles are matched with shops near the parking spaces. Matching shop offers are returned with hash codes for the possible offers. If the driver shops at that particular shop, their parking fee is paid by the shop.</div>
 </details>
