@@ -77,10 +77,18 @@
 </details>
   
 ## Technical Reference Implementation
-### Design Principles Position Paper
-<div allign="justify">Enforcing Data Protection Regulations in Health Care Applications. When a company is processing patient records for the sake of accounting an billing as a service to doctors and insurances, it is thus in the interest of the company to ensure that it complies to those regulations.</div>
+<details>
+  <summary><strong>Design Principles Position Paper</strong></summary>
+  <div align="justify">Enforcing Data Protection Regulations in Health Care Applications. When a company is processing patient records for the sake of accounting an billing as a service to doctors and insurances, it is thus in the interest of the company to ensure that it complies to those regulations.</div>
+  
+</details>
 
 ## Business Use Cases Implementation
+<details>
+  <summary><strong>truzzt box</strong></summary>
+  <div align="justify">In the <a href="https://www.truzzt.com/en/">truzzt box</a> your documents are always available for you and you are always in control, not even truzzt has access to your personal documents. As a verified user of your truzzt box you always know who you are dealing with, you only buy from real, verified merchants and personal data will always remain encrypted and safe. Besides. The truzzt box will automatically adapt to your usage with its artificial intelligence. </div>
+  
+</details>
 
 ## Best practices identification and recommendations
 
