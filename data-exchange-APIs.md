@@ -86,6 +86,11 @@
 
 </details>
 
+<details>
+  <summary><strong>Deutsche Telekom - Data Intelligence Hub</strong></summary>
+  <div align="justify">The <a href="https://dih.telekom.net/en/">Telekom - Data Intelligence Hub</a> is intended to serve as a digital connection between companies and be both a source for commercial data acquisition and open data. The platform offers users tools for analysis, acquisition, exchange and processing of data. Industry experts get the possibility to develop new business models, data-driven products or services. It is relevant for companies of all sizes and industries but also for universities, for example, that develop models for the combination of data and algorithms to attain new insights.</div>
+</details>
+
 ## Gap or what is missing?
 
 ## TRL
