@@ -78,6 +78,11 @@ It facilitates a common format for data model specifications and representation 
   <img src="images/City_Dataspace.png">
 </details>
 
+<details>
+  <summary><strong>DSWEU - Energy consumption in non-residential buildings</strong></summary>
+  <div align="justify">The <a href="https://i4trust.org/experiments/energy-consumption-in-non-residential-buildings/">experiment</a> will facilitate sharing of data using the standard NGSI-LD API to create digital twins. To develop more ambitious CO2-reduction projects for non-residential buildings, requires complete and up-to-date data on the measured energy consumption in relation to key construction features. With this data, Data Service Consumers can create digital twins of non-residential buildings, modelling the desired energy / CO2 reduction in various renovation scenarios for their clients.</div>
+</details>
+
 
 ## Business Use Cases Implementation
 <details>
@@ -99,6 +104,12 @@ It facilitates a common format for data model specifications and representation 
   <summary><strong>City Dataspace</strong></summary>
   <div align="justify">The City Dataspace focuses on the challenge of increasing and enabling the usability of Smart City relevant Open and Urban data using the example of mobility and geodata across municipal boundaries. It relies on the established semantic technologies, combined with new innovative concepts to simplify the use of the required technologies. This interoperability should enable app developers to develop an app once and roll it out to a large number of municipalities using the City Dataspace. Conversely, the City Dataspace enables municipalities to participate in existing apps just by making their data available.</div>
 </details>
+
+<details>
+  <summary><strong>DSWEU - Energy consumption in non-residential buildings</strong></summary>
+  <div align="justify">The idea is to test & showcasing the Dataspace Measured Energy Consumption in Non-Residential Buildings. To optimise the cost-effectiveness of CO2-reduction projects, non-residential building-owners need to share relevant data more easily but safely with their project partners.</div>
+</details>
+
 
 ## Best practices identification and recommendations
   
