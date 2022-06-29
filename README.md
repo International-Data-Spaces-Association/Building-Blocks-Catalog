@@ -97,6 +97,14 @@ These building blocks cover essential aspects to handle data as an economic asse
   
 </details>
 
+<details>
+  <summary><strong>Wind and Solar Assets modeling - EDF</strong></summary>
+  
+  - Opportunity to build comprehensive models, analytic frameworks and improve multiparty collaboration capabilities needed to support digital ecosystems.
+  - Backbone for renewables operator to ensure continuity of technical data along lifecycle.
+  - Real accelerator for Greenfields and brownfields assets to deliver more safely, more quickly more efficiently and with a lower Total Cost of Ownership.
+</details>
+
 ## General use cases
 <div align="justify">Building blocks are usually combined with others, giving as a result a complete product or service. Amongst other qualities, data sovereignity and interoperability tend to be a powerful asset which makes the difference with other initiatives of the sector.</div></br>
 
