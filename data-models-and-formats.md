@@ -61,10 +61,23 @@ It facilitates a common format for data model specifications and representation 
 </details>
 <details>
   <summary><strong>Smart Connected Supplier Network</strong></summary>
-<div align="justify">SCSN is structured according to the four-corner model. The SCSN network is a network of networks in which all service providers/brokers are connected to each other. This enables every manufacturing company to communicate with all other manufacturing companies in the SCSN network, irrespective of the service providers to which the manufacturing companies are affiliated. This is made possible by strict technical and commercial agreements between the service providers, which are managed by the independent SCSN Foundation.</div>
+  <div align="justify">SCSN is structured according to the four-corner model. The SCSN network is a network of networks in which all service providers/brokers are connected to each other. This enables every manufacturing company to communicate with all other manufacturing companies in the SCSN network, irrespective of the service providers to which the manufacturing companies are affiliated. This is made possible by strict technical and commercial agreements between the service providers, which are managed by the independent SCSN Foundation.</div>
   
-<a href="https://smart-connected.nl/en/about-scsn/how-it-works"><img src="images/SCSN-Graphic.jpg" alt="SCSN's webpage"></a>
+  <a href="https://smart-connected.nl/en/about-scsn/how-it-works"><img src="images/SCSN-Graphic.jpg" alt="SCSN's webpage"></a>
 </details>
+
+<details>
+  <summary><strong>City Dataspace</strong></summary>
+    
+1. Deploy batch data to the dataspace.
+2. Provide streaming data to the dataspace.
+3. Create semantic models for your data.
+4. Find data
+5. Create exports.
+  <div align="justify">To know more about each step, visit the section <a href="https://www.city-dataspace.de/18-2/">Tutorials</a> of the City Dataspace webpage</div>
+  <img src="images/City_Dataspace.png">
+</details>
+
 
 ## Business Use Cases Implementation
 <details>
@@ -80,6 +93,11 @@ It facilitates a common format for data model specifications and representation 
 <details>
   <summary><strong>Smart Connected Supplier Network</strong></summary>
 <div align="justify">The need of sharing data is crucial in low volume industry, like semiconductor industry. Nowadays, every industry adopts different standards and understandings of the same information, which provokes that a lot of work has to be done manually and it is not digitized. Furthermore, manual actions have a huge impact in the final price and they require extra effort. By using data standards and IDS components, the process is digitized, some errors are avoided and the effort is minimized. Besides, it enables the small manufacturing companies to join the digitalization process. Until now, they were sometimes excluded due to the high cost of hiring IT professionals (they have less budget).</div>
+</details>
+
+<details>
+  <summary><strong>City Dataspace</strong></summary>
+  <div align="justify">The City Dataspace focuses on the challenge of increasing and enabling the usability of Smart City relevant Open and Urban data using the example of mobility and geodata across municipal boundaries. It relies on the established semantic technologies, combined with new innovative concepts to simplify the use of the required technologies. This interoperability should enable app developers to develop an app once and roll it out to a large number of municipalities using the City Dataspace. Conversely, the City Dataspace enables municipalities to participate in existing apps just by making their data available.</div>
 </details>
 
 ## Best practices identification and recommendations
