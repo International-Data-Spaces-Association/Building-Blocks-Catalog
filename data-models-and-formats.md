@@ -110,6 +110,10 @@ It facilitates a common format for data model specifications and representation 
   <div align="justify">The idea is to test & showcasing the Dataspace Measured Energy Consumption in Non-Residential Buildings. To optimise the cost-effectiveness of CO2-reduction projects, non-residential building-owners need to share relevant data more easily but safely with their project partners.</div>
 </details>
 
+<details>
+  <summary><strong>Wind and Solar Assets modeling - EDF</strong></summary>
+  <div align="justify">The wind and solar description model is the digital backbone to federate all the businesses and its ecosystem around one single source of truth from “DESIGN, MODIFICATION to others REFRESHMENT”. Being able to share the same abstract representation of data for the wind and solar domain would allow a better understanding of the associated operations (asset management, RCA, Structural Analysis, Visual Inspection, monitoring ...) and an obvious improvement of the processes that mobilize the processing of this information.</div>
+</details>
 
 ## Best practices identification and recommendations
   
