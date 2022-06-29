@@ -51,29 +51,48 @@ These building blocks cover essential aspects to handle data as an economic asse
 <details>
   <summary><strong>Smart Connected Supplier Network</strong></summary>
   
-  - It enables small manufacturing companies to join the digitalization process without the need of hiring IT professionals.
+  - Eenable small manufacturing companies to join the digitalization process without the need of hiring IT professionals.
   - A rise of 20% of the overall productivity.
   - The transaction costs of the supply chain are reduced.
   
   Visit [SCSN webpage](https://smart-connected.nl/en) for more information.
 </details>
+
 <details>
   <summary><strong>ADVANEO Data Marketplace</strong></summary>
   
   - The data marketplace has been developed as a decentralized portal, all relevant and possibly sensitive raw data always remain with the data provider and only is transferred directly to the buyer in the event of a purchase.
-  - It gives the opportunity of monetizing data.
+  - Give the opportunity of monetizing data.
   - Open data can be used to open up new perspectives and lift your data project to the next level.
   
   Visit [ADVANEO DMP webpage](https://www.advaneo-datamarketplace.de/en/#) for more information.
 </details>
+
 <details>
   <summary><strong>Vastuu</strong></summary>
   
-  - Drives Europe’s data economy
-  - Next-level adoption and co-creation of value with commercial scenarios 
-  - Fosters neutrality, standards and common language to avoid risks and enhance trust
-  - Helps establish the community and ecosystem to foster future innovation
+  - Drive Europe’s data economy.
+  - Next-level adoption and co-creation of value with commercial scenarios.
+  - Foster neutrality, standards and common language to avoid risks and enhance trust.
+  - Help establish the community and ecosystem to foster future innovation.
   - Secure data lowers the threshold for different organisations to share their knowledge and expertise.
+  
+</details>
+
+<details>
+  <summary><strong>DASLOGIS - Dutch Data Spaces for Logistics</strong></summary>
+  
+  - Enable the discovery and controlled sharing of (potentially) sensitive data.
+  - Offer flexibility, extensibility and personalisation to support data exchange in logistics.
+  
+</details>
+
+<details>
+  <summary><strong>Intelligent Washing Machine - Haier | Fraunhofer ISST</strong></summary>
+  
+  - Save cost, time and energy, environmental awareness.
+  - Offer consumers a better utilization of washing machines with additional services
+  - Gain data insights for product and service innovations 
   
 </details>
 
