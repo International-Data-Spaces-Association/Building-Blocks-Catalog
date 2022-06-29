@@ -78,7 +78,15 @@ These building blocks cover essential aspects to handle data as an economic asse
 </details>
 
 ## General use cases
+<div align="justify">Building blocks are usually combined with others, giving as a result a complete product or service. Amongst other qualities, data sovereignity and interoperability tend to be a powerful asset which makes the difference with other initiatives of the sector.</div></br>
+
 <details>
   <summary><strong>Smart parking - Volkswagen | Fiware Foundation | Wobcom</strong></summary>
   <div align="justify">Smart Parking is a digital solution to improve parking in a city, reduce air pollution and support local businesses. Drivers in a city are navigated to the nearest available parking space. They can register their preferred shopping profiles, and these anonymised profiles are matched with shops near the parking spaces. Matching shop offers are returned with hash codes for the possible offers. If the driver shops at that particular shop, their parking fee is paid by the shop.</div>
+</details>
+
+<details>
+  <summary><strong>ASSESLEEP - EUHubs4Data | Bitbrain</strong></summary>
+  <div align="justify">It consists of a highly accurate sleep monitoring device that can comfortably record sleep at your home. A comprehensive sleep dataset will be created using using <a href="https://euhubs4data.eu/experiments/assesleep/">Bitbrain</a>'s new technology, incorporating a multitude of physiological and environmental sensors. Based on data collected in controlled and uncontrolled environments, robust AI-powered sleep analysis algorithms with medical-grade accuracy will be implemented.</div>
+  
 </details>
