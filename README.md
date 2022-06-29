@@ -93,6 +93,7 @@ These building blocks cover essential aspects to handle data as an economic asse
   - Save cost, time and energy, environmental awareness.
   - Offer consumers a better utilization of washing machines with additional services
   - Gain data insights for product and service innovations 
+  - By collecting consumer data companies get the possibility to gain data insights for product and service innovations.
   
 </details>
 
