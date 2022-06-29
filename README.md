@@ -90,3 +90,7 @@ These building blocks cover essential aspects to handle data as an economic asse
   <div align="justify">It consists of a highly accurate sleep monitoring device that can comfortably record sleep at your home. A comprehensive sleep dataset will be created using using <a href="https://euhubs4data.eu/experiments/assesleep/">Bitbrain</a>'s new technology, incorporating a multitude of physiological and environmental sensors. Based on data collected in controlled and uncontrolled environments, robust AI-powered sleep analysis algorithms with medical-grade accuracy will be implemented.</div>
   
 </details>
+
+<details>
+  <summary><strong>iGreenPort - i4Trust</strong></summary>
+  <div align="justify">The objective of the  <a href="https://i4trust.org/experiments/igreenport/">iGreenPort</a> experiment consists of the monitoring of sea water quality in different areas of a port. In essence, different datasets (geoposition data on water quality, AIS navigation real-time data, etc..) will be shared in iGreenPort data space to create several data packages at different levels of the ‘data value chain’ to be utilised by iGreenPort partners and external entities, particularly authorities with environmental competencies in ports, their suppliers, and research groups in the field.</div>
