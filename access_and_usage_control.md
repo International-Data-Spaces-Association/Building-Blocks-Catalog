@@ -83,11 +83,25 @@
   - ADVANEO's Trusted Data Hub
   - IDS Components: broker, connector, clearing house and app provider
 </details>
+
+<details>
+  <summary><strong>Intelligent Washing Machine - Haier | Fraunhofer ISST</strong></summary>
+ 
+  - COSMOPlat
+  - IDS connector 
+  - RFID sensor
+</details>
   
 ## Technical Reference Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
   <div align="justify">Enforcing Data Protection Regulations in Health Care Applications. When a company is processing patient records for the sake of accounting an billing as a service to doctors and insurances, it is thus in the interest of the company to ensure that it complies to those regulations.</div>
+  
+</details>
+
+<details>
+  <summary><strong>Intelligent Washing Machine - Haier | Fraunhofer ISST</strong></summary>
+  <div align="justify">Through sensors within washing machines laundry data can be collected, which enables companies to offer their consumers a better utilization of washing machines with additional services. This data is sent to COSMOPlat for optimizing washing programs through ML. The optimized washing programs are sent back to the consumers washing machines to save energy, time, and costs, as well as it reduces the carbon footprint and will lead to longer lasting garments.</div>
   
 </details>
 
