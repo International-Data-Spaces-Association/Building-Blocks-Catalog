@@ -23,6 +23,13 @@ For more detailed information, visit the [source's webpage.](http://open-source.
 </details>
 
 ## Technical Reference Implementation
+<details>
+  <summary><strong>iSHARE</strong></summary>
+  <div align="justify">Data Spaces build upon <a href="https://ishare.eu/ishare/the-foundation/governance/">iSHARE</a>’s trust framework define their own standards and working and governance. Within that governance data spaces decide on the Taxonomy, Interoperability and Value creation of the data within the data space.</div>
+  
+  <img src="./images/iShare_Goverance.png">
+</details>
+
 
 ## Business Use Cases Implementation
 
