@@ -85,6 +85,7 @@ User-centric Authentication.
 
 <details>
   <summary><strong>EGI-ACE</strong></summary>
+  
   - <a href="https://www.egi.eu/service/check-in/">EGI Check-in service</a> based on Keycloack for OIDC provider
 </details>
 
@@ -193,6 +194,7 @@ More details about [Catena-X Portal](https://catena-x.net/en/angebote/portal).
 ## Gap or what is missing?
 <details>
   <summary><strong>EGI-ACE</strong></summary>
+  
   - Evolution towards SSI.
 </details>
 
