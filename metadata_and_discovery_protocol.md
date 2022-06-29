@@ -97,12 +97,24 @@ For more detailed information visit the [source's webpage.](http://open-source.i
 ## Technical Reference Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
+  <div align="justify">A data space participant analyses the terms and conditions linked to a given data resource and acquires the corresponding access/usage rights in line with these terms and conditions.</div>
   
-<div align="justify">A data space participant analyses the terms and conditions linked to a given data resource and acquires the corresponding access/usage rights in line with these terms and conditions.</div>
+</details>
+
+<details>
+  <summary><strong>DASLOGIS - Dutch Data Spaces for Logistics</strong></summary>
+  <div align="justify">The DASLOGIS project aims to develop a Dutch Logistics Data Space (DLDS): a digital virtual environment or ecosystem that enables the finding and controlled sharing of (potentially) sensitive data. It offers flexibility, extensibility, and personalization to support: sharing transaction data for operational optimization, sharing (big) data for data for data analysis, and supply chain data sharing for real-time visibility. DLDS will be based on the generic and internationally standardized IDS reference architecture model.</div>
   
 </details>
 
 ## Business Use Cases Implementation
+<details>
+  <summary><strong>DASLOGIS - Dutch Data Spaces for Logistics | iSHARE</strong></summary>
+  
+<div align="justify">To adapt to changing market dynamics, organizations are collaborating more than ever in increasingly complex and agile supply chains, requiring a flexible exchange of many (often commercially sensitive) datasets with a variety of stakeholders. Organizations in logistics are currently developing and implementing digitization strategies to adapt and prepare to extract value from these opportunities. This project builds on the work and analysis of the needs, approach, positioning and roadmap for a Dutch logistics data space in the published white paper on the logistics infrastructure for data sharing.</div>
+  
+</details>
+
 
 ## Best practices identification and recommendations
 <details>
