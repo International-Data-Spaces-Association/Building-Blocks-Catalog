@@ -48,6 +48,12 @@
   
 </details>
 
+<details>
+  <summary><strong>EGI-ACE</strong></summary>
+  
+  - EGI DataHub, based on Onedata technology.
+</details>
+
 ## Technical Reference Implementation
 
 <details>
@@ -64,6 +70,14 @@
   <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
 [OpenApi data app](http://market40.eu/wp-content/uploads/MARKET4.0-OC1-winners-2nd-Webinar-OpenAPI-Data-Open.pdf)
+</details>
+
+<details>
+  <summary><strong>EGI-ACE</strong></summary>
+  
+  - Creation of Virtual Spaces abstracting physical file location. 
+  - Exchange of data between distributed data providers and file publication and sharing.
+  - Use of REST API or CDMI API.
 </details>
 
 ## Business Use Cases Implementation
@@ -91,10 +105,27 @@
   <div align="justify">The <a href="https://dih.telekom.net/en/">Telekom - Data Intelligence Hub</a> is intended to serve as a digital connection between companies and be both a source for commercial data acquisition and open data. The platform offers users tools for analysis, acquisition, exchange and processing of data. Industry experts get the possibility to develop new business models, data-driven products or services. It is relevant for companies of all sizes and industries but also for universities, for example, that develop models for the combination of data and algorithms to attain new insights.</div>
 </details>
 
+<details>
+  <summary><strong>EGI-ACE</strong></summary>
+  <div align="justify">DataHub allows you to bring data close to  computing to exploit it efficiently, and to publish a dataset and make it available to a specific community, or worldwide, across federated sites.</div>
+</details>
+
 ## Gap or what is missing?
+<details>
+  <summary><strong>EGI-ACE</strong></summary>
+  
+  - More standard API for data access and exchange (e.g. S3)
+  - Access to relational or NoSQL DB.
+</details>
+
 
 ## TRL
 
 ## Comments
 
 ## Additional Information
+<details>
+  <summary><strong>EGI-ACE</strong></summary>
+  
+  - [EGI - Datahub](https://www.egi.eu/service/datahub/)
+</details>
