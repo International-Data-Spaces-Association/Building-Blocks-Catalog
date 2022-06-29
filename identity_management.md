@@ -83,6 +83,11 @@ User-centric Authentication.
   
 </details>
 
+<details>
+  <summary><strong>EGI-ACE</strong></summary>
+  - <a href="https://www.egi.eu/service/check-in/">EGI Check-in service</a> based on Keycloack for OIDC provider
+</details>
+
 ## Features 2
 **[TODO:] ASK FOR A DEFINITION OF FEATURES 2** 
 <details>
@@ -143,7 +148,12 @@ Go to the [source](http://open-source.i3-market.eu/technical-information/i3-mark
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
   
-<div allign="justify">A user within an organisation registered with a data space provides his/her log-in credentials to the IM module in order to gain access to the data of the data space in line with his/her role in the organisation.</div>
+<div align="justify">A user within an organisation registered with a data space provides his/her log-in credentials to the IM module in order to gain access to the data of the data space in line with his/her role in the organisation.</div>
+</details>
+
+<details>
+  <summary><strong>EGI-ACE</strong></summary>
+  <div allign="justify"><a href="https://www.egi.eu/service/check-in/">EGI Check-in</a> is a proxy service that operates as a central hub to connect federated Identity Providers (IdPs) with EGI service providers. Check-in allows users to select their preferred IdP so that they can access and use EGI services in a uniform and easy way.</div>
 </details>
 
 ## Business Use Cases Implementation
@@ -173,10 +183,22 @@ More details about [Catena-X Portal](https://catena-x.net/en/angebote/portal).
   
 </details>
 
+<details>
+  <summary><strong>EGI-ACE</strong></summary>
+  
+  - Federation of Identity providers and proxy component. 
+  - Combination of user attributes originating from various authoritative sources (IdPs and attribute provider services) and delivers them to the connected Service providers in a transparent way.
+</details>
+
 ## Gap or what is missing?
+<details>
+  <summary><strong>EGI-ACE</strong></summary>
+  - Evolution towards SSI.
+</details>
 
 ## TRL
 
 ## Comments
 
 ## Additional Information
+
