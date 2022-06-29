@@ -94,6 +94,7 @@
 
 <details>
   <summary><strong>IoF2020 - ATB Institute for Applied Systems Technology Bremen</strong></summary>
+  
   - CoatRack is a third-party backend-to-backend communications framework facilitating API access, monitoring and monetization. 
   - Open Source development, hosted in <a href="https://github.com/coatrack/coatrack">GitHub</a>.
 </details>
@@ -133,7 +134,7 @@
   - authentication/authorization of calls to your APIs via API keys
   - monetization of API calls, based on pay-per-call rules or flatrates
 
-This project is part of FIWARE.
+This project is part of [FIWARE](https://www.fiware.org/).
 </details>
 
 ## Best practices identification and recommendations
