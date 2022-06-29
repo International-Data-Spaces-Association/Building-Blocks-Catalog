@@ -22,6 +22,13 @@
 For more detailed information, visit the [source's webpage.](http://open-source.i3-market.eu/technical-information/data-storage-system-specifications/)
 </details>
 
+<details>
+  <summary><strong>EGI - ACE</strong></summary>
+  
+  - ITSM Coordination, an IT Service Management (ITSM) framework based on FiTSM
+  
+</details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>iSHARE</strong></summary>
@@ -32,13 +39,40 @@ For more detailed information, visit the [source's webpage.](http://open-source.
 
 
 ## Business Use Cases Implementation
+<details>
+  <summary><strong>EGI - ACE</strong></summary>
+  <div align="justify">ITSM Coordination oversees the implementation and evolution of the IT service management system across EGI. The service designs and implements structured processes for the improvement of service delivery to its customers.</div>
+  
+</details>
 
 ## Best practices identification and recommendations
+<details>
+  <summary><strong>EGI - ACE</strong></summary>
+  
+  - Repeatability: Services and processes operate the same way time after time.
+  - Quality: Repeatable processes can be monitored and optimized to increase quality.
+  - Demonstrability: Following a standard allows quality to be audited and demonstrated to others.
+  - Compatibility: Managed services can be combined with other services by customers, or in federated provision scenarios.
+  - Professionalism: Formally managed services appear more professional to customers.
+  
+</details>
 
 ## Gap or what is missing?
+<details>
+  <summary><strong>EGI - ACE</strong></summary>
+  
+  - Network of Trainer for FiTSM.
+  
+</details>
 
 ## TRL
 
 ## Comments
 
 ## Additional Information
+<details>
+  <summary><strong>EGI - ACE</strong></summary>
+  
+  - [EGI - ITSM Coordination](https://www.egi.eu/service/itsm-coordination/ )
+  
+</details>
