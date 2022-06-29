@@ -93,6 +93,12 @@ To overcome the lack of trust currently still prevailing, data sovereignty conce
  
 </details>
 
+<details>
+  <summary><strong>AgriSpace4Trust</strong></summary>
+ <div align="justify"> <a href="https://i4trust.org/experiments/agrispace4trust/">AgriSpace4Trust</a> aims to integrate i4Trust Marketplace Framework working with FIWARE’s Smart Models and linked data following the latest NGSI-LD specifications. In addition, iSHARE integration to a third-party SensorPassport implementation will build trust within the community. SensorPassport includes functionalities on validating sensor operations, credibility, access, authorization and account control through iSHARE integration.</div>
+ 
+</details>
+
 ## Business Use Cases Implementation
 <details>
   <summary><strong>ECI - TNO</strong></summary>
@@ -108,10 +114,16 @@ To overcome the lack of trust currently still prevailing, data sovereignty conce
 
 <details>
   <summary><strong>Vastuu Group</strong></summary>
- <div align="justify">The goal of the <a href="https://www.vttresearch.com/en/news-and-ideas/secure-sharing-supports-data-sovereignty-and-business-between-organisations">project</a> was to use the IDS standard to reveal the energy consumption and emissions information found in Helsinki Region Transport’s (HSL) and a specific city district’s data platforms. This way the data of both public transport and buildings could be taken into account when searching for ways to reduce the energy consumption and carbon footprint in a certain area. The project required developing a solution that would enable smooth data transfer without sacrificing information security.
-</div>
+ <div align="justify">The goal of the <a href="https://www.vttresearch.com/en/news-and-ideas/secure-sharing-supports-data-sovereignty-and-business-between-organisations">project</a> was to use the IDS standard to reveal the energy consumption and emissions information found in Helsinki Region Transport’s (HSL) and a specific city district’s data platforms. This way the data of both public transport and buildings could be taken into account when searching for ways to reduce the energy consumption and carbon footprint in a certain area. The project required developing a solution that would enable smooth data transfer without sacrificing information security.</div>
  
  ![Vastuu project's structure](./images/vastuu-case.png)
+</details>
+
+
+<details>
+  <summary><strong>AgriSpace4Trust</strong></summary>
+ <div align="justify"> <a href="https://i4trust.org/experiments/agrispace4trust/">AgriSpace4Trust</a> enables the prosumption of data services to optimise energy inputs in olive production creating new data-driven services. It proposes to create data hubs supported by i4trust data space that exploit local weather stations or agro-environmental sensors and open them to a broader community of local users. This way, opinion leaders and tech-savvy farmers will invest in buying specialised equipment, and data can be shared at will, including cooperatives and farm advisors/ agronomists.</div>
+ 
 </details>
 
 ## Best practices identification and recommendations
