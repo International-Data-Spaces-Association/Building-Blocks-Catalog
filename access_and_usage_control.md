@@ -3,7 +3,10 @@
 <div align="justify">This building block guarantees enforcement of data access and usage policies defined as part of the terms and conditions established when data resources or services are published (see ‘Publication and Services Marketplace’ building block below) or negotiated between providers and consumers. A data provider typically implements data access control mechanisms to prevent misuse of resources, while data usage control mechanisms are typically implemented on the data consumer side to prevent misuse of data. In complex data value chains, both mechanisms are combined by prosumers. Access control and usage control rely on identification and authentication.</div> </br>
 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence: Definition of concepts</strong></summary>
+  <summary><strong>
+    
+    
+    - CTO architecture coherence: Definition of concepts [DRAFT. NOT APPROVED]</strong></summary>
   
   - [Access Control](https://www.techopedia.com/definition/5831/access-control)
   
@@ -24,7 +27,7 @@
 
 ## Features 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
  
 - Access Control
 - Usage Control
@@ -38,7 +41,7 @@
 
 ## Components and Technologies
 <details>
-  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
   
 - Policy Enforcement based on XACML, extend with PXP for Usage Policy Enforcement.
   
@@ -105,11 +108,16 @@
   <div align="justify">Enforcing Data Protection Regulations in Health Care Applications. When a company is processing patient records for the sake of accounting an billing as a service to doctors and insurances, it is thus in the interest of the company to ensure that it complies to those regulations.</div>
   
 </details>
-
 <details>
-  <summary><strong>Intelligent Washing Machine - Haier | Fraunhofer ISST</strong></summary>
-  <div align="justify">Through sensors within washing machines laundry data can be collected, which enables companies to offer their consumers a better utilization of washing machines with additional services. This data is sent to COSMOPlat for optimizing washing programs through ML. The optimized washing programs are sent back to the consumers washing machines to save energy, time, and costs, as well as it reduces the carbon footprint and will lead to longer lasting garments.</div>
+  <summary><strong>IoF2020 - ATB Institute for Applied Systems Technology Bremen</strong></summary>
+  <div align="justify"> <a href="https://coatrack.eu/">CoatRack</a> is a third-party backend-to-backend communications framework facilitating API access, monitoring and monetization. CoatRack is a framework to manage backend-to-backend communication via REST services, consisting of: distributed, lightweight API gateways and a centralized web application to generate and manage those API gateways.</div>
   
+  CoatRack can facilitate your work if you have existing REST APIs and you want to do one (or more) of the following:
+  - monitoring the access to your APIs
+  - authentication/authorization of calls to your APIs via API keys
+  - monetization of API calls, based on pay-per-call rules or flatrates
+
+This project is part of [FIWARE](https://www.fiware.org/).
 </details>
 
 ## Business Use Cases Implementation
@@ -126,15 +134,9 @@
 </details>
 
 <details>
-  <summary><strong>IoF2020 - ATB Institute for Applied Systems Technology Bremen</strong></summary>
-  <div align="justify"> <a href="https://coatrack.eu/">CoatRack</a> is a third-party backend-to-backend communications framework facilitating API access, monitoring and monetization. CoatRack is a framework to manage backend-to-backend communication via REST services, consisting of: distributed, lightweight API gateways and a centralized web application to generate and manage those API gateways.</div>
+  <summary><strong>Intelligent Washing Machine - Haier | Fraunhofer ISST</strong></summary>
+  <div align="justify">Through sensors within washing machines laundry data can be collected, which enables companies to offer their consumers a better utilization of washing machines with additional services. This data is sent to COSMOPlat for optimizing washing programs through ML. The optimized washing programs are sent back to the consumers washing machines to save energy, time, and costs, as well as it reduces the carbon footprint and will lead to longer lasting garments.</div>
   
-  CoatRack can facilitate your work if you have existing REST APIs and you want to do one (or more) of the following:
-  - monitoring the access to your APIs
-  - authentication/authorization of calls to your APIs via API keys
-  - monetization of API calls, based on pay-per-call rules or flatrates
-
-This project is part of [FIWARE](https://www.fiware.org/).
 </details>
 
 ## Best practices identification and recommendations
