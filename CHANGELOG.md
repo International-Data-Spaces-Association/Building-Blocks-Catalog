@@ -3,14 +3,7 @@
 All notable changes to this project will be documented in this file.
 
 
-
-## [Unreleased]
-
-
-
-
-
-## [1.0.0] - 2022-00-00
+## [1.0.0] - 2022-06-30
 ### Added
 - Added the content from the Architecture Coherence document.
 
