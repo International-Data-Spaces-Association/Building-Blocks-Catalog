@@ -12,7 +12,7 @@
 
 ## Features 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
   
 - Common API for exchange of digital twin data among participants, supporting: 
   - updates
@@ -29,7 +29,7 @@
 
 ## Components and Technologies
 <details>
-  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
   
 - [ETSI NGSI-LD API spec](https://www.etsi.org/deliver/etsi_gs/CIM/001_099/009/01.04.02_60/gs_CIM009v010402p.pdf)
 - DCAT-AP
@@ -67,7 +67,7 @@
 </details>
 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
   
 [OpenApi data app](http://market40.eu/wp-content/uploads/MARKET4.0-OC1-winners-2nd-Webinar-OpenAPI-Data-Open.pdf)
 </details>
