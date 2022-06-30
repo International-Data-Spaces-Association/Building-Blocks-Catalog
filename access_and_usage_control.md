@@ -3,10 +3,7 @@
 <div align="justify">This building block guarantees enforcement of data access and usage policies defined as part of the terms and conditions established when data resources or services are published (see ‘Publication and Services Marketplace’ building block below) or negotiated between providers and consumers. A data provider typically implements data access control mechanisms to prevent misuse of resources, while data usage control mechanisms are typically implemented on the data consumer side to prevent misuse of data. In complex data value chains, both mechanisms are combined by prosumers. Access control and usage control rely on identification and authentication.</div> </br>
 
 <details>
-  <summary><strong>
-    
-    
-    - CTO architecture coherence: Definition of concepts [DRAFT. NOT APPROVED]</strong></summary>
+  <summary><strong>CTO architecture coherence: Definition of concepts [DRAFT. NOT APPROVED]</strong></summary>
   
   - [Access Control](https://www.techopedia.com/definition/5831/access-control)
   
