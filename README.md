@@ -2,7 +2,7 @@
 This is the repository to list the building blocks developed in OPEN DEI project.
 
 ## Introduction to Building Blocks
-<div align="justify">The different building blocks can be specified and developed independently of each other.  When doing so, existing norms, standards, and best practices should be used to ensure  cohesion of building blocks. Each data space solution can integrate multiple building blocks, as long as they are in line with data space reference architectures (e.g., the IDS Reference Architecture Model49). The building blocks presented in this chapter are core elements of any data space. As such, they can be considered sector-agnostic. Nevertheless, they can be used in sector-specific scenarios (see e.g. seaport scenarios). Data space stakeholders may also define additional building blocks to support innovative features and functions. For instance, data space architects may introduce building blocks that enable novel types of data space architectures combining centralised and decentralised approaches. Likewise, business stakeholders may introduce building blocks that enable novel forms of smart contracts to be agreed upon by participants of a data space, thereby facilitating business model innovations. Hence, the building blocks presented in this chapter are not exhaustive, but rather indicative of the elements of a data space. In general, each building block consists of reusable, generic components (i.e. which can be used across domains and industries) and more specific components (i.e. to meet requirements and regulations that are specific for certain industries, domains, or even concrete use cases). This allows individual participants to join different data spaces, use data in multiple contexts and scenarios, and be part of multiple data value chains.</div>
+<div align="justify">The different building blocks can be specified and developed independently of each other.  When doing so, existing norms, standards, and best practices should be used to ensure cohesion of building blocks. Each data space solution can integrate multiple building blocks, as long as they are in line with data space reference architectures (e.g., the IDS Reference Architecture Model v4.0). The building blocks presented in this chapter are core elements of any data space. As such, they can be considered sector-agnostic. Nevertheless, they can be used in sector-specific scenarios (see e.g. seaport scenarios). Data space stakeholders may also define additional building blocks to support innovative features and functions. For instance, data space architects may introduce building blocks that enable novel types of data space architectures combining centralised and decentralised approaches. Likewise, business stakeholders may introduce building blocks that enable novel forms of smart contracts to be agreed upon by participants of a data space, thereby facilitating business model innovations. Hence, the building blocks presented in this chapter are not exhaustive, but rather indicative of the elements of a data space. In general, each building block consists of reusable, generic components (i.e. which can be used across domains and industries) and more specific components (i.e. to meet requirements and regulations that are specific for certain industries, domains, or even concrete use cases). This allows individual participants to join different data spaces, use data in multiple contexts and scenarios, and be part of multiple data value chains.</div>
 
 ## Taxonomy of Building Blocks	
 The taxonomy of building blocks constituting a data space will benefit various stakeholders:
@@ -19,12 +19,12 @@ The taxonomy of building blocks constituting a data space will benefit various s
 - [Data Provenance and Traceability](./provenance_and_traceability.md)
 
 ## Data sovereignty and trust Building Blocks
-<div align="justify">Data sovereignty and trust Building Blocks regaining control over their data, and as data becomes portable between providers on a  user-controlled consent basis. Users can switch between providers without losing their data  and vendor lock-in will become a phenomenon of the past. For participants in data spaces, data sovereignty means two things:</div></br>
+<div align="justify">Data sovereignty and trust Building Blocks regaining control over their data, and as data becomes portable between providers on a user-controlled consent basis. Users can switch between providers without losing their data and vendor lock-in will become a phenomenon of the past. For participants in data spaces, data sovereignty means two things:</div></br>
 
 1. Benefit from enhanced possibilities to view, process, manage, and secure their data.
 2. Stay in control over their data when making it accessible to other parties.
 
-<div align="justify">These building blocks includes the data ownership policies that requires agile and standardised ICT capabilities when such agreements are to be negotiated dynamically. We need to establish a semantic interoperability of policiesand behavioural interoperability of policies.</div>
+<div align="justify">These building blocks include the data ownership policies that requires agile and standardised ICT capabilities when such agreements are to be negotiated dynamically. We need to establish a semantic interoperability of policies and behavioural interoperability of policies.</div>
 
 The building blocks that provides data sovereignty and trust are:
 - [Identity Management (IM)](./identity_management.md)
@@ -51,7 +51,7 @@ These building blocks cover essential aspects to handle data as an economic asse
 <details>
   <summary><strong>Smart Connected Supplier Network</strong></summary>
   
-  - Eenable small manufacturing companies to join the digitalization process without the need of hiring IT professionals.
+  - Enable small manufacturing companies to join the digitalization process without the need of hiring IT professionals.
   - A rise of 20% of the overall productivity.
   - The transaction costs of the supply chain are reduced.
   
@@ -106,7 +106,7 @@ These building blocks cover essential aspects to handle data as an economic asse
 </details>
 
 ## General use cases
-<div align="justify">Building blocks are usually combined with others, giving as a result a complete product or service. Amongst other qualities, data sovereignity and interoperability tend to be a powerful asset which makes the difference with other initiatives of the sector.</div></br>
+<div align="justify">Building blocks are usually combined with others, giving as a result a complete product or service. Amongst other qualities, data sovereignty and interoperability tend to be a powerful asset which makes the difference with other initiatives of the sector.</div></br>
 
 <details>
   <summary><strong>Smart parking - Volkswagen | Fiware Foundation | Wobcom</strong></summary>
@@ -121,4 +121,4 @@ These building blocks cover essential aspects to handle data as an economic asse
 
 <details>
   <summary><strong>iGreenPort - i4Trust</strong></summary>
-  <div align="justify">The objective of the  <a href="https://i4trust.org/experiments/igreenport/">iGreenPort</a> experiment consists of the monitoring of sea water quality in different areas of a port. In essence, different datasets (geoposition data on water quality, AIS navigation real-time data, etc..) will be shared in iGreenPort data space to create several data packages at different levels of the ‘data value chain’ to be utilised by iGreenPort partners and external entities, particularly authorities with environmental competencies in ports, their suppliers, and research groups in the field.</div>
+  <div align="justify">The objective of the <a href="https://i4trust.org/experiments/igreenport/">iGreenPort</a> experiment consists of the monitoring of sea water quality in different areas of a port. In essence, different datasets (geoposition data on water quality, AIS navigation real-time data, etc..) will be shared in iGreenPort data space to create several data packages at different levels of the ‘data value chain’ to be utilised by iGreenPort partners and external entities, particularly authorities with environmental competencies in ports, their suppliers, and research groups in the field.</div>
