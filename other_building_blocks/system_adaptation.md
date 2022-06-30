@@ -18,7 +18,10 @@
 </details>
 
 ## Technical Reference Implementation
-<div align="justify">A smart city connects its system to a data space to publish information on air quality. At the same time, it connects to the data space for receiving weather forecast information in order to predict evolution of air quality parameters and take appropriate action. The building block interfaces with the smart-city system to enable access to the data resource providing the air quality information and to transfer the data on weather forecasts.</div>
+<details>
+  <summary><strong>Design Principles Position Paper</strong></summary>
+  <div align="justify">A smart city connects its system to a data space to publish information on air quality. At the same time, it connects to the data space for receiving weather forecast information in order to predict evolution of air quality parameters and take appropriate action. The building block interfaces with the smart-city system to enable access to the data resource providing the air quality information and to transfer the data on weather forecasts.</div>
+</details>
 
 ## Business Use Cases Implementation
 

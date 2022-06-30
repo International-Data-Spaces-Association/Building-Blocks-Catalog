@@ -8,7 +8,7 @@
 
 ## Features 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
  
 - Security Profiles
 - Certification
@@ -32,7 +32,7 @@ Go to the [source](http://open-source.i3-market.eu/technical-information/i3-mark
 
 ## Components and Technologies
 <details>
-  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
  
 - IDSA
   - Certification for Base, Trust, Trust+ profiles

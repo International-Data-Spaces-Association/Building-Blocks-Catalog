@@ -9,7 +9,7 @@
 ## Features 1
 **[TODO:] ASK FOR A DEFINITION OF FEATURES 1** 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
   
 - Identification
 - Authentication
@@ -28,7 +28,7 @@ Creation of federated and trusted identities in data spaces can be supported by 
 </details>
 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
   
   
   **[TODO:] ASK FOR A DEFINITION OF LEVELS**
@@ -92,7 +92,7 @@ User-centric Authentication.
 ## Features 2
 **[TODO:] ASK FOR A DEFINITION OF FEATURES 2** 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
   
 - Digital Identities and Authentication
 - Digital Identities
@@ -125,7 +125,7 @@ Go to the [source](http://open-source.i3-market.eu/technical-information/i3-mark
   
 ## Components and Technologies 2
 <details>
-  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
   
 #### Level 1: Participant (organization, trusted party)
 - W3C
