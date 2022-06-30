@@ -11,8 +11,11 @@
 ## Components and Technologies
 
 ## Technical Reference Implementation
-
-<div align="justify">In a manufacturing supply chain, data from various stakeholders (e.g. distributors, retailers) are aggregated for production forecasting. A function like this, which requires interaction between multiple data space participants, can be represented as a workflow. This workflow can then be executed by the workflow management engine.</div> 
+<details>
+  <summary><strong>Design Principles Position Paper</strong></summary>
+  <div align="justify">In a manufacturing supply chain, data from various stakeholders (e.g. distributors, retailers) are aggregated for production forecasting. A function like this, which requires interaction between multiple data space participants, can be represented as a workflow. This workflow can then be executed by the workflow management engine.</div>
+  
+</details>
 
 ## Business Use Cases Implementation
 
