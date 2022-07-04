@@ -220,6 +220,7 @@ More details about [Catena-X Portal](https://catena-x.net/en/angebote/portal).
 
 <details>
   <summary><strong>iSHARE Foundation</strong></summary>
+  
   - <a href="https://ishareworks.atlassian.net/wiki/spaces/IS/pages/70221987/Framework+and+roles">Framework and roles</a>.
 
 </details>
