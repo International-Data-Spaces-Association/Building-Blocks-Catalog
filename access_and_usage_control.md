@@ -98,6 +98,15 @@
   - CoatRack is a third-party backend-to-backend communications framework facilitating API access, monitoring and monetization. 
   - Open Source development, hosted in <a href="https://github.com/coatrack/coatrack">GitHub</a>.
 </details>
+
+
+<details>
+  <summary><strong>iSHARE Foundation</strong></summary>
+  
+  - iSHARE Open Source Authorisation Registry and Authorization exchange structure. 
+    - Based on the Trust framework validated participants, parties can authorise each other data services (access control). 
+    - Based on explicit consent, and with licenses that are providing usage control, the licenses organise the usage control from a legal perspective and form the foundation also for technical usage control. 
+</details>
   
 ## Technical Reference Implementation
 <details>
@@ -115,6 +124,12 @@
   - monetization of API calls, based on pay-per-call rules or flatrates
 
 This project is part of [FIWARE](https://www.fiware.org/).
+</details>
+
+<details>
+  <summary><strong>iSHARE Foundation</strong></summary>
+  
+  - There are many existing usage of the iSHARE Framework already, with data of more than 1,5 million organisations being available today to authorise in line with the data governance act.
 </details>
 
 ## Business Use Cases Implementation
@@ -141,6 +156,12 @@ This project is part of [FIWARE](https://www.fiware.org/).
   <summary><strong>IoF2020 - ATB Institute for Applied Systems Technology Bremen</strong></summary>
   <div align="justify">CoatRack facilitates the monetisation by API access control and monitoring, without determining the data format of content exchanged as long as the services are based on REST calls.</div>
 
+</details>
+
+<details>
+  <summary><strong>iSHARE Foundation</strong></summary>
+  
+  - <div align="justify">The Authorisation registry role is a federated role, open to data spaces to set this up specifically for specific data spaces. The role is open for organisations to either set it up themselves, but there is a growing market of market players providing commercial authorisation registry services.</div>
 </details>
 
 
