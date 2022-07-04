@@ -31,20 +31,32 @@ For more detailed information, visit the [source's webpage.](http://open-source.
 
 <details>
   <summary><strong>iSHARE Foundation</strong></summary>
+  <details>
+    <summary><strong>Organisational</strong></summary>
   <div align="justify">The <a href="https://ishareworks.atlassian.net/wiki/spaces/IS/pages/75006103/Legal+provisions">iSHARE Legal framework</a> provides coverage of the data usage and sharing, with that providing legal coverage of data sharing for all participants. Through the generic legal framework parties don't need to have separate bilateral agreements for data sharing, because the use of the iSHARE authorisation registry standard will generate data set specific agreements, per data share and per data autorisation.</div></br>
 
-  <div align="justify">The legal framework provides legal entities the certainty that data is always handled with care and responsibility, parties are liable of behaving according to the licences provided by the actual data that is shared. iSHARE organises data access with explicit and technically enforced consent, and the usage control is covered in a technically readable and legal way.</div>
+  <div align="justify">The legal framework provides legal entities the certainty that data is always handled with care and responsibility, parties are liable of behaving according to the licences provided by the actual data that is shared. iSHARE organises data access with explicit and technically enforced consent, and the usage control is covered in a technically readable and legal way.</div></br>
 
   <div align="justify">On top of the baseline legal coverage of data sharing there are generic <a href="https://ishareworks.atlassian.net/wiki/spaces/IS/pages/70222199/Service+levels">Service Levels</a> that are defined for Service Providers, Service Consumers and certified roles (Authorisation Registers, Identity Providers and Satellites), to allow for technical workability of the data space.</div></br>
 
   <div align="justify">It's open for data spaces to create additional operational and legal measures, which are all technically verifiable in the <a href="https://ishare.eu/ishare/benefits/for-data-spaces/">ledger</a>.</div>
 
+  </details>
+  
+  <details>
+    <summary><strong>Operational</strong></summary>
+<div align="justify">Running on the same level of service is crucial for the actual data exchange within the totally federated data space, therefore iSHARE defined a generic set of <a href="https://ishareworks.atlassian.net/wiki/spaces/IS/pages/70222199/Service+levels">Service Level Agreements</a>, which is used as a baseline for all active enablers (so not the data owner / holder / entitled party).</div></br>
+
+<div align="justify">This is a base-line, and open for data spaces to further extend on these service levels and also add those as additional agreement to the data space. All can be registered in the <a href="https://ishare.eu/ishare/benefits/for-data-spaces/">iSHARE ledger</a> through the Satellite in your data space. With that all is digitally verifiable for all participants in the network. 
+  
+  </details>
 </details>
 
 
 ## Technical Reference Implementation
 <details>
   <summary><strong>iSHARE Foundation</strong></summary>
+
   <div align="justify">Data Spaces build upon <a href="https://ishare.eu/ishare/the-foundation/governance/">iSHARE</a>’s trust framework define their own standards and working and governance. Within that governance data spaces decide on the Taxonomy, Interoperability and Value creation of the data within the data space.</div>
   
   <img src="./images/iShare_Goverance.png">
