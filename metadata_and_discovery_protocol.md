@@ -94,6 +94,13 @@ For more detailed information visit the [source's webpage.](http://open-source.i
   - Federated Identity Management. 
 </details>
 
+<details>
+  <summary><strong>iSHARE Foundation</strong></summary>
+  
+  - <div align="justify"><a href="https://ishare.eu/ishare-satellite-explained/">iSHARE Satellite</a> federated participant registration service is providing a basic level of discovery for data spaces to discover participants in and across data spaces.</div>
+
+</details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
@@ -105,6 +112,14 @@ For more detailed information visit the [source's webpage.](http://open-source.i
   <summary><strong>DASLOGIS - Dutch Data Spaces for Logistics</strong></summary>
   <div align="justify">The DASLOGIS project aims to develop a Dutch Logistics Data Space (DLDS): a digital virtual environment or ecosystem that enables the finding and controlled sharing of (potentially) sensitive data. It offers flexibility, extensibility, and personalization to support: sharing transaction data for operational optimization, sharing (big) data for data for data analysis, and supply chain data sharing for real-time visibility. DLDS will be based on the generic and internationally standardized IDS reference architecture model.</div>
   
+</details>
+
+<details>
+  <summary><strong>iSHARE Foundation</strong></summary>
+  
+  - <div align="justify">The ledger node is available as a ready package to implement, and also as a service by multiple providers. It also allows data spaces to start today. 
+  - Through the validation of the process of the governance organisations, parties can onboard participants in the bigger network. </div>
+
 </details>
 
 ## Business Use Cases Implementation
@@ -121,7 +136,16 @@ For more detailed information visit the [source's webpage.](http://open-source.i
   <summary><strong>TNO</strong></summary>
   
   - It's recommended that end-users don't develop the IDS components by themselves. Instead, they can use the services offered by IT integrators.
-</details> 
+</details>
+
+<details>
+  <summary><strong>iSHARE Foundation</strong></summary>
+  
+  - There are al least two levels of discovery:
+    - Starting from participants: that's where the iSHARE ledger provides the pointers to data offering of participants.
+    - Starting from data offering: that's where market place components provide this for data spaces.
+
+</details>
 
 ## Gap or what is missing?
 <details>
@@ -136,3 +160,8 @@ For more detailed information visit the [source's webpage.](http://open-source.i
 ## Comments
 
 ## Additional Information
+<details>
+  <summary><strong>iSHARE Foundation</strong></summary>
+  Further details on the details that are use for discovery in the <a href="https://ishare.eu/data-of-parties-in-ishare-network/">operational API's</a>.
+
+</details>
