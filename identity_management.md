@@ -89,6 +89,13 @@ User-centric Authentication.
   - <a href="https://www.egi.eu/service/check-in/">EGI Check-in service</a> based on Keycloack for OIDC provider
 </details>
 
+<details>
+  <summary><strong>iSHARE Foundation</strong></summary>
+  
+  - Identity providers are a key items to assure the trust, iSHARE utilises existing Identity providers and only sets requirements to identity providers to assure the same level of assurance or trust. Check out more information <a href="https://ishareworks.atlassian.net/wiki/spaces/IS/pages/70221987/Framework+and+roles">here</a>.
+
+</details>
+
 ## Features 2
 **[TODO:] ASK FOR A DEFINITION OF FEATURES 2** 
 <details>
@@ -191,6 +198,13 @@ More details about [Catena-X Portal](https://catena-x.net/en/angebote/portal).
   - Combination of user attributes originating from various authoritative sources (IdPs and attribute provider services) and delivers them to the connected Service providers in a transparent way.
 </details>
 
+
+<details>
+  <summary><strong>iSHARE Foundation</strong></summary>
+  The EIDAS framework is at the same level of trust, hence EIDAS and iSHARE are connected, further reading <a href="https://ishareworks.atlassian.net/wiki/spaces/IS/pages/70221987/Framework+and+roles">here</a>.
+
+</details>
+
 ## Gap or what is missing?
 <details>
   <summary><strong>EGI-ACE</strong></summary>
@@ -203,4 +217,10 @@ More details about [Catena-X Portal](https://catena-x.net/en/angebote/portal).
 ## Comments
 
 ## Additional Information
+
+<details>
+  <summary><strong>iSHARE Foundation</strong></summary>
+  - <a href="https://ishareworks.atlassian.net/wiki/spaces/IS/pages/70221987/Framework+and+roles">Framework and roles</a>.
+
+</details>
 
