@@ -84,6 +84,14 @@ Go to the [source](http://open-source.i3-market.eu/technical-information/i3-mark
  - DAPS
 </details>
 
+<details>
+ <summary><strong>iSHARE Foundation</strong></summary>
+ 
+ - iSHARE Satellite
+ - Participant registration service for data spaces, allowing data spaces to make participants known in their data space and also across data spaces.
+ - Totally federated 'trust phone book' to discover participants, find the trust level and the roles, and of course the data space.
+</details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
@@ -97,6 +105,11 @@ To overcome the lack of trust currently still prevailing, data sovereignty conce
   <summary><strong>AgriSpace4Trust</strong></summary>
  <div align="justify"> <a href="https://i4trust.org/experiments/agrispace4trust/">AgriSpace4Trust</a> aims to integrate i4Trust Marketplace Framework working with FIWARE’s Smart Models and linked data following the latest NGSI-LD specifications. In addition, iSHARE integration to a third-party SensorPassport implementation will build trust within the community. SensorPassport includes functionalities on validating sensor operations, credibility, access, authorization and account control through iSHARE integration.</div>
  
+</details>
+
+<details>
+ <summary><strong>iSHARE Foundation</strong></summary>
+ Distributed Ledger node for federated registration of participants in data spaces, hence enabling legal and organisational interoperability.
 </details>
 
 ## Business Use Cases Implementation
@@ -127,6 +140,11 @@ To overcome the lack of trust currently still prevailing, data sovereignty conce
 </details>
 
 ## Best practices identification and recommendations
+<details>
+ <summary><strong>iSHARE Foundation</strong></summary>
+ 
+ -  There is a governance structure to the ledger and hence provides measures for changes and eventual fixes. 
+</details>
 
 ## Gap or what is missing?
 
@@ -146,3 +164,7 @@ To overcome the lack of trust currently still prevailing, data sovereignty conce
 ## Comments
 
 ## Additional Information
+<details>
+ <summary><strong>iSHARE Foundation</strong></summary>
+Find more information in <a href="https://ishare.eu/">iSHARE Foundation's<a> webpage.
+</details>
