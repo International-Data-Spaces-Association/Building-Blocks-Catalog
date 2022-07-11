@@ -101,6 +101,16 @@ For more detailed information visit the [source's webpage.](http://open-source.i
 
 </details>
 
+<details>
+  <summary><strong> EJP Soil / Isric world soil information / soil-x</strong></summary>
+  
+  - Metadata discovery: geonetwork and geonode
+  - Data exchange api’s: pygeoapi, geoserver and mapserver
+  - Data harmonization: hale and wosis (tailored)
+  - Codelist registry: re3gistry and skosmos
+
+</details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
@@ -130,6 +140,14 @@ For more detailed information visit the [source's webpage.](http://open-source.i
   
 </details>
 
+<details>
+  <summary><strong>EJP Soil / Isric world soil information / soil-x</strong></summary>
+  
+  - <div align="justify">Build a global soil dataset from regional sources. The global dataset is referenced in many domains from carbon stock, soil fertility to nature conservation.</div>
+  - Support for governments in implementing solutions to share soil data following standards for wide adoption.
+
+</details>
+
 
 ## Best practices identification and recommendations
 <details>
@@ -147,12 +165,32 @@ For more detailed information visit the [source's webpage.](http://open-source.i
 
 </details>
 
+<details>
+  <summary><strong>EJP Soil / Isric world soil information / soil-x</strong></summary>
+  
+  - Use standards where possible:
+    - for data exchange (ogcapi, odata, sparql)
+    - for metadata discovery (oaipmh, csw, opensearch)
+    - for data models (inspire, soilml , glosis, schema.org)
+    - for metadata content (dcat, iso19115, schema.org, datacite) 
+  - Extend common codelists
+
+</details>
+
+
 ## Gap or what is missing?
 <details>
   <summary><strong>TNO</strong></summary>
   
   - Components related to federation of data spaces are still under active R&D and require more attention.
   - Governance and legal building blocks are still not completely defined. 
+</details>
+
+<details>
+  <summary><strong>EJP Soil / Isric world soil information / soil-x</strong></summary>
+  
+  - Traceability is not a very common building block.
+
 </details>
 
 ## TRL
