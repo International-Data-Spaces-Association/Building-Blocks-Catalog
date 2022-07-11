@@ -107,6 +107,15 @@
     - Based on the Trust framework validated participants, parties can authorise each other data services (access control). 
     - Based on explicit consent, and with licenses that are providing usage control, the licenses organise the usage control from a legal perspective and form the foundation also for technical usage control. 
 </details>
+
+<details>
+  <summary><strong>Tekniker - Wind Energy Data Space</strong></summary>
+  
+  - Deployment of DataSpace Connectors as technical components responsible for the correct sharing of data between a data owner (e.g. wind farm operator) and a data user(e.g. component supplier).
+  - Integration of the IDSA UPL through a Java Library in DataSpace Connectors for Usage Control Interoperability
+  - Development, deployment and integration with DataSpace Connectors of a domain-agnostic Wind Farm Ontology WFOnt (https://w3id.org/wfont) for resource description interoperability.
+  - Development and deployment of a Context-aware policy analysis method that integrated in DataSpace Connectors efficiently ensure policy quality avoiding security breaches in usage control while enhancing its performance.
+</details>
   
 ## Technical Reference Implementation
 <details>
@@ -182,6 +191,13 @@ This project is part of [FIWARE](https://www.fiware.org/).
   
   - [CoatRack's webpage](https://coatrack.eu/)
   - [GitHub repository](https://github.com/coatrack/coatrack)
+
+</details>
+
+<details>
+  <summary><strong>Tekniker - Wind Energy Data Space</strong></summary>
+  
+  - [Tekniker's webpage](https://www.daekinproject.com/en/)
 
 </details>
 
