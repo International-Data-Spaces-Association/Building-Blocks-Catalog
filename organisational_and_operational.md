@@ -52,6 +52,15 @@ For more detailed information, visit the [source's webpage.](http://open-source.
   </details>
 </details>
 
+<details>
+  <summary><strong>European Union Agency for Railways - ERA</strong></summary>
+  
+  - Ontologies KNOWLEDGE graph
+  - Shacl
+  - Linked data 
+  - FAIR principles
+</details>
+
 
 ## Technical Reference Implementation
 <details>
@@ -60,6 +69,12 @@ For more detailed information, visit the [source's webpage.](http://open-source.
   <div align="justify">Data Spaces build upon <a href="https://ishare.eu/ishare/the-foundation/governance/">iSHARE</a>’s trust framework define their own standards and working and governance. Within that governance data spaces decide on the Taxonomy, Interoperability and Value creation of the data within the data space.</div>
   
   <img src="./images/iShare_Goverance.png">
+</details>
+
+<details>
+  <summary><strong>European Union Agency for Railways - ERA</strong></summary>
+  
+  - [Route compatibility check](https://data-interop.era.europa.eu/)
 </details>
 
 
@@ -96,6 +111,12 @@ For more detailed information, visit the [source's webpage.](http://open-source.
 
 </details>
 
+<details>
+  <summary><strong>European Union Agency for Railways - ERA</strong></summary>
+  
+  -  FAIR
+</details>
+
 ## Gap or what is missing?
 <details>
   <summary><strong>EGI - ACE</strong></summary>
@@ -122,5 +143,15 @@ For more detailed information, visit the [source's webpage.](http://open-source.
   - [iSHARE Data Licenses explained](https://ishare.eu/licenses/)
   - [Legal Provisions](https://ishareworks.atlassian.net/wiki/spaces/IS/pages/75006103/Legal+provisions)
   - [Benefits for data spaces](https://ishare.eu/ishare/benefits/for-data-spaces/)
+
+</details>
+
+
+<details>
+  <summary><strong>European Union Agency for Railways - ERA</strong></summary>
+  
+  - [SPARQL Query Editor](https://linked.ec-dataplatform.eu/sparql/)
+  - [ERA Vocabulary](https://data-interop.era.europa.eu/era-vocabulary/)
+  - [Route Compatibility Check](https://data-interop.era.europa.eu/)
 
 </details>
