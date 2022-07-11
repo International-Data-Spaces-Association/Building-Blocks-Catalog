@@ -50,6 +50,12 @@ It facilitates a common format for data model specifications and representation 
   - ERP system.
 </details>
 
+<details>
+  <summary><strong>Datavillage</strong></summary>
+  
+  - Behavioral data mappers: components that map any behavioral data into the schema.org ontology are provided.
+</details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>i3-Market Project</strong></summary>
@@ -116,7 +122,14 @@ It facilitates a common format for data model specifications and representation 
 </details>
 
 ## Best practices identification and recommendations
+
+<details>
+  <summary><strong>Datavillage</strong></summary>
   
+  - Use simple and basic ontology to start with and extend with specific ontology when required. 
+  - In a user centric data space, use a user centric data model
+</details>
+
 ## Gap or what is missing?
 
 ## TRL
