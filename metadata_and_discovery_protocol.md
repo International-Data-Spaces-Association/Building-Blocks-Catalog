@@ -159,7 +159,7 @@ For more detailed information visit the [source's webpage.](http://open-source.i
 <details>
   <summary><strong>iSHARE Foundation</strong></summary>
   
-  - There are al least two levels of discovery:
+  - There are at least two levels of discovery:
     - Starting from participants: that's where the iSHARE ledger provides the pointers to data offering of participants.
     - Starting from data offering: that's where market place components provide this for data spaces.
 
