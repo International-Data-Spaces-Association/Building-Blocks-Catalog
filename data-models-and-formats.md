@@ -167,7 +167,7 @@ It facilitates a common format for data model specifications and representation 
 <details>
   <summary><strong>TECNALIA</strong></summary>
   
-  - App concept in IDS has several limitations that should be overcome.![image](https://user-images.githubusercontent.com/63227641/179484938-4b006843-43ed-49a7-b212-8e777aeaa29d.png)
+  - App concept in IDS has several limitations that should be overcome.
 </details>
 
 ## Additional Information
