@@ -39,7 +39,7 @@ It facilitates a common format for data model specifications and representation 
 - Semantic Engine
 - Semantic Model (OCASUS)
 - i3-Market SDK-Generator
-- Distributed staraage, decentralized storage
+- Distributed storage, decentralized storage
 - SDK-core; SDK-RI
 </details>
 
