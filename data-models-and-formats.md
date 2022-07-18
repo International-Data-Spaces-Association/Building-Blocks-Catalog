@@ -56,6 +56,14 @@ It facilitates a common format for data model specifications and representation 
   - Behavioral data mappers: components that map any behavioral data into the schema.org ontology are provided.
 </details>
 
+<details>
+  <summary><strong>TECNALIA</strong></summary>
+  
+  - Vocabulary Provider
+  - Data Usage App
+  - DAPS 
+</details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>i3-Market Project</strong></summary>
@@ -130,7 +138,19 @@ It facilitates a common format for data model specifications and representation 
   - In a user centric data space, use a user centric data model
 </details>
 
+<details>
+  <summary><strong>TECNALIA</strong></summary>
+  
+  - Ability to provide separate information if required.
+</details>
+
 ## Gap or what is missing?
+<details>
+  <summary><strong>TECNALIA</strong></summary>
+  
+  - Vocabulary provider
+  - Link with other IDS components (e.g. Broker)
+</details>
 
 ## TRL
 
@@ -142,6 +162,12 @@ It facilitates a common format for data model specifications and representation 
   - Cross-factory communication is facilitated.
   - By ensuring supply chain transparency and interoperability, the overall productivity has improvement of 20%.
   - The transaction costs of the supply chain are reduced.
+</details>
+
+<details>
+  <summary><strong>TECNALIA</strong></summary>
+  
+  - App concept in IDS has several limitations that should be overcome.![image](https://user-images.githubusercontent.com/63227641/179484938-4b006843-43ed-49a7-b212-8e777aeaa29d.png)
 </details>
 
 ## Additional Information
