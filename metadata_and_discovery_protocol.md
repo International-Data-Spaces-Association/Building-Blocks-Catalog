@@ -111,6 +111,12 @@ For more detailed information visit the [source's webpage.](http://open-source.i
 
 </details>
 
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
+  
+- In the InterConnect Semantic Interoperability Framework (SIF) the core component, the Knowledge Engine, unlocks the discovery and exchange of semantically modelled data.
+</details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
@@ -130,6 +136,13 @@ For more detailed information visit the [source's webpage.](http://open-source.i
   - <div align="justify">The ledger node is available as a ready package to implement, and also as a service by multiple providers. It also allows data spaces to start today. 
   - Through the validation of the process of the governance organisations, parties can onboard participants in the bigger network. </div>
 
+</details>
+
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
+  
+- Since this is a custom tool, we applied interConnect's reference architecture, providing a tool that enables matching of data representations in order to activate data exchange. 
+- The possibility to activate data exchange based on reasoning is currently on the road map. This feature will rely on metadata from the services. This can also be used to navigate a search space composed by the services and provided semantic descriptions.  
 </details>
 
 ## Business Use Cases Implementation
@@ -177,6 +190,12 @@ For more detailed information visit the [source's webpage.](http://open-source.i
 
 </details>
 
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
+  
+- Make sure the metadata includes references to the type of data that is produced and/or consumed by a service. This rich metadata makes the data sharing more flexible by for example enabling automatic semantic service composition using a reasoner. This increases the reuse potential for data and makes future related use case easier to implement.
+</details>
+
 
 ## Gap or what is missing?
 <details>
@@ -190,7 +209,12 @@ For more detailed information visit the [source's webpage.](http://open-source.i
   <summary><strong>EJP Soil / Isric world soil information / soil-x</strong></summary>
   
   - Traceability is not a very common building block.
+</details>
 
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
+  
+- <div align="justify">The Knowledge Engine uses <a href="https://www.w3.org/TR/sparql11-query/#BasicGraphPatterns">Basic Graph Patterns</a> to describe the type of data that is being produced and/or consumed. These graph patterns are derived from the domain ontology, but they need some improvements. First of all, deriving them can be difficult. Tools to support this process are necessary to increase the adoption. Second of all, their expressive power can be increased. Note that the Knowledge Engine is research software and therefore not production-ready with respect to stability, scalability, security.</div>
 </details>
 
 ## TRL
