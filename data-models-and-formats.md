@@ -57,7 +57,7 @@ It facilitates a common format for data model specifications and representation 
 </details>
 
 <details>
-  <summary><strong>TECNALIA</strong></summary>
+  <summary><strong>Platoon Project</strong></summary>
   
   - Vocabulary Provider
   - Data Usage App
@@ -157,14 +157,14 @@ It facilitates a common format for data model specifications and representation 
 </details>
 
 <details>
-  <summary><strong>TECNALIA</strong></summary>
+  <summary><strong>Platoon Project</strong></summary>
   
   - Ability to provide separate information if required.
 </details>
 
 ## Gap or what is missing?
 <details>
-  <summary><strong>TECNALIA</strong></summary>
+  <summary><strong>Platoon Project</strong></summary>
   
   - Vocabulary provider
   - Link with other IDS components (e.g. Broker)
@@ -190,12 +190,19 @@ It facilitates a common format for data model specifications and representation 
 </details>
 
 <details>
-  <summary><strong>TECNALIA</strong></summary>
+  <summary><strong>Platoon Project</strong></summary>
   
   - App concept in IDS has several limitations that should be overcome.
 </details>
 
 ## Additional Information
+
+<details>
+  <summary><strong>Platoon Project</strong></summary>
+  
+  - More info can be found [here](https://platoon-project.eu/)
+</details>
+
 <details>
   <summary><strong>H2020 InterConnect</strong></summary>
   
