@@ -101,6 +101,22 @@ For more detailed information visit the [source's webpage.](http://open-source.i
 
 </details>
 
+<details>
+  <summary><strong> EJP Soil / Isric world soil information / soil-x</strong></summary>
+  
+  - Metadata discovery: geonetwork and geonode
+  - Data exchange api’s: pygeoapi, geoserver and mapserver
+  - Data harmonization: hale and wosis (tailored)
+  - Codelist registry: re3gistry and skosmos
+
+</details>
+
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
+  
+- In the InterConnect Semantic Interoperability Framework (SIF) the core component, the Knowledge Engine, unlocks the discovery and exchange of semantically modelled data.
+</details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
@@ -122,12 +138,27 @@ For more detailed information visit the [source's webpage.](http://open-source.i
 
 </details>
 
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
+  
+- Since this is a custom tool, we applied interConnect's reference architecture, providing a tool that enables matching of data representations in order to activate data exchange. 
+- The possibility to activate data exchange based on reasoning is currently on the road map. This feature will rely on metadata from the services. This can also be used to navigate a search space composed by the services and provided semantic descriptions.  
+</details>
+
 ## Business Use Cases Implementation
 <details>
   <summary><strong>DASLOGIS - Dutch Data Spaces for Logistics | iSHARE</strong></summary>
   
 <div align="justify">To adapt to changing market dynamics, organizations are collaborating more than ever in increasingly complex and agile supply chains, requiring a flexible exchange of many (often commercially sensitive) datasets with a variety of stakeholders. Organizations in logistics are currently developing and implementing digitization strategies to adapt and prepare to extract value from these opportunities. This project builds on the work and analysis of the needs, approach, positioning and roadmap for a Dutch logistics data space in the published white paper on the logistics infrastructure for data sharing.</div>
   
+</details>
+
+<details>
+  <summary><strong>EJP Soil / Isric world soil information / soil-x</strong></summary>
+  
+  - <div align="justify">Build a global soil dataset from regional sources. The global dataset is referenced in many domains from carbon stock, soil fertility to nature conservation.</div>
+  - Support for governments in implementing solutions to share soil data following standards for wide adoption.
+
 </details>
 
 
@@ -141,11 +172,30 @@ For more detailed information visit the [source's webpage.](http://open-source.i
 <details>
   <summary><strong>iSHARE Foundation</strong></summary>
   
-  - There are al least two levels of discovery:
+  - There are at least two levels of discovery:
     - Starting from participants: that's where the iSHARE ledger provides the pointers to data offering of participants.
     - Starting from data offering: that's where market place components provide this for data spaces.
 
 </details>
+
+<details>
+  <summary><strong>EJP Soil / Isric world soil information / soil-x</strong></summary>
+  
+  - Use standards where possible:
+    - for data exchange (ogcapi, odata, sparql)
+    - for metadata discovery (oaipmh, csw, opensearch)
+    - for data models (inspire, soilml , glosis, schema.org)
+    - for metadata content (dcat, iso19115, schema.org, datacite) 
+  - Extend common codelists
+
+</details>
+
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
+  
+- Make sure the metadata includes references to the type of data that is produced and/or consumed by a service. This rich metadata makes the data sharing more flexible by for example enabling automatic semantic service composition using a reasoner. This increases the reuse potential for data and makes future related use case easier to implement.
+</details>
+
 
 ## Gap or what is missing?
 <details>
@@ -153,6 +203,18 @@ For more detailed information visit the [source's webpage.](http://open-source.i
   
   - Components related to federation of data spaces are still under active R&D and require more attention.
   - Governance and legal building blocks are still not completely defined. 
+</details>
+
+<details>
+  <summary><strong>EJP Soil / Isric world soil information / soil-x</strong></summary>
+  
+  - Traceability is not a very common building block.
+</details>
+
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
+  
+- <div align="justify">The Knowledge Engine uses <a href="https://www.w3.org/TR/sparql11-query/#BasicGraphPatterns">Basic Graph Patterns</a> to describe the type of data that is being produced and/or consumed. These graph patterns are derived from the domain ontology, but they need some improvements. First of all, deriving them can be difficult. Tools to support this process are necessary to increase the adoption. Second of all, their expressive power can be increased. Note that the Knowledge Engine is research software and therefore not production-ready with respect to stability, scalability, security.</div>
 </details>
 
 ## TRL

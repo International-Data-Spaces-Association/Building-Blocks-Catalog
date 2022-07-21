@@ -35,7 +35,12 @@
   <summary><strong>i3-Market Project</strong></summary>
   
 - DSA/DPA Smart Contract
+</details>
+
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
   
+- In the InterConnect Semantic Interoperability Framework (SIF) we build a custom marketplace web application to cater for our needs. It provides a repository of interoperable services in which users (other service owners) can use to navigate and interface with. Onboarding and acquiring access to the resources is also done via this marketplace.
 </details>
 
 ## Technical Reference Implementation
@@ -45,11 +50,18 @@
 <div align="justify">A data space user queries the data resources publication platform on specific data assets (e.g. based on content, theme, industry, etc.). Upon selecting the dataset she/he wants to access, she/he receives a link (e.g. an URL) to the dataset chosen.</div>
   
 </details>
+
 <details>
   <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
   Simplified version of model specified by TM Forum:
   
   <img src="images/Marketservices_TM_Forum_APIs.png" width="640" align="center"></br>
+</details>
+
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
+  
+  <div align="justify">Since this is custom tool, we applied interConnect's reference architecture, providing a tool for the owners of a digital service to engage with the ecosystem and through their first interaction with the SIF, understand how make their services interoperable.</div>
 </details>
 
 
@@ -63,7 +75,19 @@
 
 ## Best practices identification and recommendations
 
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
+  
+  - We relied in the SPPs devices within interconnect, detailed in the [Identity Management file](./identity_management.md).
+</details>
+
 ## Gap or what is missing?
+
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
+  
+  - The Data usage account building block should enforce the rewards for data owners and an expedite approach for cross-domain, implying interactions with multiple data-spaces and particularly when using distinct reference implementations of the components.
+</details>
 
 ## TRL
 

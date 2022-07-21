@@ -27,11 +27,32 @@
 
 </details>
 
+<details>
+  <summary><strong>Datavillage</strong></summary>
+  
+  - Concent receipt management, which is a consent template based on Gconsent ontology that can be used by the organsation to define the purpose and the data that will be used for data processing.
+  - The consent receipt is then used within a data consent wizard to request consent to the end user.
+</details>
+
 ## Technical Reference Implementation
 
 ## Business Use Cases Implementation
 
+<details>
+  <summary><strong>Datavillage</strong></summary>
+  
+  - <strong>TAILORED CONTENT DISCOVERY FOR END-USERS</strong>
+  <div align="justify">Enable the analysis and processing of sensitive personal data aiming better content recommendation through data sourced directly by your users in a compliant and secure way. Let users consume online content on multiple platforms with their own reputation, identity and history.</div>
+</details>
+
 ## Best practices identification and recommendations
+
+<details>
+  <summary><strong>Datavillage</strong></summary>
+  
+  - Using standard ontology as Gconsent is perfect and covers a lot of use cases.
+</details>
+
 
 ## Gap or what is missing?
 

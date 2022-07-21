@@ -39,7 +39,7 @@ It facilitates a common format for data model specifications and representation 
 - Semantic Engine
 - Semantic Model (OCASUS)
 - i3-Market SDK-Generator
-- Distributed staraage, decentralized storage
+- Distributed storage, decentralized storage
 - SDK-core; SDK-RI
 </details>
 
@@ -48,6 +48,28 @@ It facilitates a common format for data model specifications and representation 
   
   - Use of the Universal Business Language (UBL)
   - ERP system.
+</details>
+
+<details>
+  <summary><strong>Datavillage</strong></summary>
+  
+  - Behavioral data mappers: components that map any behavioral data into the schema.org ontology are provided.
+</details>
+
+<details>
+  <summary><strong>Platoon Project</strong></summary>
+  
+  - Vocabulary Provider
+  - Data Usage App
+  - DAPS 
+</details>
+
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
+  
+  - Based on InterConnect's reference architecture, we have developed a pair of components: the Knowledge Engine and the Generic Adapter (part of InterConnect's Semantic Interoperability Framework), accounting for the "Data Exchange APIs" building block. 
+  - Our methodology relies in the use of graph dissemination for discovery and data exchange. 
+  - InterConnect relies on SAREF (ontology) as our main building block account for the "Data Models & Formats).
 </details>
 
 ## Technical Reference Implementation
@@ -83,6 +105,16 @@ It facilitates a common format for data model specifications and representation 
   <div align="justify">The <a href="https://i4trust.org/experiments/energy-consumption-in-non-residential-buildings/">experiment</a> will facilitate sharing of data using the standard NGSI-LD API to create digital twins. To develop more ambitious CO2-reduction projects for non-residential buildings, requires complete and up-to-date data on the measured energy consumption in relation to key construction features. With this data, Data Service Consumers can create digital twins of non-residential buildings, modelling the desired energy / CO2 reduction in various renovation scenarios for their clients.</div>
 </details>
 
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
+  
+  - InterConnect does not rely in any reference implementation of IDSA. Rather it built all the required components, that make the part of the SIF - Semantic Interoperability Framework. The SIF includes: 
+    - The Knowledge Engine that handles the graph data exchange between parties.
+    - The Generic Adapter that acts as a gateway to provide interoperability at digital services and devices.
+    - The Service Store, acting as the repository of interoperable services (just as the "Publications and Marketplace" category for the "Data Value" building block. 
+  - Most use-cases use the SIF as the key enabler to unlock interoperability that is directly geared by the use of the SAREF ontology; using it to demonstrate DSF solutions for flexibility exchange and actuation over smart appliances according to demand.
+</details>
+
 
 ## Business Use Cases Implementation
 <details>
@@ -116,8 +148,34 @@ It facilitates a common format for data model specifications and representation 
 </details>
 
 ## Best practices identification and recommendations
+
+<details>
+  <summary><strong>Datavillage</strong></summary>
   
+  - Use simple and basic ontology to start with and extend with specific ontology when required. 
+  - In a user centric data space, use a user centric data model
+</details>
+
+<details>
+  <summary><strong>Platoon Project</strong></summary>
+  
+  - Ability to provide separate information if required.
+</details>
+
 ## Gap or what is missing?
+<details>
+  <summary><strong>Platoon Project</strong></summary>
+  
+  - Vocabulary provider
+  - Link with other IDS components (e.g. Broker)
+</details>
+
+
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
+  
+  - Our approach was to gear data exchange in a full semantic approach relying not only in graph representations of data and ontology engineering to build the needed graphs. If there is intention to follow this approach in the near future, tools will be required to automate, assist and validate the data representations, as this is yet not a common feature for industry to have. InterConnect has developed some of this tools, may be considered in the ecosystem.
+</details>
 
 ## TRL
 
@@ -131,7 +189,24 @@ It facilitates a common format for data model specifications and representation 
   - The transaction costs of the supply chain are reduced.
 </details>
 
+<details>
+  <summary><strong>Platoon Project</strong></summary>
+  
+  - App concept in IDS has several limitations that should be overcome.
+</details>
+
 ## Additional Information
 
+<details>
+  <summary><strong>Platoon Project</strong></summary>
+  
+  - More info can be found [here](https://platoon-project.eu/)
+</details>
+
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
+  
+  - More info can be found [here](https://interconnectproject.eu/wp-content/uploads/2022/02/InterConnect_WP1_D1.1_v2.2.pdf)
+</details>
 
 

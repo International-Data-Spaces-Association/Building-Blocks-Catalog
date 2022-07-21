@@ -112,6 +112,29 @@ To overcome the lack of trust currently still prevailing, data sovereignty conce
  Distributed Ledger node for federated registration of participants in data spaces, hence enabling legal and organisational interoperability.
 </details>
 
+<details>
+  <summary><strong>Datavillage</strong></summary>
+ 
+- <div align="justify"><a href="https://www.datavillage.me/platform">The Data Cage</a>: A confidential computing environment to process data from different parties while ensuring data confidentiality and algorithm ownership.</div>
+ 
+  - End to end data encryption with algorithm integrity through enclaving
+  - No data leak with whitelist sandboxing
+  - Automate secure deployment on cloud providers
+  - Data access management with data activity ledger
+  - Interoperability with linked data and knowledge graph
+
+  <img src="./images/Trusted_Exchange_Datavillage1.png"/>
+ 
+- <div align="justify"><a href="https://www.datavillage.me/platform">The Data Pod</a>: A personal data store where individuals control and manage their data.</div>
+ 
+  - Extend your data mesh with personal data store
+  - Rely on user centric data model, feed and connect first and third party data
+  - Get customer consent and access data in full transparency
+  - Process data from Data Pod to the Data Cage
+ 
+  <img src="./images/Trusted_Exchange_Datavillage2.png"/>
+</details>
+
 ## Business Use Cases Implementation
 <details>
   <summary><strong>ECI - TNO</strong></summary>
@@ -139,6 +162,22 @@ To overcome the lack of trust currently still prevailing, data sovereignty conce
  
 </details>
 
+<details>
+  <summary><strong>Datavillage</strong></summary>
+ 
+ - <strong>TAILORED CONTENT DISCOVERY FOR END-USERS</strong>
+ 
+Enable the analysis and processing of sensitive personal data aiming better content recommendation through data sourced directly by your users in a compliant and secure way. Let users consume online content on multiple platforms with their own reputation, identity and history. Don't collect the data in your system but access and process it via the end-users Data Pod and the Data Cage.
+
+ <p align="center"><img src="./images/Trusted_Exchange_Datavillage3.png" height=360 align="center"/></p>
+
+ -  <strong>TAILORED CONTENT DISCOVERY FOR END-USERS</strong>
+ 
+ Enable the exploration and processing of user behaviors with other media & entertainment companies in a compliant and secure way (GDPR, e-privacy ...).
+ <p align="center"><img src="./images/Trusted_Exchange_Datavillage4.png" height=360 align="center"/></p>
+ 
+</details>
+
 ## Best practices identification and recommendations
 <details>
  <summary><strong>iSHARE Foundation</strong></summary>
@@ -146,7 +185,24 @@ To overcome the lack of trust currently still prevailing, data sovereignty conce
  -  There is a governance structure to the ledger and hence provides measures for changes and eventual fixes. 
 </details>
 
+<details>
+  <summary><strong>Datavillage</strong></summary>
+ 
+ - Flexibility to deploy on any cloud provider
+ - Development environment with test data required
+ - In memory processing
+ 
+</details>
+
 ## Gap or what is missing?
+
+<details>
+  <summary><strong>Datavillage</strong></summary>
+ 
+ - A database integrated into the confidential computing environement is missing. We are looking to integrate an in memory graph database like redis.
+ 
+</details>
+
 
 ## TRL
 <details>
