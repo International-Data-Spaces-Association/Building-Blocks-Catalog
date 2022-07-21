@@ -2,6 +2,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.0.1] - 2022-06-30
+### Changed
+Update on the BB catalog 
+### Added
+New projects have been added.
+
 
 ## [1.0.0] - 2022-06-30
 ### Added
