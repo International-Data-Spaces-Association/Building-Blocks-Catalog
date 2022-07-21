@@ -2,11 +2,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [1.0.1] - 2022-06-30
+## [1.0.1] - 2022-07-21
 ### Changed
 Update on the BB catalog 
 ### Added
-New projects have been added.
+New projects (Tekniker, European Union Agency for Railways, EJP Soil, Datavillage, Platoon Project and H2020 InterConnect) have been added. 
 
 
 ## [1.0.0] - 2022-06-30
