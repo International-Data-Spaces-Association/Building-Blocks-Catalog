@@ -206,7 +206,10 @@ It facilitates a common format for data model specifications and representation 
 <details>
   <summary><strong>H2020 InterConnect</strong></summary>
   
-  - More info about Use Cases, Business Models and Services can be found [here](https://interconnectproject.eu/wp-content/uploads/2022/02/InterConnect_WP1_D1.1_v2.2.pdf)
+  - [Use Cases, Business Models and Services can be found](https://interconnectproject.eu/wp-content/uploads/2022/02/InterConnect_WP1_D1.1_v2.2.pdf)
+  - [Mapping between use cases and large-scale pilots](https://interconnectproject.eu/wp-content/uploads/2021/02/D1.2-Mapping-between-use-cases-and-large-scale-pilots_DraftVersion.pdf)
+  
+  ![InterConnect Use Cases](/images/Interconnect_Additional_info.png)
 </details>
 
 
