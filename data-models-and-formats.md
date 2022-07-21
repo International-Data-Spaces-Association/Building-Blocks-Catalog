@@ -206,7 +206,7 @@ It facilitates a common format for data model specifications and representation 
 <details>
   <summary><strong>H2020 InterConnect</strong></summary>
   
-  - More info can be found [here](https://interconnectproject.eu/wp-content/uploads/2022/02/InterConnect_WP1_D1.1_v2.2.pdf)
+  - More info about Use Cases, Business Models and Services can be found [here](https://interconnectproject.eu/wp-content/uploads/2022/02/InterConnect_WP1_D1.1_v2.2.pdf)
 </details>
 
 
