@@ -1,4 +1,4 @@
-# Contributing to IDSA Github
+# Contributing to Building Blocks Catalog
 
 All content published here is provided and approved by the IDSA Head Office. You are very welcome to contribute to this repository when you find a bug, want to suggest an improvement, or have an idea for a useful feature. For this, always create an issue and a corresponding branch, and follow our style guides as described below.
 
