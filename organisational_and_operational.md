@@ -61,6 +61,16 @@ For more detailed information, visit the [source's webpage.](http://open-source.
   - FAIR principles
 </details>
 
+<details>
+  <summary><strong>MyData</strong></summary>
+  <div align="justify">The ecosystem created by operators, working with data sources and data using services, is always part of a broader, social and economic system of individuals, communities, public organisations and private companies. Therefore, the ecosystem functions within the wider context of legislation, regulation, and social norms. Legislation is necessary for the creation of trust, but it is not sufficient. In order to create
+a level playing field in the market, rules of engagement between the different roles and actors fulfilling those roles are needed. </div></br>
+  
+  Read more in <a href="https://mydata.org/wp-content/uploads/2022/03/Understanding-MyData-Operators-2022.pdf">Understanding MyData Operators</a>
+  
+  ![The tiers of governance in human-centric data sharing](/images/Governance_MyData.png)
+</details>
+
 
 ## Technical Reference Implementation
 <details>
