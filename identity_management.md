@@ -96,18 +96,6 @@ User-centric Authentication.
 
 </details>
 
-
-<details>
-  <summary><strong>Platoon Project</strong></summary>
-  
-  - In the InterConnect Semantic Interoperability Framework (SIF) we deployed a set of tool to account for the Trust building block, particularly the "Identity Management" and "Access & usage control". 
-  - We rely in the "off-the-shelf" Keycloak IDP system to provide AAA services. 
-  - Accounting is managed via the Service Store (component of the SIF) and via the Generic Adapters (InterConnect gateways). 
-  - Lightweight Access & usage control is provided via this toolset. 
-  - Trusted exchange is not explored.
-
-</details>
-
 <details>
   <summary><strong>H2020 InterConnect</strong></summary>
   
@@ -186,12 +174,6 @@ Go to the [source](http://open-source.i3-market.eu/technical-information/i3-mark
 </details>
 
 <details>
-  <summary><strong>Platoon Project</strong></summary>
-  <div align="justify">All interactions with the SIF require the use of AAA mechanisms. We host the IDP system as part of our backend that support all AAA features to our gateways (Generic Adapters). The system relies in the reference implementation for OAuth 2.0.</div>
-
-</details>
-
-<details>
   <summary><strong>H2020 InterConnect</strong></summary>
   
 <div align="justify">All interactions with the SIF require the use of AAA mechanisms. We host the IDP system as part of our backend that support all AAA features to our gateways ( Generic Adapters). The system relies in the reference implementation for OAuth 2.0.All interactions with the SIF require the use of AAA mechanisms. We host the IDP system as part of our backend that support all AAA features to our gateways ( Generic Adapters). The system relies in the reference implementation for OAuth 2.0.</div>
@@ -234,13 +216,6 @@ More details about [Catena-X Portal](https://catena-x.net/en/angebote/portal).
 <details>
   <summary><strong>iSHARE Foundation</strong></summary>
   The EIDAS framework is at the same level of trust, hence EIDAS and iSHARE are connected, further reading <a href="https://ishareworks.atlassian.net/wiki/spaces/IS/pages/70221987/Framework+and+roles">here</a>.
-
-</details>
-
-
-<details>
-  <summary><strong>Platoon Project</strong></summary>
-  <div align="justify">For this building block we implemented a Security and Privacy Plan (SPP) devised within the project. In a nutshell is a joint approach for using STRIDE and LINDUN approaches, enabling our service owners (the users of the SIF) to take informed decisions. </div>
 
 </details>
 
