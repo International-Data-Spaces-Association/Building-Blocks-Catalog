@@ -148,6 +148,12 @@ It facilitates a common format for data model specifications and representation 
 </details>
 
 <details>
+  <summary><strong>Platoon Project</strong></summary>
+  
+  <div align="justify">It aims to digitalise the energy sector, enabling thus higher levels of operational excellence with the adoption of disrupting technologies. PLATOON will deploy distributed edge processing and data analytics technologies for optimized real-time energy system management in a simple way for the energy domain expert. Moreover, it will contribute to increased renewable energy consumption, smart grids management, increased energy efficiency and optimised energy asset management.</div>
+</details>
+
+<details>
   <summary><strong>H2020 InterConnect</strong></summary>
   <div align="justify">The solutions developed within the scope of InterConnect will allow a digitalisation of homes, buildings and electric grids based on an Internet of Things (IoT) architecture. By including digital technologies (Artificial Intelligence, Blockchain, Cloud and Big Data) based on open standards, such as SAREF, it will guarantee the interoperability between equipment, systems and privacy/cybersecurity of user data.</div>
 </details>
