@@ -1,7 +1,7 @@
 # Organisational/operational building blocks
 
 ## Definition
-<div align="justify">[TO DO. Provisional: http://open-source.i3-market.eu/technical-information/data-storage-system-specifications/]. The common data shared between participating data marketplace instances may include identity information, shared semantic models, meta-information about data sets and offerings, semantic queries, sample data, smart contract templates and instances, crypto tokens and payments. No single party should fully control the data storage system and there shall be no single point of failure.</div> 
+<div align="justify">The organizational level refers to the way in which the agreements, expectations and processes are aligned to achieve the common goals for controlled data sharing. This includes the onboarding and certification (according to common and accepted criteria), aligned service level agreements (for realizing overarching expectations and quality control) and aligned operations and customer processes (for improved operating efficiency and enhanced customer experience).</div> 
 
 ## Role and Scope
 <div allign="justify"></div>
