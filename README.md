@@ -41,7 +41,7 @@ These building blocks cover essential aspects to handle data as an economic asse
 ## Governance Building Blocks
 <div align="justify">The building blocks subsumed under this category refer to business, operational and organisational agreements among data spaces participants. These agreements are enforced through legal frameworks participants have to adhere to, or via technical building blocks:</div>
 
-- [Business](./business.md) agreements comprise sercive leval agreement (SLA), data usage and access control policies as well as specified standards.
+- [Business](./business.md) agreements comprise service level agreement (SLA), data usage and access control policies as well as specified standards.
 - [Organisational/operational building blocks](./organisational_and_operational.md)
 - [Continuity model](./continuity_model.md)
 
