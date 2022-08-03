@@ -7,17 +7,30 @@
 <div allign="justify"></div>
 
 ## Features
+<details>
+  <summary><strong>Design Principles Position Paper</strong></summary>
+  
+  - Domain Data Standard
+  - Unique Identifiers
+  - Authorisation Registries
+  - Trusted Parties
+  - Data Space Boards
+  - Overarching cooperation Agreements
+  - Continuity Model
+  - Regulations
+</details>
+
 
 ## Components and Technologies
 <details>
   <summary><strong>i3-Market Project</strong></summary>
   
-- Embedded Ledger
-- Database
-- Smart Contracts for Permissioning
-- Synchronization: The distributed storage database must support data synchronization between nodes.
-- Semantic Database
-- API for External Access
+  - Embedded Ledger
+  - Database
+  - Smart Contracts for Permissioning
+  - Synchronization: The distributed storage database must support data synchronization between nodes.
+  - Semantic Database
+  - API for External Access
   
 For more detailed information, visit the [source's webpage.](http://open-source.i3-market.eu/technical-information/data-storage-system-specifications/)
 </details>
