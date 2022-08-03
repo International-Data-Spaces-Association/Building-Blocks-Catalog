@@ -1,6 +1,6 @@
 # Continuity model
 ## Definition
-<div align="justify"></div> 
+<div align="justify">The Continuity Model describes the processes for the management of changes, versions, and releases for standards and agreements. This also includes the governance body for decision-making and conflict resolution.</div> 
 
 ## Role and Scope
 <div allign="justify"></div>
