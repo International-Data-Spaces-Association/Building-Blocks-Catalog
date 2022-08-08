@@ -24,7 +24,7 @@ The taxonomy of building blocks constituting a data space will benefit various s
 1. Benefit from enhanced possibilities to view, process, manage, and secure their data.
 2. Stay in control over their data when making it accessible to other parties.
 
-<div align="justify">These building blocks include the data ownership policies that requires agile and standardised ICT capabilities when such agreements are to be negotiated dynamically. We need to establish a semantic interoperability of policies and behavioural interoperability of policies.</div>
+<div align="justify">These building blocks include the data ownership policies that require agile and standardised ICT capabilities when such agreements are to be negotiated dynamically. We need to establish a semantic interoperability of policies and behavioural interoperability of policies.</div>
 
 The building blocks that provides data sovereignty and trust are:
 - [Identity Management (IM)](./identity_management.md)
