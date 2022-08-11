@@ -108,7 +108,7 @@ These building blocks cover essential aspects to handle data as an economic asse
 <details>
   <summary><strong>H2020 InterConnect</strong></summary>
   
-  - The need for the selected building blocks (Interoperability, Trust and Data Value) was natural to the project's reference architecture, hence their adoption. They are particularly important to allow the required separation of what is the interoperability plan (at the syntactic and semantical level), the data exchange plane to link interoperable peers, and the enforcement of trust (identity) for data usage. Relying in these building blocks ensures alignment, but most importantly, the capability to swap them if needed and to interface with other sectors/domains outside the one of InterConnect (Energy/IoT). 
+  - The need for the selected building blocks (Interoperability, Trust and Data Value) was natural to the project's reference architecture, hence their adoption. They are particularly important to allow the required separation of what is the interoperability plan (at the syntactic and semantical level), the data exchange plan to link interoperable peers, and the enforcement of trust (identity) for data usage. Relying on these building blocks ensures alignment, but most importantly, the capability to swap them if needed and to interface with other sectors/domains outside the one of InterConnect (Energy/IoT). 
 </details>
 
 ## General use cases
