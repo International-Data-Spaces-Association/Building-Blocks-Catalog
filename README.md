@@ -111,6 +111,40 @@ These building blocks cover essential aspects to handle data as an economic asse
   - The need for the selected building blocks (Interoperability, Trust and Data Value) was natural to the project's reference architecture, hence their adoption. They are particularly important to allow the required separation of what is the interoperability plan (at the syntactic and semantical level), the data exchange plan to link interoperable peers, and the enforcement of trust (identity) for data usage. Relying on these building blocks ensures alignment, but most importantly, the capability to swap them if needed and to interface with other sectors/domains outside the one of InterConnect (Energy/IoT). 
 </details>
 
+<details>
+  <summary><strong>Resilience Knowledge Booster</strong></summary>
+  
+  - The importance of the interoperablity, semantic metadata at cross-domain served the IMPETUs project to elaborate a climate/environment data space to share information across industries and contribute to the elaboration and planning of adaptation and mitigation actions against climate change.
+</details>
+
+<details>
+  <summary><strong>The Looming Factory</strong></summary>
+  
+  - The role of Data Spaces in the project is to craete a secure environment to transmit log data collected by IoT sensors from the shop floor to the third-parties responsible for the development of data analysis and AI applications to improve operational efficiency (e.g. predictive maintenance). The implemented and instantiated components follow the IDS Reference Architecture Model (IDS-RAM 3.0) and include IDS Connectors, an Identity Provider, a Broker and an App Store.
+</details>
+
+<details>
+  <summary><strong>Open Data Product Specification</strong></summary>
+  
+  <div align="justify">ODPS is a technical specification of a machine-readable data product metadata model. The Open Data Product Specification aims for the same impact in the Data Economy as what OpenAPI specification did for the API Economy.</div></br>
+
+  <div align="justify">The data products and data as a service solutions are spread around increasing amount of market places, tool stack for the data product design, development and management is a wild west, consumers have a hard time knowing what they are purchasing or how to compare data products to find a best possible fit in their situation.</div></br>
+
+  <div align="justify">In short, the data economy lacks a data product standard. By working together and openly, we can increase interoperability, growth, and data reuse with help of shared specification. International standards are a vital tool in ensuring products and services are interchangeable and compatible across borders, removing barriers to trade, reducing production and supply chain costs and building confidence in business services and protecting consumers.</div>
+</details>
+
+<details>
+  <summary><strong>Sitra IHAN Blueprint 2.5</strong></summary>
+  
+  <div align="justify">The IHAN data economy architecture defines the distributed and open standard-based components that allow companies, governments and individuals to share data in an easy and trusted manner with users’ consents. Focus is on IDENTITY, CONSENT and LOGGING. These three parts have been approved as a CEN/CENELEC pre-standard.</div>
+</details>
+
+<details>
+  <summary><strong>Open Geospatial Consortium</strong></summary>
+  
+  <div align="justify">OGC community is building spatial-related suite of standards in multiple groups. both internally and externally it is important to ensure minimum alignment between interoperability solutions. Therefore, as the harmonisation between standards is based on the building blocks that can be composed in the IT solution, it is important to make sure component building blocks can mediate and use exchange mechanisms.</div>
+</details>
+
 ## General use cases
 <div align="justify">Building blocks are usually combined with others, giving as a result a complete product or service. Amongst other qualities, data sovereignty and interoperability tend to be a powerful asset which makes the difference with other initiatives of the sector.</div></br>
 
