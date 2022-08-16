@@ -51,6 +51,22 @@
 
 </details>
 
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+i4Trust incorporates marketplace services relying on TM Forum Open API recommendations: 
+  - Product/Service/Resource Catalog Management (including Product/Service/Resource Specifications): TMF620, TMF633, TMF634
+  - Product/Service/Resource Ordering Management: TMF622, TMF641, TMF652
+  - Product/Service/Resource Inventory Management: TMF637, TMF638, TMF639
+  - Usage Management: TMF635
+  - Party Management: TMF632
+  - Customer Management: TMF629
+  - Account Management: TMF666
+
+Data sets associated to Data access services can be published through Publication Portals and services following W3C DCAT and EU DCAT-AP recommendations.
+
+</details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
@@ -79,6 +95,13 @@
 
 </details>
 
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - An [open source implementation of marketplace functions](https://github.com/FIWARE-TMForum/Business-API-Ecosystem) compliant with TM Forum recommendations can be found in the FIWARE Catalogue, concretely in connection to the BAE component.
+  - Data sets associated to data access services offered through the marketplace can be published on CKAN publication portals supporting the CKAN extensions available in the [FIWARE Catalogue](https://github.com/conwetlab/FIWARE-CKAN-Extensions). They can also be published through the [Idra FIWARE component](https://github.com/OPSILab/Idra).
+
+</details>
 
 ## Business Use Cases Implementation
 <details>
@@ -110,6 +133,14 @@
 
 </details>
 
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - Adoption of standard APIs for the management of the lifecycle of Products (implemented as Services and underlying Resources) and Product Offerings is key to enable monetization of data services.
+  - Marketplace functions should not only be focused on data sets but data (access and processing/app) services.  Indeed, data sets can be seen as the result of invoking data access services.
+
+</details>
+
 ## Gap or what is missing?
 
 <details>
@@ -131,3 +162,13 @@
 ## Comments
 
 ## Additional Information
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+Data Publication and Data Services Marketplace functions should be separated in different building blocks, the former supporting DCAT standards while Data Services Marketplace functions should rely on TM Forum recommendations. Taxonomy of building blocks in this pillar may be:
+- Meta data and data sets Publication and Discovery
+- Data Services Marketplaces
+- Data usage accounting
+
+</details>
