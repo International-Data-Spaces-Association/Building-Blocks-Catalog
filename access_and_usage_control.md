@@ -116,6 +116,13 @@
   - Development, deployment and integration with DataSpace Connectors of a domain-agnostic Wind Farm Ontology WFOnt (https://w3id.org/wfont) for resource description interoperability.
   - Development and deployment of a Context-aware policy analysis method that integrated in DataSpace Connectors efficiently ensure policy quality avoiding security breaches in usage control while enhancing its performance.
 </details>
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - A XACML-like architecture comprising PEP, PDP, PAP, PIP functions is implemented for access control.
+
+</details>
   
 ## Technical Reference Implementation
 <details>
@@ -139,6 +146,16 @@ This project is part of [FIWARE](https://www.fiware.org/).
   <summary><strong>iSHARE Foundation</strong></summary>
   
   - There are many existing usage of the iSHARE Framework already, with data of more than 1,5 million organisations being available today to authorise in line with the data governance act.
+</details>
+
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - PEP and PDP functions are implemented by API gateways available in the FIWARE Catalogue. The extended version of the [Kong API gateway via plugins](https://github.com/FIWARE/kong-plugins-fiware) is recommended.
+  - Implementation of PAP functions used to manage policies as well as the API to access such policies by PDP functions are implemented by the [Keyrock component](https://github.com/ging/fiware-idm) or any Authorization Registry compliant with iSHARE specifications. 
+  - [Portfolio](https://i4trust.org/experiments/) of pioneer use cases relying on the i4Trust framework and the referred access control mechanisms.
+
 </details>
 
 ## Business Use Cases Implementation
@@ -181,6 +198,12 @@ This project is part of [FIWARE](https://www.fiware.org/).
 
 </details>
 
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  <div align="justify">Evolution of the FIWARE open source components used in the framework to support ABAC based on claims of Verifiable Credentials supported by issuers of requests is under way.</div>
+
+</details>
+
 ## TRL
 
 ## Comments
@@ -198,6 +221,14 @@ This project is part of [FIWARE](https://www.fiware.org/).
   <summary><strong>Tekniker - Wind Energy Data Space</strong></summary>
   
   - [Tekniker's webpage](https://www.daekinproject.com/en/)
+
+</details>
+
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - [Additional information](https://github.com/i4Trust/building-blocks)
 
 </details>
 
