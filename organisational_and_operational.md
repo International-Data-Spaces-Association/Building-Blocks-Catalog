@@ -84,6 +84,11 @@ a level playing field in the market, rules of engagement between the different r
   ![The tiers of governance in human-centric data sharing](/images/Governance_MyData.png)
 </details>
 
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - i4Trust technology building blocks can be used with different governance frameworks but the one implemented by iSHARE is given as one possible reference.
+</details>
 
 ## Technical Reference Implementation
 <details>
@@ -100,6 +105,12 @@ a level playing field in the market, rules of engagement between the different r
   - [Route compatibility check](https://data-interop.era.europa.eu/)
 </details>
 
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - See [this](https://ishare.eu/ishare/the-foundation/governance/) for an example of governance that can be implemented for data spaces using i4Trust building blocks.
+</details>
 
 ## Business Use Cases Implementation
 <details>
