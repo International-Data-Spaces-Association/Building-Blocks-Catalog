@@ -54,6 +54,12 @@
   - EGI DataHub, based on Onedata technology.
 </details>
 
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - FIWARE Context Broker technology implementing the standard ETSI NGSI-LD data exchange API.
+</details>
+
 ## Technical Reference Implementation
 
 <details>
@@ -78,6 +84,15 @@
   - Creation of Virtual Spaces abstracting physical file location. 
   - Exchange of data between distributed data providers and file publication and sharing.
   - Use of REST API or CDMI API.
+</details>
+
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - Several reference open source implementations of NGSI-LD can be found in the [FIWARE Catalogue](https://github.com/FIWARE/catalogue#core-context-broker-components).
+  - [Portfolio](https://i4trust.org/experiments/) of pioneer use cases relying on the i4Trust framework and using NGSI-LD as basis for the data exchange.
+
 </details>
 
 ## Business Use Cases Implementation
@@ -110,12 +125,26 @@
   <div align="justify">DataHub allows you to bring data close to  computing to exploit it efficiently, and to publish a dataset and make it available to a specific community, or worldwide, across federated sites.</div>
 </details>
 
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - Adoption of a common data exchange API is key to foster innovation in data spaces.
+  - Common data models (defining vocabulary and semantics associated to that vocabulary) are required.
+
+</details>
+
 ## Gap or what is missing?
 <details>
   <summary><strong>EGI-ACE</strong></summary>
   
   - More standard API for data access and exchange (e.g. S3)
   - Access to relational or NoSQL DB.
+</details>
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - Data exchange based on streaming is required.  The ETSI NGSI-LD standard API is evolving to cover this aspect but some Context Brokers have not yet implemented all latest features of NGSI-LD.
 </details>
 
 
@@ -128,4 +157,12 @@
   <summary><strong>EGI-ACE</strong></summary>
   
   - [EGI - Datahub](https://www.egi.eu/service/datahub/)
+</details>
+
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - Latest version of the [specs](https://www.etsi.org/committee/cim).
+  - NGSI-LD is being adopted worldwide as a minimum interoperability mechanism for data exchange by cities. For example, in India has been adopted by the Bureau of Indian Standards.
 </details>
