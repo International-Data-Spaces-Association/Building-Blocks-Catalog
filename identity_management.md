@@ -105,6 +105,13 @@ User-centric Authentication.
 
 </details>
 
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - OpenID Connect has been adopted as common standard.
+  
+</details>
+
 ## Features 2
 **[TODO:] ASK FOR A DEFINITION OF FEATURES 2** 
 <details>
@@ -179,6 +186,15 @@ Go to the [source](http://open-source.i3-market.eu/technical-information/i3-mark
 <div align="justify">All interactions with the SIF require the use of AAA mechanisms. We host the IDP system as part of our backend that support all AAA features to our gateways ( Generic Adapters). The system relies in the reference implementation for OAuth 2.0.All interactions with the SIF require the use of AAA mechanisms. We host the IDP system as part of our backend that support all AAA features to our gateways ( Generic Adapters). The system relies in the reference implementation for OAuth 2.0.</div>
 </details>
 
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - OpenID Connect flows have been implemented by different components of the FIWARE Catalogue:
+    - Keyrock implements the functions of Identity Provider. See: https://github.com/ging/fiware-idm
+    - API gateways implementing the OpenID Connect flows.  The extended version of the [Kong API gateway via plugins](https://github.com/FIWARE/kong-plugins-fiware) is recommended.
+  - [Portfolio](https://i4trust.org/experiments/) of pioneer use cases relying on the i4Trust framework and using FIWARE Keyrock and API gateways.
+</details>
+
 ## Business Use Cases Implementation
 <details>
   <summary><strong>Catena-X</strong></summary>
@@ -232,6 +248,12 @@ More details about [Catena-X Portal](https://catena-x.net/en/angebote/portal).
   - Evolution towards SSI.
 </details>
 
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - FIWARE components implementing this building block (Keyrock, Kong plugins) are evolving to bring support to DIDs (Decentralized Identifiers) and Verifiable Credentials/Presentations, following recent W3C standards, as mean to manage identities.
+</details>
+
 ## TRL
 
 ## Comments
@@ -243,5 +265,11 @@ More details about [Catena-X Portal](https://catena-x.net/en/angebote/portal).
   
   - <a href="https://ishareworks.atlassian.net/wiki/spaces/IS/pages/70221987/Framework+and+roles">Framework and roles</a>.
 
+</details>
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - [Additional information](https://github.com/i4Trust/building-blocks)
 </details>
 
