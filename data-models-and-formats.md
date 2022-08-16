@@ -22,7 +22,6 @@ It facilitates a common format for data model specifications and representation 
 - Creation and registration of the data offering description
 </details>
 
-
 ## Components and Technologies
 <details>
   <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
@@ -72,6 +71,13 @@ It facilitates a common format for data model specifications and representation 
   - InterConnect relies on SAREF (ontology) as our main building block account for the "Data Models & Formats).
 </details>
 
+<details>
+  <summary><strong>Open Geospatial Consortium</strong></summary>
+  
+<div align="justify">OGC APIs and OWS building blocks for spatial data exchange including Features, Things, rasters, Observations and many more. Semantic support is provided by the Vocabulary hub that is hosting OGC specific models but also some domain models, mapping between various ontologies and profiles.</div>
+  
+</details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>i3-Market Project</strong></summary>
@@ -113,6 +119,15 @@ It facilitates a common format for data model specifications and representation 
     - The Generic Adapter that acts as a gateway to provide interoperability at digital services and devices.
     - The Service Store, acting as the repository of interoperable services (just as the "Publications and Marketplace" category for the "Data Value" building block. 
   - Most use-cases use the SIF as the key enabler to unlock interoperability that is directly geared by the use of the SAREF ontology; using it to demonstrate DSF solutions for flexibility exchange and actuation over smart appliances according to demand.
+</details>
+
+<details>
+  <summary><strong>Open Geospatial Consortium</strong></summary>
+  
+<div align="justify">OGC suite are technical level interoperability standards, both abstract and encodings. They can contain transport, encodings and data models. Combining these based on the specification is a challenging and error-prone process. In addition, generic standards often require extensions (e.g. specific additional structures) and profiles (subsets and compilations). Ultimate interface or data model definition shall be maximally reusing existing data models, support translations between others, while preserving the semantics and provenance of data.</div></br>
+
+<div align="justify">To enable semantic representations that will enable both logical and ontological model matching, the OGC Definition Server was developed. It is maintaining OGC standards ontologies models and some domain-specific ones that bridge to the abstract secifications models.</div>
+  
 </details>
 
 
@@ -173,6 +188,15 @@ It facilitates a common format for data model specifications and representation 
   - Ability to provide separate information if required.
 </details>
 
+<details>
+  <summary><strong>Open Geospatial Consortium</strong></summary>
+  
+  - There is also key governance aspect that needs to be handled and preserved to sustain usefulness and completeness. 
+  - Governance needs to be supported by some technical tools and policies.
+  
+</details>
+
+
 ## Gap or what is missing?
 <details>
   <summary><strong>Platoon Project</strong></summary>
@@ -186,6 +210,16 @@ It facilitates a common format for data model specifications and representation 
   <summary><strong>H2020 InterConnect</strong></summary>
   
   - Our approach was to gear data exchange in a full semantic approach relying not only in graph representations of data and ontology engineering to build the needed graphs. If there is intention to follow this approach in the near future, tools will be required to automate, assist and validate the data representations, as this is yet not a common feature for industry to have. InterConnect has developed some of this tools, may be considered in the ecosystem.
+</details>
+
+<details>
+  <summary><strong>Open Geospatial Consortium</strong></summary>
+  
+  - Formal definitions are not always easy to adapt, which is not the gap cannot be filled on the adopter's side, but the thresholds if high.
+  - The governance administration is internal, while it is not clear if it could be better aligned to the Access & Usage Policies building block.
+  - Implementation of the Data Usage and Accounting, and Publication & Marketplace Solutions could be helpful.
+  - Provenance and traceability support is not stable.
+  
 </details>
 
 ## TRL
