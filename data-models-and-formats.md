@@ -78,6 +78,14 @@ It facilitates a common format for data model specifications and representation 
   
 </details>
 
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - Smart Data Models in different domains are being developed in collaboration with other organizations following a community-driven approach.
+  - General information can be found [here](https://smartdatamodels.org/).
+  - The space on github where data models are being created can be found [here](https://github.com/smart-data-models).
+</details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>i3-Market Project</strong></summary>
@@ -130,6 +138,14 @@ It facilitates a common format for data model specifications and representation 
   
 </details>
 
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - 800+ data models, covering a vocabulary of 18.000+ terms have already been defined on [GitHub](https://github.com/smart-data-models), following a community-driven approach. Models/vocabularies are growing fast.
+
+  - [Portfolio](https://i4trust.org/experiments/) of pioneer use cases relying on the i4Trust framework and using smart data models in combination with NGSI-LD as basis for the data exchange.
+</details>
 
 ## Business Use Cases Implementation
 <details>
@@ -196,6 +212,13 @@ It facilitates a common format for data model specifications and representation 
   
 </details>
 
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - Publication of common data models free of royalties is essential.
+  - A community and implementation (driven approach) is key.
+  - Within the Smart Data Models initiative the proposed data models require a project, therefore a real business case behind.
+</details>
 
 ## Gap or what is missing?
 <details>
@@ -220,6 +243,12 @@ It facilitates a common format for data model specifications and representation 
   - Implementation of the Data Usage and Accounting, and Publication & Marketplace Solutions could be helpful.
   - Provenance and traceability support is not stable.
   
+</details>
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - Definition of data models / vocabularies is a task that requires constant attention.
 </details>
 
 ## TRL
@@ -257,4 +286,9 @@ It facilitates a common format for data model specifications and representation 
   ![InterConnect Use Cases](/images/Interconnect_Additional_info.png)
 </details>
 
-
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - Smart Data Models initiative [website](https://smartdatamodels.org/)
+  - Smart Data Models initiative on [GitHub](https://github.com/smart-data-models)
+</details>
