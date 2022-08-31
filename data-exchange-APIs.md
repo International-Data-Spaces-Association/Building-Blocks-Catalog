@@ -60,6 +60,13 @@
   - FIWARE Context Broker technology implementing the standard ETSI NGSI-LD data exchange API.
 </details>
 
+<details>
+  <summary><strong>Open Geospatial Consortium</strong></summary>
+  
+  - OGC APIs and OWS building blocks for spatial data exchange including Features, Things, rasters, Observations and many more. 
+  - Semantic support is provided by the Vocabulary hub that is hosting OGC specific models but also some domain models, mapping between various ontologies and profiles.
+</details>
+
 ## Technical Reference Implementation
 
 <details>
@@ -93,6 +100,14 @@
   - Several reference open source implementations of NGSI-LD can be found in the [FIWARE Catalogue](https://github.com/FIWARE/catalogue#core-context-broker-components).
   - [Portfolio](https://i4trust.org/experiments/) of pioneer use cases relying on the i4Trust framework and using NGSI-LD as basis for the data exchange.
 
+</details>
+
+<details>
+  <summary><strong>Open Geospatial Consortium</strong></summary>
+  
+  <div align="justify">OGC suite are technical level interoperability standards, both abstract and encodings. They can contain transport, encodings and data models. Combining these based on the specification is a challenging and error-prone process. In addition, generic standards often require extensions (e.g. specific additional structures) and profiles (subsets and compilations). Ultimate interface or data model definition shall be maximally reusing existing data models, support translations between others, while preserving the semantics and provenance of data.</div></br>
+  
+  <div align="justify">To enable semantic representations that will enable both logical and ontological model matching, the OGC Definition Server was developed. It is maintaining OGC standards ontologies models and some domain-specific ones that bridge to the abstract secifications models.</div>
 </details>
 
 ## Business Use Cases Implementation
@@ -133,6 +148,14 @@
 
 </details>
 
+<details>
+  <summary><strong>Open Geospatial Consortium</strong></summary>
+  
+  - There are some ontologies and models already in use, practical usage examples. 
+  - There is also key governance aspect that needs to be handled and preserved to sustain usefulness and completeness. 
+  - Governance needs to be supported by some technical tools and policies.
+</details>
+
 ## Gap or what is missing?
 <details>
   <summary><strong>EGI-ACE</strong></summary>
@@ -145,6 +168,15 @@
   <summary><strong>i4Trust</strong></summary>
   
   - Data exchange based on streaming is required.  The ETSI NGSI-LD standard API is evolving to cover this aspect but some Context Brokers have not yet implemented all latest features of NGSI-LD.
+</details>
+
+<details>
+  <summary><strong>Open Geospatial Consortium</strong></summary>
+  
+  - Formal definitions are not always easy to adapt, which is not the gap cannot be filled on the adopter's side, but the thresholds if high.
+  - The governance administration is internal, while it is not clear if itcould be better aligned to the Access & Usage Policies building block.
+  - Implementation of the Data Usage and Accounting, and Publication & Marketplace Solutions could be helpful.
+  - Provenance and traceability support is not stable.
 </details>
 
 
