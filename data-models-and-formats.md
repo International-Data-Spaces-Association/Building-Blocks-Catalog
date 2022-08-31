@@ -72,13 +72,6 @@ It facilitates a common format for data model specifications and representation 
 </details>
 
 <details>
-  <summary><strong>Open Geospatial Consortium</strong></summary>
-  
-<div align="justify">OGC APIs and OWS building blocks for spatial data exchange including Features, Things, rasters, Observations and many more. Semantic support is provided by the Vocabulary hub that is hosting OGC specific models but also some domain models, mapping between various ontologies and profiles.</div>
-  
-</details>
-
-<details>
   <summary><strong>i4Trust</strong></summary>
   
   - Smart Data Models in different domains are being developed in collaboration with other organizations following a community-driven approach.
