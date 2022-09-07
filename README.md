@@ -145,6 +145,21 @@ These building blocks cover essential aspects to handle data as an economic asse
   <div align="justify">OGC community is building spatial-related suite of standards in multiple groups. both internally and externally it is important to ensure minimum alignment between interoperability solutions. Therefore, as the harmonisation between standards is based on the building blocks that can be composed in the IT solution, it is important to make sure component building blocks can mediate and use exchange mechanisms.</div>
 </details>
 
+<details>
+  <summary><strong>PLATOON Project</strong></summary>
+  
+  Provide building blocks for three pillars to support a reference Architecture for Interoperable Data (and services) Ecosystem.
+1. Pilar 1 : Interoperability : Semantic Data Model for Energy
+2. Pilar 2 : Trust : with IDSA (own connector) - Privacy for secure data exchange.
+3. Pilar 3 : Data value : Use Analytic Toolbox that leverages previous 2 pillars and provides data driven interoperable service that can be deployed in different configuration - Cloud/Hybrid/Edge
+</details>
+
+<details>
+  <summary><strong>Fraunhofer IOSB</strong></summary>
+  
+  <div align="justify">Data sovereignty for manufacturing / Industry 4.0 companies in use-cases like "Collaboritive Condition Monitoring". We are using the Eclipse Dataspace Connector to connect digital twins (asset administration shell) across company borders.</div>
+</details>
+
 ## General use cases
 <div align="justify">Building blocks are usually combined with others, giving as a result a complete product or service. Amongst other qualities, data sovereignty and interoperability tend to be a powerful asset which makes the difference with other initiatives of the sector.</div></br>
 
