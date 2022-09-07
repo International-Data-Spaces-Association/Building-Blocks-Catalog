@@ -60,7 +60,8 @@ It facilitates a common format for data model specifications and representation 
   
   - Vocabulary Provider
   - Data Usage App
-  - DAPS 
+  - DAPS
+  - Semantic Data Models for energy
 </details>
 
 <details>
@@ -140,6 +141,14 @@ It facilitates a common format for data model specifications and representation 
   - [Portfolio](https://i4trust.org/experiments/) of pioneer use cases relying on the i4Trust framework and using smart data models in combination with NGSI-LD as basis for the data exchange.
 </details>
 
+<details>
+  <summary><strong>Platoon Project</strong></summary>
+  
+  - Use W3C stacks and reflect multiple use cases for the energy value chain.
+  - Have different reference impletemantions with different technological framework. 
+  - Complete pipeline from heterogeneous data sources to semantic data / Knowledge graph that support data driven services (e.g. ML for forecasting ...)
+</details>
+
 ## Business Use Cases Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
@@ -195,6 +204,7 @@ It facilitates a common format for data model specifications and representation 
   <summary><strong>Platoon Project</strong></summary>
   
   - Ability to provide separate information if required.
+  - Development of a complete methodology for building models that will be reused in coming EU energy data spaces (OMEGAX and Enershare - HORIZON-CL5-2021-D3-01-01) as well DATAMITE (HORIZON-CL4-2022-DATA-01-04) for Data valorization.
 </details>
 
 <details>
@@ -219,6 +229,8 @@ It facilitates a common format for data model specifications and representation 
   
   - Vocabulary provider
   - Link with other IDS components (e.g. Broker)
+  - Extend the SDMs to other Cross sector Use cases. 
+  - Align with other SDM that were not detected during the assesment.
 </details>
 
 
@@ -260,6 +272,7 @@ It facilitates a common format for data model specifications and representation 
   <summary><strong>Platoon Project</strong></summary>
   
   - App concept in IDS has several limitations that should be overcome.
+  - PLATOON SDMs will be considered for Common data models for Energy, Home, Mobility @ EU LEVEL
 </details>
 
 ## Additional Information
