@@ -22,7 +22,6 @@ It facilitates a common format for data model specifications and representation 
 - Creation and registration of the data offering description
 </details>
 
-
 ## Components and Technologies
 <details>
   <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
@@ -61,7 +60,8 @@ It facilitates a common format for data model specifications and representation 
   
   - Vocabulary Provider
   - Data Usage App
-  - DAPS 
+  - DAPS
+  - Semantic Data Models for energy
 </details>
 
 <details>
@@ -70,6 +70,14 @@ It facilitates a common format for data model specifications and representation 
   - Based on InterConnect's reference architecture, we have developed a pair of components: the Knowledge Engine and the Generic Adapter (part of InterConnect's Semantic Interoperability Framework), accounting for the "Data Exchange APIs" building block. 
   - Our methodology relies in the use of graph dissemination for discovery and data exchange. 
   - InterConnect relies on SAREF (ontology) as our main building block account for the "Data Models & Formats).
+</details>
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - Smart Data Models in different domains are being developed in collaboration with other organizations following a community-driven approach.
+  - General information can be found [here](https://smartdatamodels.org/).
+  - The space on github where data models are being created can be found [here](https://github.com/smart-data-models).
 </details>
 
 ## Technical Reference Implementation
@@ -115,6 +123,31 @@ It facilitates a common format for data model specifications and representation 
   - Most use-cases use the SIF as the key enabler to unlock interoperability that is directly geared by the use of the SAREF ontology; using it to demonstrate DSF solutions for flexibility exchange and actuation over smart appliances according to demand.
 </details>
 
+<details>
+  <summary><strong>Open Geospatial Consortium</strong></summary>
+  
+<div align="justify">OGC suite are technical level interoperability standards, both abstract and encodings. They can contain transport, encodings and data models. Combining these based on the specification is a challenging and error-prone process. In addition, generic standards often require extensions (e.g. specific additional structures) and profiles (subsets and compilations). Ultimate interface or data model definition shall be maximally reusing existing data models, support translations between others, while preserving the semantics and provenance of data.</div></br>
+
+<div align="justify">To enable semantic representations that will enable both logical and ontological model matching, the OGC Definition Server was developed. It is maintaining OGC standards ontologies models and some domain-specific ones that bridge to the abstract secifications models.</div>
+  
+</details>
+
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - 800+ data models, covering a vocabulary of 18.000+ terms have already been defined on [GitHub](https://github.com/smart-data-models), following a community-driven approach. Models/vocabularies are growing fast.
+
+  - [Portfolio](https://i4trust.org/experiments/) of pioneer use cases relying on the i4Trust framework and using smart data models in combination with NGSI-LD as basis for the data exchange.
+</details>
+
+<details>
+  <summary><strong>Platoon Project</strong></summary>
+  
+  - Use W3C stacks and reflect multiple use cases for the energy value chain.
+  - Have different reference impletemantions with different technological framework. 
+  - Complete pipeline from heterogeneous data sources to semantic data / Knowledge graph that support data driven services (e.g. ML for forecasting ...)
+</details>
 
 ## Business Use Cases Implementation
 <details>
@@ -147,6 +180,17 @@ It facilitates a common format for data model specifications and representation 
   <div align="justify">The wind and solar description model is the digital backbone to federate all the businesses and its ecosystem around one single source of truth from “DESIGN, MODIFICATION to others REFRESHMENT”. Being able to share the same abstract representation of data for the wind and solar domain would allow a better understanding of the associated operations (asset management, RCA, Structural Analysis, Visual Inspection, monitoring ...) and an obvious improvement of the processes that mobilize the processing of this information.</div>
 </details>
 
+<details>
+  <summary><strong>Platoon Project</strong></summary>
+  
+  <div align="justify">It aims to digitalise the energy sector, enabling thus higher levels of operational excellence with the adoption of disrupting technologies. PLATOON will deploy distributed edge processing and data analytics technologies for optimized real-time energy system management in a simple way for the energy domain expert. Moreover, it will contribute to increased renewable energy consumption, smart grids management, increased energy efficiency and optimised energy asset management.</div>
+</details>
+
+<details>
+  <summary><strong>H2020 InterConnect</strong></summary>
+  <div align="justify">The solutions developed within the scope of InterConnect will allow a digitalisation of homes, buildings and electric grids based on an Internet of Things (IoT) architecture. By including digital technologies (Artificial Intelligence, Blockchain, Cloud and Big Data) based on open standards, such as SAREF, it will guarantee the interoperability between equipment, systems and privacy/cybersecurity of user data.</div>
+</details>
+
 ## Best practices identification and recommendations
 
 <details>
@@ -160,6 +204,23 @@ It facilitates a common format for data model specifications and representation 
   <summary><strong>Platoon Project</strong></summary>
   
   - Ability to provide separate information if required.
+  - Development of a complete methodology for building models that will be reused in coming EU energy data spaces (OMEGAX and Enershare - HORIZON-CL5-2021-D3-01-01) as well DATAMITE (HORIZON-CL4-2022-DATA-01-04) for Data valorization.
+</details>
+
+<details>
+  <summary><strong>Open Geospatial Consortium</strong></summary>
+  
+  - There is also key governance aspect that needs to be handled and preserved to sustain usefulness and completeness. 
+  - Governance needs to be supported by some technical tools and policies.
+  
+</details>
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - Publication of common data models free of royalties is essential.
+  - A community and implementation (driven approach) is key.
+  - Within the Smart Data Models initiative the proposed data models require a project, therefore a real business case behind.
 </details>
 
 ## Gap or what is missing?
@@ -168,6 +229,8 @@ It facilitates a common format for data model specifications and representation 
   
   - Vocabulary provider
   - Link with other IDS components (e.g. Broker)
+  - Extend the SDMs to other Cross sector Use cases. 
+  - Align with other SDM that were not detected during the assesment.
 </details>
 
 
@@ -175,6 +238,22 @@ It facilitates a common format for data model specifications and representation 
   <summary><strong>H2020 InterConnect</strong></summary>
   
   - Our approach was to gear data exchange in a full semantic approach relying not only in graph representations of data and ontology engineering to build the needed graphs. If there is intention to follow this approach in the near future, tools will be required to automate, assist and validate the data representations, as this is yet not a common feature for industry to have. InterConnect has developed some of this tools, may be considered in the ecosystem.
+</details>
+
+<details>
+  <summary><strong>Open Geospatial Consortium</strong></summary>
+  
+  - Formal definitions are not always easy to adapt, which is not the gap cannot be filled on the adopter's side, but the thresholds if high.
+  - The governance administration is internal, while it is not clear if it could be better aligned to the Access & Usage Policies building block.
+  - Implementation of the Data Usage and Accounting, and Publication & Marketplace Solutions could be helpful.
+  - Provenance and traceability support is not stable.
+  
+</details>
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - Definition of data models / vocabularies is a task that requires constant attention.
 </details>
 
 ## TRL
@@ -193,6 +272,7 @@ It facilitates a common format for data model specifications and representation 
   <summary><strong>Platoon Project</strong></summary>
   
   - App concept in IDS has several limitations that should be overcome.
+  - PLATOON SDMs will be considered for Common data models for Energy, Home, Mobility @ EU LEVEL
 </details>
 
 ## Additional Information
@@ -212,4 +292,9 @@ It facilitates a common format for data model specifications and representation 
   ![InterConnect Use Cases](/images/Interconnect_Additional_info.png)
 </details>
 
-
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - Smart Data Models initiative [website](https://smartdatamodels.org/)
+  - Smart Data Models initiative on [GitHub](https://github.com/smart-data-models)
+</details>

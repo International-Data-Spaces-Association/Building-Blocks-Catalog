@@ -1,7 +1,7 @@
 # Identity Management (IM)
 
 ## Definition
-<div align="justify">The IM building block allows identification, authentication, and authorisation of stakeholders operating in a data space. It ensures that organisations, individuals, machines, and other actors are provided with acknowledged identities, and that those identities can be authenticated and verified, including additional information provisioning1, to be used by authorisation mechanisms to enable access and usage control. The IM building block can be implemented on the basis of readily available IM platforms that cover parts of the required functionality.</div>
+<div align="justify">The IM building block allows identification, authentication, and authorisation of stakeholders operating in a data space. It ensures that organisations, individuals, machines, and other actors are provided with acknowledged identities, and that those identities can be authenticated and verified, including additional information provisioning, to be used by authorisation mechanisms to enable access and usage control. The IM building block can be implemented on the basis of readily available IM platforms that cover parts of the required functionality.</div>
 
 ## Role and Scope
 <div allign="justify">Provides authentication and authorisation of data space participants.</div>
@@ -105,6 +105,13 @@ User-centric Authentication.
 
 </details>
 
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - OpenID Connect has been adopted as common standard.
+  
+</details>
+
 ## Features 2
 **[TODO:] ASK FOR A DEFINITION OF FEATURES 2** 
 <details>
@@ -173,11 +180,19 @@ Go to the [source](http://open-source.i3-market.eu/technical-information/i3-mark
   <div allign="justify"><a href="https://www.egi.eu/service/check-in/">EGI Check-in</a> is a proxy service that operates as a central hub to connect federated Identity Providers (IdPs) with EGI service providers. Check-in allows users to select their preferred IdP so that they can access and use EGI services in a uniform and easy way.</div>
 </details>
 
-
 <details>
   <summary><strong>H2020 InterConnect</strong></summary>
   
 <div align="justify">All interactions with the SIF require the use of AAA mechanisms. We host the IDP system as part of our backend that support all AAA features to our gateways ( Generic Adapters). The system relies in the reference implementation for OAuth 2.0.All interactions with the SIF require the use of AAA mechanisms. We host the IDP system as part of our backend that support all AAA features to our gateways ( Generic Adapters). The system relies in the reference implementation for OAuth 2.0.</div>
+</details>
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - OpenID Connect flows have been implemented by different components of the FIWARE Catalogue:
+    - Keyrock implements the functions of Identity Provider. See: https://github.com/ging/fiware-idm
+    - API gateways implementing the OpenID Connect flows.  The extended version of the [Kong API gateway via plugins](https://github.com/FIWARE/kong-plugins-fiware) is recommended.
+  - [Portfolio](https://i4trust.org/experiments/) of pioneer use cases relying on the i4Trust framework and using FIWARE Keyrock and API gateways.
 </details>
 
 ## Business Use Cases Implementation
@@ -214,13 +229,11 @@ More details about [Catena-X Portal](https://catena-x.net/en/angebote/portal).
   - Combination of user attributes originating from various authoritative sources (IdPs and attribute provider services) and delivers them to the connected Service providers in a transparent way.
 </details>
 
-
 <details>
   <summary><strong>iSHARE Foundation</strong></summary>
   The EIDAS framework is at the same level of trust, hence EIDAS and iSHARE are connected, further reading <a href="https://ishareworks.atlassian.net/wiki/spaces/IS/pages/70221987/Framework+and+roles">here</a>.
 
 </details>
-
 
 <details>
   <summary><strong>H2020 InterConnect</strong></summary>
@@ -235,6 +248,12 @@ More details about [Catena-X Portal](https://catena-x.net/en/angebote/portal).
   - Evolution towards SSI.
 </details>
 
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - FIWARE components implementing this building block (Keyrock, Kong plugins) are evolving to bring support to DIDs (Decentralized Identifiers) and Verifiable Credentials/Presentations, following recent W3C standards, as mean to manage identities.
+</details>
+
 ## TRL
 
 ## Comments
@@ -246,5 +265,11 @@ More details about [Catena-X Portal](https://catena-x.net/en/angebote/portal).
   
   - <a href="https://ishareworks.atlassian.net/wiki/spaces/IS/pages/70221987/Framework+and+roles">Framework and roles</a>.
 
+</details>
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - [Additional information](https://github.com/i4Trust/building-blocks)
 </details>
 

@@ -92,6 +92,13 @@ Go to the [source](http://open-source.i3-market.eu/technical-information/i3-mark
  - Totally federated 'trust phone book' to discover participants, find the trust level and the roles, and of course the data space.
 </details>
 
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+ 
+- [iSHARE Satellite](https://ishare.eu/ishare-satellite-explained/) services are used at this moment.  This service has been defined implementing Trust Anchor functions within data spaces to verify trust of participants.
+</details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
@@ -133,6 +140,14 @@ To overcome the lack of trust currently still prevailing, data sovereignty conce
   - Process data from Data Pod to the Data Cage
  
   <img src="./images/Trusted_Exchange_Datavillage2.png"/>
+</details>
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+ 
+- iSHARE provides testing and operation instances of the service.  
+- API gateways used in i4Trust are available in the FIWARE Catalogue.  The extended version of the [Kong API gateway via plugins](https://github.com/FIWARE/kong-plugins-fiware) is recommended. 
+- [Portfolio](https://i4trust.org/experiments/) of pioneer use cases relying on the i4Trust framework and using iSHARE Satellite services as basis for verifying trust of participants.
 </details>
 
 ## Business Use Cases Implementation
@@ -204,6 +219,13 @@ Enable the analysis and processing of sensitive personal data aiming better cont
 </details>
 
 
+<details>
+  <summary><strong>i4Trust</strong></summary>
+ 
+- Convergence with other alternative Trust Anchor services (Gaia-X, IDS, EBSI) is being analysed under the DSBA (Data Spaces Business Alliance).
+</details>
+
+
 ## TRL
 <details>
   <summary><strong>High TRL</strong></summary>
@@ -223,4 +245,13 @@ Enable the analysis and processing of sensitive personal data aiming better cont
 <details>
  <summary><strong>iSHARE Foundation</strong></summary>
 Find more information in <a href="https://ishare.eu/">iSHARE Foundation's<a> webpage.
+</details>
+ 
+<details>
+  <summary><strong>i4Trust</strong></summary>
+ 
+ More information about iSHARE can be found here: 
+- [Portal for developers](https://dev.ishare.eu/)
+- [iSHARE wiki](https://ishareworks.atlassian.net/wiki/spaces/IS/pages/70222191/iSHARE+Scheme)
+- [Additional info](https://github.com/i4Trust/building-blocks)
 </details>

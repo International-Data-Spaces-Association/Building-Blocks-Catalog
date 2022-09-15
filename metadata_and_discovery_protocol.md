@@ -1,6 +1,6 @@
 # Metadata and Discovery Protocol
 ## Definition
-<div align="justify"> This building block incorporates publishing and discovery mechanisms for data resources and services, making use of common descriptions of resources, services, and participants. Such descriptions can be both domain-agnostic and domain-specific. They should be enabled by semantic-web technologies and include linkeddata principles. </div> 
+<div align="justify"> This building block incorporates publishing and discovery mechanisms for data resources and services, making use of common descriptions of resources, services, and participants. Such descriptions can be both domain-agnostic and domain-specific. They should be enabled by semantic-web technologies and include linked data principles. </div> 
 
 ## Role and Scope
 <div allign="justify">Enables publication of offerings centred around data resources and services, making use of common descriptions of resources, services, and participants.</div>

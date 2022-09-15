@@ -1,23 +1,36 @@
 # Organisational/operational building blocks
 
 ## Definition
-<div align="justify">[TO DO. Provisional: http://open-source.i3-market.eu/technical-information/data-storage-system-specifications/]. The common data shared between participating data marketplace instances may include identity information, shared semantic models, meta-information about data sets and offerings, semantic queries, sample data, smart contract templates and instances, crypto tokens and payments. No single party should fully control the data storage system and there shall be no single point of failure.</div> 
+<div align="justify">The organizational level refers to the way in which the agreements, expectations and processes are aligned to achieve the common goals for controlled data sharing. This includes the onboarding and certification (according to common and accepted criteria), aligned service level agreements (for realizing overarching expectations and quality control) and aligned operations and customer processes (for improved operating efficiency and enhanced customer experience).</div> 
 
 ## Role and Scope
 <div allign="justify"></div>
 
 ## Features
+<details>
+  <summary><strong>Design Principles Position Paper</strong></summary>
+  
+  - Domain Data Standard
+  - Unique Identifiers
+  - Authorisation Registries
+  - Trusted Parties
+  - Data Space Boards
+  - Overarching cooperation Agreements
+  - Continuity Model
+  - Regulations
+</details>
+
 
 ## Components and Technologies
 <details>
   <summary><strong>i3-Market Project</strong></summary>
   
-- Embedded Ledger
-- Database
-- Smart Contracts for Permissioning
-- Synchronization: The distributed storage database must support data synchronization between nodes.
-- Semantic Database
-- API for External Access
+  - Embedded Ledger
+  - Database
+  - Smart Contracts for Permissioning
+  - Synchronization: The distributed storage database must support data synchronization between nodes.
+  - Semantic Database
+  - API for External Access
   
 For more detailed information, visit the [source's webpage.](http://open-source.i3-market.eu/technical-information/data-storage-system-specifications/)
 </details>
@@ -61,6 +74,21 @@ For more detailed information, visit the [source's webpage.](http://open-source.
   - FAIR principles
 </details>
 
+<details>
+  <summary><strong>MyData</strong></summary>
+  <div align="justify">The ecosystem created by operators, working with data sources and data using services, is always part of a broader, social and economic system of individuals, communities, public organisations and private companies. Therefore, the ecosystem functions within the wider context of legislation, regulation, and social norms. Legislation is necessary for the creation of trust, but it is not sufficient. In order to create
+a level playing field in the market, rules of engagement between the different roles and actors fulfilling those roles are needed. </div></br>
+  
+  Read more in <a href="https://mydata.org/wp-content/uploads/2022/03/Understanding-MyData-Operators-2022.pdf">Understanding MyData Operators</a>
+  
+  ![The tiers of governance in human-centric data sharing](/images/Governance_MyData.png)
+</details>
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - i4Trust technology building blocks can be used with different governance frameworks but the one implemented by iSHARE is given as one possible reference.
+</details>
 
 ## Technical Reference Implementation
 <details>
@@ -77,6 +105,12 @@ For more detailed information, visit the [source's webpage.](http://open-source.
   - [Route compatibility check](https://data-interop.era.europa.eu/)
 </details>
 
+
+<details>
+  <summary><strong>i4Trust</strong></summary>
+  
+  - See [this](https://ishare.eu/ishare/the-foundation/governance/) for an example of governance that can be implemented for data spaces using i4Trust building blocks.
+</details>
 
 ## Business Use Cases Implementation
 <details>

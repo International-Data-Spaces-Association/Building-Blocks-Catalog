@@ -30,7 +30,7 @@
 <details>
   <summary><strong>Datavillage</strong></summary>
   
-  - Concent receipt management, which is a consent template based on Gconsent ontology that can be used by the organsation to define the purpose and the data that will be used for data processing.
+  - Consent receipt management, which is a consent template based on Gconsent ontology that can be used by the organsation to define the purpose and the data that will be used for data processing.
   - The consent receipt is then used within a data consent wizard to request consent to the end user.
 </details>
 
