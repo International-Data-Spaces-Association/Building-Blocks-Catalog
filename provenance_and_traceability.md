@@ -28,6 +28,10 @@
   
 </details>
 
+<details>
+  <summary><strong>SmashHit project</strong></summary>
+ - Encryption module with digital signature, hashing function, web framework, unique identifier generator, watermarking, fingerprinting.
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
