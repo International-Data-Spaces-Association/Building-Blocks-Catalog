@@ -80,6 +80,14 @@ It facilitates a common format for data model specifications and representation 
   - The space on github where data models are being created can be found [here](https://github.com/smart-data-models).
 </details>
 
+<details>
+  <summary><strong>Reservist project (VTT)</strong></summary>
+  
+  - Data Models for the emergency domain utilizing json schema. 
+  - A user interface to edit and render the data. 
+  - IDS Connectors.
+</details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>i3-Market Project</strong></summary>
@@ -189,6 +197,18 @@ It facilitates a common format for data model specifications and representation 
 <details>
   <summary><strong>H2020 InterConnect</strong></summary>
   <div align="justify">The solutions developed within the scope of InterConnect will allow a digitalisation of homes, buildings and electric grids based on an Internet of Things (IoT) architecture. By including digital technologies (Artificial Intelligence, Blockchain, Cloud and Big Data) based on open standards, such as SAREF, it will guarantee the interoperability between equipment, systems and privacy/cybersecurity of user data.</div>
+</details>
+
+<details>
+  <summary><strong>SmashHit Project</strong></summary>
+  
+  - An organization (A) asking a data owner for consent to receive and process data from their connected car, which an OEM organization (B) must facilitate.
+In this setup, organization A would need to use the consent manager to fill a template with the terms of this consent such as the purpose of the consent, actors involved (A and B), or personal data to be processed. After this first step, A can start asking their customers for consent as defined in the template and ask the consent manager to process the response. The consent manager automatically handles the certification, signature, and safe keeping of this consent, while also notifying the rest of the actors affected (in this case B, the OEM), so that they can enforce the consent given by the data owner.
+- The data owner is also automatically registered in the manager, so that they can review and revoke any given consent at any point in time directly from the consent manager itself.
+  
+  ![image](https://user-images.githubusercontent.com/95075534/194383186-9d367439-d150-49f5-85ef-1522ac6456e4.png)
+            Scenario: consent creation
+
 </details>
 
 ## Best practices identification and recommendations
