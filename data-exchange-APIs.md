@@ -67,6 +67,14 @@
   - Semantic support is provided by the Vocabulary hub that is hosting OGC specific models but also some domain models, mapping between various ontologies and profiles.
 </details>
 
+<details>
+  <summary><strong>IDSA Hub Finland </strong></summary>
+  
+  - IDS connector
+  - Eclipse Milo - open source implementation of OPC UA.
+</details>
+
+
 ## Technical Reference Implementation
 
 <details>
@@ -110,6 +118,14 @@
   <div align="justify">To enable semantic representations that will enable both logical and ontological model matching, the OGC Definition Server was developed. It is maintaining OGC standards ontologies models and some domain-specific ones that bridge to the abstract secifications models.</div>
 </details>
 
+<details>
+  <summary><strong>IDSA Hub Finland </strong></summary>
+  
+  - IDS connector implementation with OPC-UA support. 
+  - The connector enables exchanging data retrieved from OPC-UA servers.
+</details>
+
+
 ## Business Use Cases Implementation
 
 <details>
@@ -119,6 +135,15 @@
   
 </details>
 
+<details>
+  <summary><strong>IDS Hub Finland</strong></summary>
+  
+- INDEX  - Industrial Data Excellence
+  We have used it in the Index project in the Smart Manufacturing use case. It enables the secure exchange of data among manufacturing machines that deploy heterogeneous interfaces and communication protocols. There is a description of the project https://www.dimecc.com/dimecc-services/index/ 
+  ![image](https://user-images.githubusercontent.com/95075534/194386301-7e25c8e9-dc5c-4dc7-97e3-368d5b1640ad.png)
+
+  </details>
+  
 ## Best practices identification and recommendations
 
 <details>
@@ -198,3 +223,10 @@
   - Latest version of the [specs](https://www.etsi.org/committee/cim).
   - NGSI-LD is being adopted worldwide as a minimum interoperability mechanism for data exchange by cities. For example, in India has been adopted by the Bureau of Indian Standards.
 </details>
+
+  <details>
+  <summary><strong>IDS Hub Finland</strong></summary>
+  
+- INDEX  - Industrial Data Excellence
+  More information: https://www.famn.fi/news/smart-factory-prototype-and-other-index-program-results-published/
+  </details>
