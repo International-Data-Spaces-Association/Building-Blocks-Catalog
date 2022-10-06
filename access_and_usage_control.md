@@ -123,6 +123,14 @@
   - A XACML-like architecture comprising PEP, PDP, PAP, PIP functions is implemented for access control.
 
 </details>
+
+<details>
+  <summary><strong>SmashHit project</strong></summary>
+- Consent Manager: it is a core component of the smashHit platform that includes the functionality regarding the life cycle of the consent certifications. 
+  The module interacts closely with the User Administration module since the users are the subject of the contracts. 
+  The functions include the consent certification creation, management, consent distribution among the parties.
+  
+  </details>
   
 ## Technical Reference Implementation
 <details>
@@ -190,6 +198,11 @@ This project is part of [FIWARE](https://www.fiware.org/).
   - <div align="justify">The Authorisation registry role is a federated role, open to data spaces to set this up specifically for specific data spaces. The role is open for organisations to either set it up themselves, but there is a growing market of market players providing commercial authorisation registry services.</div>
 </details>
 
+<details>
+  <summary><strong>SmashHit project </strong></summary>
+- Maintaining a common, well-known definition of at least the main legal terms in the consents which is accessible to all the different actors is, in our opinion, a must for this kind of system. 
+In our case, we have chosen to base the consent manager on top of an ontology (https://smashhiteu.github.io/smashHitCore/) so that most of the process of defining the consent terms (purpose, roles, personal data categories…) is backed by this well-known model
+</details>
 
 ## Gap or what is missing?
 <details>
@@ -204,6 +217,12 @@ This project is part of [FIWARE](https://www.fiware.org/).
 
 </details>
 
+<details>
+  <summary><strong>SmashHit project </strong></summary>
+We have not seen a clear block or feature devoted to manage the consent but we think that this is important in an Access and Usage Control, this is the reason we have added the consent Manager component, to complement the description of the Building Block
+
+  </details>
+  
 ## TRL
 
 ## Comments
@@ -232,3 +251,8 @@ This project is part of [FIWARE](https://www.fiware.org/).
 
 </details>
 
+<details>
+  <summary><strong>SmashHit project </strong></summary>
+You can find information in the following document https://smashhit.eu/public-report-d1-3-public-innovation-concept/ 
+  The SmashHit Guidelines will be able to find online very soon, currently in progress.
+  </details>
