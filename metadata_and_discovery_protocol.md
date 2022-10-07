@@ -117,6 +117,20 @@ For more detailed information visit the [source's webpage.](http://open-source.i
 - In the InterConnect Semantic Interoperability Framework (SIF) the core component, the Knowledge Engine, unlocks the discovery and exchange of semantically modelled data.
 </details>
 
+<details>
+  <summary><strong>SmashHit project</strong></summary>
+  
+Context Sensitivity Solution (CSS), comprising of the following sub-components:
+  - Context monitoring & extraction: 
+         - provides the main functionality for ingesting data from other smashHit components into the CSS, 
+         - monitor and structure those data according to the predefined smashHit ontology model, and 
+         - finally extract the contextual information from it.
+  - CSS interfaces: 
+         - provides REST API functionalities for communication with external modules, 
+        - data ingestion as for the CSS extraction result provision
+
+  </details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
@@ -161,7 +175,21 @@ For more detailed information visit the [source's webpage.](http://open-source.i
 
 </details>
 
+<details>
+  <summary><strong>SmashHit project-x</strong></summary>
+Solving Consumer Consent & Data Security for Connected Car and Smart City
+Connected Car/Insurance Business Case:
+This Business Case is focused on the use of connected car data in the insurance sector. 
+The use of such data has been restricted so far because of two main reasons:
+      1. Lack of trust by consumers regarding the use of their data.
+      2. Complexity for the consumer to provide the consent required under GDPR.
 
+To respond to this, this Business Case aims for a simpler and automated consent process and a process where the consumer is in full control of their consent. They can manage it, withdraw it, change it themselves at any time. 
+This Business Case also addresses the privacy aspects of consent and ensuring GDPR compliance. By making the consent process simpler, secure, and GDPR compliant, it is believed that a larger number of consumers would adopt the use of connected car data for use in risk calculations by their insurer. 
+The current structures and consent schemes in place today require a consumer to give their consent to multiple organisations separately, which has already proven to be an unrealistic approach in working with consumers. Within smashHit, LexisNexis and Volkswagen use, among others, the Context Sensitivity Solution with the aim to automate and simplify the consent process whilst ensuring transparency and clear accountability for consumers when buying connected car insurance.
+
+  </details>
+  
 ## Best practices identification and recommendations
 <details>
   <summary><strong>TNO</strong></summary>
