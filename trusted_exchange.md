@@ -99,6 +99,12 @@ Go to the [source](http://open-source.i3-market.eu/technical-information/i3-mark
 - [iSHARE Satellite](https://ishare.eu/ishare-satellite-explained/) services are used at this moment.  This service has been defined implementing Trust Anchor functions within data spaces to verify trust of participants.
 </details>
 
+<details>
+  <summary><strong>CS4EU project</strong></summary>
+ 
+- FE2MED (Functional encryption to Medical Data)
+</details>
+
 ## Technical Reference Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
@@ -150,6 +156,24 @@ To overcome the lack of trust currently still prevailing, data sovereignty conce
 - [Portfolio](https://i4trust.org/experiments/) of pioneer use cases relying on the i4Trust framework and using iSHARE Satellite services as basis for verifying trust of participants.
 </details>
 
+<details>
+  <summary><strong>CS4EU project</strong></summary>
+ 
+The Functional Encriptation for Medical (FE2MED) asset is used in CyberSec4Europe (CS4EU) projec. CS4RU goal is provide security measures when medical data are shared. It secures data sharing by using this functional encryption tool. 
+FE2MED ensures data integrity and confidentiality, 
+Leveragecrypto libraries which implement Inner product schemes (e.g., simpleDDH or damgardDDH) for computing data sets providing statistical results to the data consumers. 
+It also implements ABE schemes: KP-ABE schemes ensuring that only selected recipients are able to see certain data. 
+It provides a graphical user interface for facilitating the KP-ABE use. 
+FE2MED is a service currently deployed on premise.
+ 
+![image](https://user-images.githubusercontent.com/95075534/194581121-e36740f4-80ba-4a53-9265-152ee6ea049a.png)
+ 
+ It can be ceployed as a Service
+
+![image](https://user-images.githubusercontent.com/95075534/194580993-e144bd5a-cee5-4a75-aacf-0f8634d67eb0.png)
+
+ </details>
+
 ## Business Use Cases Implementation
 <details>
   <summary><strong>ECI - TNO</strong></summary>
@@ -193,6 +217,20 @@ Enable the analysis and processing of sensitive personal data aiming better cont
  
 </details>
 
+<details>
+  <summary><strong>CS4EU project</strong></summary>
+Use Case MD-UC1: Sharing Sensitive Health Data Through an API The FE2MED asset, used in CyberSec4Europe project, secures data sharing by using this functional encryption tool. 
+ 
+The Medical Data Exchange demonstrator is intended to increase the trustworthiness between stakeholders when sharing medical data through a marketplace platform thus generating new business opportunities. This will be achieved by using a real environment provided by the COVID-19 Data Exchange platform50 (COV19DEP)launched by Dawex, which will offer to the users an anonymization service and a functional encryption service for increasing the user privacy and security when sharing data.
+ 
+![image](https://user-images.githubusercontent.com/95075534/194585052-332749a1-d50b-4071-84af-beab3f982ee7.png)
+
+ The figure below shows the basic flow of this Medical Data use case.
+ 
+![image](https://user-images.githubusercontent.com/95075534/194579783-d00f8930-222c-4e42-bc0a-370e05a39ed7.png)
+
+ </details>
+
 ## Best practices identification and recommendations
 <details>
  <summary><strong>iSHARE Foundation</strong></summary>
@@ -208,7 +246,11 @@ Enable the analysis and processing of sensitive personal data aiming better cont
  - In memory processing
  
 </details>
+<details>
+  <summary><strong>CS4EU project</strong></summary>
+ The main functionalities should be deployed on the data provider infrastructure for minimising data leaks.
 
+</details>
 ## Gap or what is missing?
 
 <details>
@@ -225,6 +267,13 @@ Enable the analysis and processing of sensitive personal data aiming better cont
 - Convergence with other alternative Trust Anchor services (Gaia-X, IDS, EBSI) is being analysed under the DSBA (Data Spaces Business Alliance).
 </details>
 
+<details>
+  <summary><strong>CS4EU project</strong></summary>
+ 
+ User interface could be made more friendly and additional crypto schemes can be included. 
+ Mechanisms for sharing decrypting keys.
+ 
+</details>
 
 ## TRL
 <details>
@@ -254,4 +303,10 @@ Find more information in <a href="https://ishare.eu/">iSHARE Foundation's<a> web
 - [Portal for developers](https://dev.ishare.eu/)
 - [iSHARE wiki](https://ishareworks.atlassian.net/wiki/spaces/IS/pages/70222191/iSHARE+Scheme)
 - [Additional info](https://github.com/i4Trust/building-blocks)
+</details>
+ 
+ <details>
+  <summary><strong>CS4EU project</strong></summary>
+ More information about Cyber Security for Europe project and the use cases are described at the D5.5 Specification and set-up demonstration case Phase 2.
+ [https://cybersec4europe.eu/wp-content/uploads/2022/01/D5.5-Specification-and-set-up-demonstration-case-Phase-2-v1.0_submitted.pdf]
 </details>
