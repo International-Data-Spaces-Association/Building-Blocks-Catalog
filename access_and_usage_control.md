@@ -132,6 +132,15 @@
   
   </details>
   
+  <details>
+  <summary><strong>Kraken and CS4EU projects - ATOS</strong></summary>
+  
+  - Ledger uSelf
+  - Decentralized SSI solution
+  - User centric access control to marketplace
+  
+</details>
+  
 ## Technical Reference Implementation
 <details>
   <summary><strong>Design Principles Position Paper</strong></summary>
@@ -165,6 +174,17 @@ This project is part of [FIWARE](https://www.fiware.org/).
   - [Portfolio](https://i4trust.org/experiments/) of pioneer use cases relying on the i4Trust framework and the referred access control mechanisms.
 
 </details>
+  <details>
+  <summary><strong>Kraken and CS4EU projects - ATOS</strong></summary>
+KRAKEN project provides a decentralized SSI solution and user centric access control.
+- SSI mobile app for managing VCs and key material
+- Ledger USelf broker for SP integration
+- Backup service allowing the use of sevarl devices
+
+![image](https://user-images.githubusercontent.com/95075534/194543617-ad3afdeb-03ff-4b0d-a458-c3396c395331.png)
+
+The Ledger uSelf asset (used in KRAKEN project) provides a decentralized SSI solution and user centric access control to the marketplace. The Ledger uSelf comprises an Android SSI mobile app (holders) for users managing VCs issued by trusted entities and key material (decentralized identifiers). Also, it includes a Ledger uSelf broker (server component) for facilitating the SSI integration both with the data providers (isuers) and the Service Providers (verifiers), simplifying the handling of SSI complex protocols and mechanisms. This implementation follows W3C standards and will follow digital wallet specifications from EC (eIDAS regulation).
+</details>
 
 ## Business Use Cases Implementation
 <details>
@@ -185,6 +205,14 @@ This project is part of [FIWARE](https://www.fiware.org/).
   
 </details>
 
+ <details>
+  <summary><strong>Kraken and CS4EU projects - ATOS</strong></summary>
+
+  One of the use cases where this asset is used, involves end-users (e.g., data providers and data consumers) using the SSI mobile app for the onboarding/login processes on the marketplace, for selling or buying health or education data, under full user control.
+![image](https://user-images.githubusercontent.com/95075534/194543864-f5718064-925d-4424-ab03-c1c0ea125c00.png)
+
+  </details>
+
 ## Best practices identification and recommendations
 <details>
   <summary><strong>IoF2020 - ATB Institute for Applied Systems Technology Bremen</strong></summary>
@@ -204,6 +232,11 @@ This project is part of [FIWARE](https://www.fiware.org/).
 In our case, we have chosen to base the consent manager on top of an ontology (https://smashhiteu.github.io/smashHitCore/) so that most of the process of defining the consent terms (purpose, roles, personal data categories…) is backed by this well-known model
 </details>
 
+<details>
+  <summary><strong>Kraken and CS4EU projects - ATOS</strong></summary>
+The use of a SSI SDK already developed by Atos, which simplifies the embedding SSI solution, will be helpful for integrating the SSI solution with marketplace apps or legacy access systems.
+  </details>
+
 ## Gap or what is missing?
 <details>
   <summary><strong>IoF2020 - ATB Institute for Applied Systems Technology Bremen</strong></summary>
@@ -221,6 +254,11 @@ In our case, we have chosen to base the consent manager on top of an ontology (h
   <summary><strong>SmashHit project </strong></summary>
 We have not seen a clear block or feature devoted to manage the consent but we think that this is important in an Access and Usage Control, this is the reason we have added the consent Manager component, to complement the description of the Building Block
 
+  </details>
+  <details>
+  <summary><strong>Kraken and CS4EU projects - ATOS</strong></summary>
+User consent could be included in the used VCs. 
+LedgerUSelf is being evolved with SIOPv2 protocol (https://openid.net/specs/openid-connect-self-issued-v2-1_0.html) to allow integration of existing IAM solutions which support federated identity management protocols (OpenID Connect). This will be relevant for integration of such systems in data spaces initiatives like GAIA-X which is proposing SSI solutions based on SIOP and DID Comm protocols.
   </details>
   
 ## TRL
@@ -256,3 +294,9 @@ We have not seen a clear block or feature devoted to manage the consent but we t
 You can find information in the following document https://smashhit.eu/public-report-d1-3-public-innovation-concept/ 
   The SmashHit Guidelines will be able to find online very soon, currently in progress.
   </details>
+
+  <details>
+  <summary><strong>Kraken and CS4EU projects - ATOS</strong></summary>
+-Kraken project deliverable D3.2 Self-Sovereign Identity Solution Final Release.
+-DE4A project deliverable D5.8 Final Release of DE4A Self-Sovereign Identity Supporting Framework
+</details>
