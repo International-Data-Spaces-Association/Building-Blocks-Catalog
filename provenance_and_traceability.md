@@ -45,8 +45,11 @@
 <details>
   <summary><strong>SmashHit project</strong></summary>
 - Data use traceability component module has two purposes: (1st) to trace data flows by fingerprinting/watermarking, and (2nd) the identification of data leakages. The module addresses the need of Data Providers,  OEMs and Data Processors to get a solution which enables the identification of data leakages or misuses. Basis for this component are data fingerprinting and watermark technologies that shall enable the identification of the last data source within the smashHit ecosystem. The fingerprint or watermark will provide answers about where the leaked or misused data was located or forwarded the last time which will avoid the blaming of guiltless participants in a consent chain.
-  ![image](https://user-images.githubusercontent.com/95075534/194502726-97de469e-24e0-444d-81f3-85053cac9516.png)
-Figure 1. Application of smashHit’s Data Use Traceability Component
+  
+![image](https://user-images.githubusercontent.com/95075534/194779027-78d59008-f840-455a-ad6f-25caa2fad0ad.png)
+
+  Figure.Application of smashHit’s Data Use Traceability Component
+  
 </details>
 
 ## Business Use Cases Implementation
