@@ -124,9 +124,9 @@ These building blocks cover essential aspects to handle data as an economic asse
 </details>
 
 <details>
-  <summary><strong>Open Data Product Specification</strong></summary>
+  <summary><strong>Open Data Product Initiative</strong></summary>
   
-  <div align="justify">ODPS is a technical specification of a machine-readable data product metadata model. The Open Data Product Specification aims for the same impact in the Data Economy as what OpenAPI specification did for the API Economy.</div></br>
+  <div align="justify"><a href="https://opendataproducts.org">Open Data Product Specification (ODPS)</a> is a vendor-neutral, open-source machine-readable data product metadata model. This specification is developed openly under the <a href="https://opencollective.com/odpi">Open Data Product Initiative</a>. The Open Data Product Specification aims for the same impact in the Data Economy as what OpenAPI specification did for the API Economy.</div></br>
 
   <div align="justify">The data products and data as a service solutions are spread around increasing amount of market places, tool stack for the data product design, development and management is a wild west, consumers have a hard time knowing what they are purchasing or how to compare data products to find a best possible fit in their situation.</div></br>
 
