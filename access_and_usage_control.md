@@ -238,11 +238,6 @@ The use of a SSI SDK already developed by Atos, which simplifies the embedding S
   </details>
 
 ## Gap or what is missing?
-<details>
-  <summary><strong>CoatRack | IoF2020 - ATB Institute for Applied Systems Technology Bremen and Corizon</strong></summary>
-  <div align="justify">CoatRack offers the visualisation of access statistics. However, there is no practical payment feature yet included, to avoid monetary issues and demands with respect to banking regulations. </div>
-
-</details>
 
 <details>
   <summary><strong>i4Trust</strong></summary>
