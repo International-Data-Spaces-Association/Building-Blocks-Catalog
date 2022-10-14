@@ -156,7 +156,7 @@
   - authentication/authorization of calls to your APIs via API keys
   - monetization of API calls, based on pay-per-call rules or flatrates
 
-This project is part of [FIWARE](https://www.fiware.org/).
+This project was started in the scope of [IoF2020](https://www.iof2020.eu/) and is now part of [FIWARE](https://www.fiware.org/).
 </details>
 
 <details>
@@ -266,6 +266,7 @@ LedgerUSelf is being evolved with SIOPv2 protocol (https://openid.net/specs/open
   
   - [CoatRack's webpage](https://coatrack.eu/)
   - [GitHub repository](https://github.com/coatrack/coatrack)
+  - [IoF2020 project webpage](https://www.iof2020.eu/)
 
 </details>
 
