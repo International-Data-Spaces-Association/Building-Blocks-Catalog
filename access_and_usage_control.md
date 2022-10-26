@@ -93,7 +93,7 @@
 </details>
 
 <details>
-  <summary><strong>IoF2020 - ATB Institute for Applied Systems Technology Bremen</strong></summary>
+  <summary><strong>CoatRack - IoF2020 | ATB Institute for Applied Systems Technology Bremen and Corizon</strong></summary>
   
   - CoatRack is a third-party backend-to-backend communications framework facilitating API access, monitoring and monetization. 
   - Open Source development, hosted in <a href="https://github.com/coatrack/coatrack">GitHub</a>.
@@ -148,7 +148,7 @@
   
 </details>
 <details>
-  <summary><strong>IoF2020 - ATB Institute for Applied Systems Technology Bremen</strong></summary>
+  <summary><strong>CoatRack - IoF2020 | ATB Institute for Applied Systems Technology Bremen and Corizon</strong></summary>
   <div align="justify"> <a href="https://coatrack.eu/">CoatRack</a> is a third-party backend-to-backend communications framework facilitating API access, monitoring and monetization. CoatRack is a framework to manage backend-to-backend communication via REST services, consisting of: distributed, lightweight API gateways and a centralized web application to generate and manage those API gateways.</div>
   
   CoatRack can facilitate your work if you have existing REST APIs and you want to do one (or more) of the following:
@@ -156,7 +156,7 @@
   - authentication/authorization of calls to your APIs via API keys
   - monetization of API calls, based on pay-per-call rules or flatrates
 
-This project is part of [FIWARE](https://www.fiware.org/).
+This project was started in the scope of [IoF2020](https://www.iof2020.eu/) and is now part of [FIWARE](https://www.fiware.org/).
 </details>
 
 <details>
@@ -215,7 +215,7 @@ The Ledger uSelf asset (used in KRAKEN project) provides a decentralized SSI sol
 
 ## Best practices identification and recommendations
 <details>
-  <summary><strong>IoF2020 - ATB Institute for Applied Systems Technology Bremen</strong></summary>
+  <summary><strong>CoatRack - IoF2020 | ATB Institute for Applied Systems Technology Bremen and Corizon</strong></summary>
   <div align="justify">CoatRack facilitates the monetisation by API access control and monitoring, without determining the data format of content exchanged as long as the services are based on REST calls.</div>
 
 </details>
@@ -238,11 +238,6 @@ The use of a SSI SDK already developed by Atos, which simplifies the embedding S
   </details>
 
 ## Gap or what is missing?
-<details>
-  <summary><strong>IoF2020 - ATB Institute for Applied Systems Technology Bremen</strong></summary>
-  <div align="justify">CoatRack offers the visualisation of access statistics. However, there is no practical payment feature yet included, to avoid monetary issues and demands with respect to banking regulations. </div>
-
-</details>
 
 <details>
   <summary><strong>i4Trust</strong></summary>
@@ -267,10 +262,11 @@ LedgerUSelf is being evolved with SIOPv2 protocol (https://openid.net/specs/open
 
 ## Additional Information
 <details>
-  <summary><strong>IoF2020 - ATB Institute for Applied Systems Technology Bremen</strong></summary>
+  <summary><strong>CoatRack - IoF2020 | ATB Institute for Applied Systems Technology Bremen and Corizon</strong></summary>
   
   - [CoatRack's webpage](https://coatrack.eu/)
   - [GitHub repository](https://github.com/coatrack/coatrack)
+  - [IoF2020 project webpage](https://www.iof2020.eu/)
 
 </details>
 
