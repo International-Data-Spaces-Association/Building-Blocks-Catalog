@@ -17,18 +17,6 @@
 
 ## Components and Technologies
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
-  
-- Integration with multiple DLTs using [FIWARE Canis Major](https://github.com/fiware/CanisMajor) component
-- [Infrastructural Sovereignty over Agreement and Transaction Data, figure 3 and 4](https://ris.utwente.nl/ws/portalfiles/portal/182217093/Infrastructural_Sovereignty_over_Agreement_and_Transaction_Data_.pdf)
-  
-  <img src="images/Provenance_Figure3.png" width="640" align="center"></br>
-  
-  <img src="images/Provenance_Figure4.png" width="640" align="center"></br>
-  
-</details>
-
-<details>
   <summary><strong>SmashHit project</strong></summary>
 - Encryption module with digital signature, hashing function, web framework, unique identifier generator, watermarking, fingerprinting.
 - Data use traceability component module.
