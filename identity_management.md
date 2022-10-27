@@ -28,52 +28,6 @@ Creation of federated and trusted identities in data spaces can be supported by 
 </details>
 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
-  
-  
-  **[TODO:] ASK FOR A DEFINITION OF LEVELS**
-  
-#### Level 1: Participant (organization, trusted party)
-- eIDAS
-- X.509
-- VC/VP (planned)
-- OpeniD/OAuth2 + iSHARE Satellite (current)
-- Verifiable Data Registry (planned)
-- OAuth2
-- Participant Information Service as extension to Meta Data Broker
-- OpenID Connect
-- DID
-- XACML variant by iSHARE (current)
-- TBD (planned)
-- XACML (recommended)
-- XACML
-- PEP-PDP-PAP
-
-#### Level 2: Container or application execution environment.
-(e.g. Connector)
-- X.509
-- DAT signed DAPS to coexist with VC/VP (planned)
-- DAT signed DAPS (Oauth2 based),to coexist with VC/VP (planned)
-- IDS ODRL-based to be reconciled with TBD (planned)
-- ODRL (For usage control)
-- Evolution of IDS Connector
-- ODRL based
-- PEP-PDP-PIP-PAP
-
-#### Level 3: Application context/Users (individuals)
-- User + password (current)
-- VC/VP (planned)
-- OpenID/OAuth2 (current)
-- Verifiable Data Registry (planned)
-- XACML variant by iSHARE (current)
-- TBD (planned)
-- ODRL (For usage control, applications), user behavior can be implemented regarding use case and environment.
-- XACML
-- PEP-PDP-PAP
-
-</details>
-
-<details>
   <summary><strong>i3-Market Project</strong></summary>
   
 User-centric Authentication.
