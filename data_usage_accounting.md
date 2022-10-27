@@ -7,7 +7,7 @@ Facilitates the basis for accounting access to and/or usage of data by different
 
 ## Features 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence </strong></summary>
   
 - Data Exchange and Usage Logging
 - Standard information model and supporting APIs for the implementation of usage accounting, clearing house and billing functions
