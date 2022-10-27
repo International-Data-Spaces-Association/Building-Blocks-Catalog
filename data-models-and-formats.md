@@ -23,7 +23,9 @@ It facilitates a common format for data model specifications and representation 
 </details>
 
 ## Components and Technologies
-<details>  
+<details>
+  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
+  
 - JSON-LD (amongst others, like RDF)
 - [Smart Data Models](https://github.com/smart-data-models)
 - Vocabulary Provider Component
