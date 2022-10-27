@@ -7,7 +7,7 @@
 
 ## Features 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
 - Data Asset description
 - Reuse of standards
@@ -18,7 +18,7 @@
 
 ## Components and Technologies
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
 - FIWARE: 
   - [TM Forum APIs specifications](https://projects.tmforum.org/wiki/display/API/Open+API+Table) (in the product description) or in CKAN in the dataset description
