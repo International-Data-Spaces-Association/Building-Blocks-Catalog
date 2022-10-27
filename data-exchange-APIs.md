@@ -12,7 +12,7 @@
 
 ## Features 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
 - Common API for exchange of digital twin data among participants, supporting: 
   - updates
