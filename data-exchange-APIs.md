@@ -29,19 +29,6 @@
 
 ## Components and Technologies
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
-  
-- [ETSI NGSI-LD API spec](https://www.etsi.org/deliver/etsi_gs/CIM/001_099/009/01.04.02_60/gs_CIM009v010402p.pdf)
-- DCAT-AP
-- [Context Broker](https://github.com/FIWARE/catalogue#core-context-broker-components)
-- IDS-Handshake
-- [OpenAPI](http://market40.eu/wp-content/uploads/MARKET4.0-OC1-winners-2nd-Webinar-OpenAPI-Data-Open.pdf)
-- EDC
-- Ocean Protocol
-  
-</details>
-
-<details>
   <summary><strong>i3-Market Project</strong></summary>
   
 - DCAT-AP
