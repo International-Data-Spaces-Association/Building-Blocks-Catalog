@@ -12,7 +12,7 @@
 
 ## Features 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
 - Common API for exchange of digital twin data among participants, supporting: 
   - updates
@@ -29,7 +29,7 @@
 
 ## Components and Technologies
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
 - [ETSI NGSI-LD API spec](https://www.etsi.org/deliver/etsi_gs/CIM/001_099/009/01.04.02_60/gs_CIM009v010402p.pdf)
 - DCAT-AP
