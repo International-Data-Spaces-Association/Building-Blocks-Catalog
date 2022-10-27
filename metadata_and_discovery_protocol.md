@@ -7,7 +7,7 @@
 
 ## Features 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence </strong></summary>
   
 - Data Asset description
 - Reuse of standards
