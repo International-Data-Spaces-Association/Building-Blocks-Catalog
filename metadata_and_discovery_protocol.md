@@ -16,53 +16,7 @@
 
 </details>
 
-## Components and Technologies
-<details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
-  
-- FIWARE: 
-  - [TM Forum APIs specifications](https://projects.tmforum.org/wiki/display/API/Open+API+Table) (in the product description) or in CKAN in the dataset description
-  - [W3C DCAT v2](https://www.w3.org/TR/vocab-dcat-2/)
-  - [DCAT-AP](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe) ([DCAT-AP 1.1](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe/release/11) → [DCAT-AP 2.0.0](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe/release/200))
-  - FIWARE [Idra](https://github.com/OPSILab/Idra) component, supporting federation with most popular data publication platforms (CKAN, SOCRATA, DKAN, etc)
-- IDSA: 
-  - [IDS Informodel](https://w3id.org/idsa/core)
-  - [ids](https://w3id.org/idsa/core)
-  - [idsm](https://w3id.org/idsa/metamodel)
-  - [code](https://w3id.org/idsa/code)
-  - [dcam](http://purl.org/dc/dcam)
-  - [ns](http://creativecommons.org/n)
-  - [owl](http://www.w3.org/2002/07/owl)
-  - [freq](http://purl.org/cld/freq)
-  - [xsd](http://www.w3.org/2001/XMLSchema)
-  - [schema-org](https://schema.org)
-  - [skos](http://www.w3.org/2004/02/skos/core)
-  - [rdfs](http://www.w3.org/2000/01/rdf-schema)
-  - [rfc3986](https://tools.ietf.org/html/rfc3986)
-  - [shacl](http://www.w3.org/ns/shacl)
-  - [docs](https://postgis.net/docs)
-  - [rfc7519](https://tools.ietf.org/html/rfc7519)
-  - [dcterms](http://purl.org/dc/terms)
-  - [wgs84](http://www.w3.org/2003/01/geo/wgs84_pos)
-  - [holdings](https://www.loc.gov/marc/holdings)
-  - [dcat](http://www.w3.org/ns/dcat)
-  - [locn](http://www.w3.org/ns/locn)
-  - [vann](http://purl.org/vocab/vann)
-  - [foaf](http://xmlns.com/foaf/0.1)
-  - [geonames](http://www.geonames.org/ontology)
-  - [spec-md](https://github.com/cloudevents/spec/blob/master/spec.md)
-  - [void](http://rdfs.org/ns/void)
-  - [org](http://www.w3.org/ns/org)
-  - [resource](http://dbpedia.org/resource)
-  - [resource](http://purl.org/vocommons/voaf)
-  - [url](https://www.gnu.org/software/emacs/manual/html_node/url)
-  - [geosparql](http://www.opengis.net/ont/geosparql)
-  - [rdf](http://www.w3.org/1999/02/22-rdf-syntax-ns)
-  - [time](http://www.w3.org/2006/time)
-  - [odrl](http://www.w3.org/ns/odrl/2)
-
-</details>
-  
+## Components and Technologies  
 <details>
   <summary><strong>i3-Market Project</strong></summary>
   
