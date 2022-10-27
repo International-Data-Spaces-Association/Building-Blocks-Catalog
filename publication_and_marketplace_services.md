@@ -19,19 +19,6 @@
   
 ## Components and Technologies
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
-  
-- FIWARE: 
-  - [TM Forum APIs specifications](https://projects.tmforum.org/wiki/display/API/Open+API+Table)
-  - [FIWARE Business API Ecosystem (BAE) Marketplace components](https://github.com/FIWARE-TMForum/Business-API-Ecosystem)
-  - [CKAN with extensions](https://fiware-ckan-extensions.readthedocs.io/en/latest/) to connect with BAE Marketplace functions
-  - Idra extensions planned to be developed during 2022
-- GAIA-X: Registry/Catalog
-- IDSA: Component IDS Meta Data Broker
-  
-</details>
-
-<details>
   <summary><strong>i3-Market Project</strong></summary>
   
 - DSA/DPA Smart Contract
