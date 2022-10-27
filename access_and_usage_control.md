@@ -37,32 +37,6 @@
 </details>
 
 ## Components and Technologies
-<details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
-  
-- Policy Enforcement based on XACML, extend with PXP for Usage Policy Enforcement.
-  
-  Policies for Access Control and Usage Control should be managed in a similar way and should base on the same policy language. Therefore, the execution environments of both parties (data provider and data consumer) have to include some relevant components:
-  
-    - PAP Policy Administration Point: User interface to administer policies.
-    - PDP Policy Decision Point: Evaluation of policies depending on context information.
-    - PEP Policy Enforcement Point: Modification of data based on evaluation of PDP.
-    - PIP Policy Information Point: Adding relevant context information (e.g. Scope, roles, attributes) to decide on policies, in distributed scenarios, e.g. Data Usage Policies, this could be a distributed /federated approach.
-      <details>
-        <summary>Detailed information about the PIP</summary>
-        The policy information point might provide identity and authentication related data for (a) organizations, (b) Application execution environments and (3) individuals (Level 1, Level 2, Level 3). And additional attributes that are required for policy decisions on the object (data or service) and environment attributes. See figure below (source: NIST  Special  Publication  800-162,Guide  to  Attribute  Based  Access Control  (ABAC)  Definition and Considerations):
-        <img src="images/Access_and_Usage_Details_PIP.png" width="640" align="center"></br>
-      </details>
-  
-    - PMP Policy Management Point: Provisioning of actual policies.
-    - PXP Policy Execution Point: Execution of activities from the policies _after_ data exchange and Enforcement of policies in PEP.
-  
-  <img src="images/Access_and_Usage_Policy_Enforcement_based_on_XACML.png" width="640" align="center"></br>
-  
-- IDSA: ODRL, XACML-oriented framework (PEP-PDP-PIP-PDP), Custom PAP
-- FIWARE: XACML-like (iSHARE  [delegation evidence data model](https://dev.ishareworks.org/delegation/delegation-evidence.html), JSON port of XACML) implemented in Keyrock, XACML-based PEP-PDP-PAM framework, API Umbrella is iSHARE-compliant ([github](https://github.com/i4Trust/building-blocks#integrating-building-blocks-for-the-creation-of-i4trust-data-spaces), [Tutorials](https://github.com/i4Trust/tutorials)), XACML-based implemented in Keyrock (with AuthZForce component ([ReadTheDocs](https://authzforce-ce-fiware.readthedocs.io/en/latest/)), DID/VC/VP, FIWARE TRUE Connector component based on the MyData Framework ([github](https://github.com/Engineering-Research-and-Development/fiware-true-connector)).
-  
-</details>
 
 <details>
   <summary><strong>i3-Market Project</strong></summary>
