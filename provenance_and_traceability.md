@@ -8,7 +8,7 @@
 
 ## Features 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
 - Audit-proof logging of data exchange transactions
 - Data Provenance Tracking
@@ -17,7 +17,7 @@
 
 ## Components and Technologies
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
 - Integration with multiple DLTs using [FIWARE Canis Major](https://github.com/fiware/CanisMajor) component
 - [Infrastructural Sovereignty over Agreement and Transaction Data, figure 3 and 4](https://ris.utwente.nl/ws/portalfiles/portal/182217093/Infrastructural_Sovereignty_over_Agreement_and_Transaction_Data_.pdf)
