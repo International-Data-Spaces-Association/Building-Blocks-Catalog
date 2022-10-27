@@ -7,7 +7,7 @@
 
 ## Features 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
   
 - Publication and Query
 - Standard information model and supporting APIs for the implementation of data marketplace services
@@ -19,7 +19,7 @@
   
 ## Components and Technologies
 <details>
-  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
   
 - FIWARE: 
   - [TM Forum APIs specifications](https://projects.tmforum.org/wiki/display/API/Open+API+Table)
