@@ -7,9 +7,9 @@
 <div allign="justify">Provides authentication and authorisation of data space participants.</div>
 
 ## Features 1
-**[TODO:] ASK FOR A DEFINITION OF FEATURES 1** 
+
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
 - Identification
 - Authentication
