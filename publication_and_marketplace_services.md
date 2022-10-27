@@ -7,7 +7,7 @@
 
 ## Features 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence </strong></summary>
   
 - Publication and Query
 - Standard information model and supporting APIs for the implementation of data marketplace services
