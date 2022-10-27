@@ -32,30 +32,6 @@ Go to the [source](http://open-source.i3-market.eu/technical-information/i3-mark
 
 ## Components and Technologies
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
- 
-- IDSA
-  - Certification for Base, Trust, Trust+ profiles
-  - Certification for Operational Environment and Components
-  - Remote Attestation as specified in RAM for Trust and Trust+ profiles
-  - Certification body and evaluation facilities
-  - eIDAS (planned)
-  - IDSA Open Source projects
-- Gaia-X 
-  - W3C VC (connected to Gaia-X labels and to Gaia-X Compliance(automated compliance checks))
-  - Chain of Trustees (Root: eIDAS + AISBL validation)
-  - eIDAS
-- FIWARE/iSHARE: 
-  - [iSHARE Satellite](https://dev.ishareworks.org/scheme-owner/parties.html) with strong contractual framework to provide multi IDP functionality Contributing a strong legal framework and is already operating
-  - Keyrock, which supports [eID](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eID) / [eIDAS](https://digital-strategy.ec.europa.eu/en/policies/eidas-regulation)
-  - Implemented by FIWARE Community: [FIWARE TRUE Connector](https://github.com/Engineering-Research-and-Development/true-connector)
-  - IDSA Open Source projects
-
-<img src="images/Trusted_Exchange_CTO.png" width="640" align="center"> </br>
-
-</details>
-
-<details>
   <summary><strong>i3-Market Project</strong></summary>
  
 - Tokenization
