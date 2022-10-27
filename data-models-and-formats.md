@@ -8,7 +8,7 @@ It facilitates a common format for data model specifications and representation 
 
 ## Features 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
 - Standardized  data format for exchange of messages
 - Common data Models agreed among participants
