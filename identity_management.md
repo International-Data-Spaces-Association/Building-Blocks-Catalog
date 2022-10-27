@@ -9,7 +9,7 @@
 ## Features 1
 **[TODO:] ASK FOR A DEFINITION OF FEATURES 1** 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
 - Identification
 - Authentication
@@ -28,7 +28,7 @@ Creation of federated and trusted identities in data spaces can be supported by 
 </details>
 
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
   
   **[TODO:] ASK FOR A DEFINITION OF LEVELS**
