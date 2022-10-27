@@ -24,15 +24,6 @@ It facilitates a common format for data model specifications and representation 
 
 ## Components and Technologies
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
-  
-- JSON-LD (amongst others, like RDF)
-- [Smart Data Models](https://github.com/smart-data-models)
-- Vocabulary Provider Component
-- The descriptions and more information in [IDS Infomodel](https://w3id.org/idsa/core). (RDF*, JSON-LD*, Linked Data Proofs, BBS+ Signatuores, ODLR, SHACL, Schema.org, ...)
-</details>
-
-<details>
   <summary><strong>i3-Market Project</strong></summary>
   
 - Semantic Engine
