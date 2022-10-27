@@ -67,9 +67,9 @@ User-centric Authentication.
 </details>
 
 ## Features 2
-**[TODO:] ASK FOR A DEFINITION OF FEATURES 2** 
+
 <details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
+  <summary><strong>DSBA - CTO architecture coherence</strong></summary>
   
 - Digital Identities and Authentication
 - Digital Identities
@@ -99,28 +99,7 @@ User-centric Authentication.
   
 Go to the [source](http://open-source.i3-market.eu/technical-information/i3-market-architecture/) for more detailed information.
 </details>
-  
-## Components and Technologies 2
-<details>
-  <summary><strong>DSBA - CTO architecture coherence [DRAFT. NOT APPROVED]</strong></summary>
-  
-#### Level 1: Participant (organization, trusted party)
-- W3C
-- Verifiable Credentials
-- X.509
-- PKI
-- CA
 
-#### Level 2: Participant Information Service
-- JWT
-
-#### Level 3: Application context/Users (individuals)
-- Keyrock IDM, which supports SSO [OpenID Connect](https://openid.net/connect/)/[OAuth2](https://oauth.net/2/), 2-FactorAuth and LDAP federation (currently)
-- DID/VC/VP integration into i4Trust architecture for BC assisted authorization (under design, [architecture](https://github.com/hesusruiz/PrivacyCredentials/blob/main/docs/architecture/privacy-architecture.md))
-
-<img src="images/Identity_Management_Components2.png" width="640" align="center"> </br>
-  
-</details>
 
 ## Technical Reference Implementation
 <details>
